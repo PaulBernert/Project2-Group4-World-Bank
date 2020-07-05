@@ -1,0 +1,40 @@
+.line {
+  fill: none;
+  stroke-width: 2px;
+}
+
+.red {
+  stroke: red;
+}
+
+.green {
+  stroke: green;
+}
+
+.navyblue {
+  stroke: navy	;
+}
+
+.gold {
+  stroke: gold
+}
+
+.gray {
+  stroke: gray;
+}
+
+.burlywood {
+  stroke: burlywood
+}
+
+.darkred {
+  stroke: darkred
+}
+
+.blue {
+  stroke: blue;
+}
+
+#legend {
+  float: right;
+}
