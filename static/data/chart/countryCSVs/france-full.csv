@@ -1,0 +1,485 @@
+﻿reporter_name,_year,trade_flow,product_group,_indicator,total_dollars,total_perc
+France,2008,Export,  All Products,Export (US$ Thousand),594504995,100
+France,2008,Export, Capital goods,Macro Export (US$ Thousand),198728664.4,33.4276
+France,2008,Export, Consumer goods,Macro Export (US$ Thousand),220020630.9,37.009
+France,2008,Export, Intermediate goods,Macro Export (US$ Thousand),126250363.6,21.2362
+France,2008,Export, Raw materials,Macro Export (US$ Thousand),35872161.42,6.034
+France,2008,Export,Other,Macro Export (US$ Thousand),13633174.74,2.2932
+France,2008,Export,Animal,Micro Export (US$ Thousand),16604440.92,2.793
+France,2008,Export,Chemicals,Micro Export (US$ Thousand),85657557.27,14.4082
+France,2008,Export,Food Products,Micro Export (US$ Thousand),33687632.28,5.6665
+France,2008,Export,Footwear,Micro Export (US$ Thousand),2404641.562,0.4045
+France,2008,Export,Fuels,Micro Export (US$ Thousand),30141398.26,5.07
+France,2008,Export,Hides and Skins,Micro Export (US$ Thousand),5440930.849,0.9152
+France,2008,Export,Mach and Elec,Micro Export (US$ Thousand),122962742.5,20.6832
+France,2008,Export,Metals,Micro Export (US$ Thousand),50960679.95,8.572
+France,2008,Export,Minerals,Micro Export (US$ Thousand),1575760.471,0.2651
+France,2008,Export,Miscellaneous,Micro Export (US$ Thousand),44499744.58,7.4852
+France,2008,Export,Plastic or Rubber,Micro Export (US$ Thousand),30204897.59,5.0807
+France,2008,Export,Stone and Glass,Micro Export (US$ Thousand),10807344.73,1.8179
+France,2008,Export,Textiles and Clothing,Micro Export (US$ Thousand),18287079.46,3.076
+France,2008,Export,Transportation,Micro Export (US$ Thousand),104890524,17.6433
+France,2008,Export,Vegetable,Micro Export (US$ Thousand),20645785.9,3.4728
+France,2008,Export,Wood,Micro Export (US$ Thousand),15733834.69,2.6465
+France,2008,Import,  All Products,Import (US$ Thousand),695004283.3,100
+France,2008,Import, Capital goods,Macro Import (US$ Thousand),174501529.3,25.108
+France,2008,Import, Consumer goods,Macro Import (US$ Thousand),270492164.1,38.9195
+France,2008,Import, Intermediate goods,Macro Import (US$ Thousand),154029783.2,22.1624
+France,2008,Import, Raw materials,Macro Import (US$ Thousand),95660070.62,13.764
+France,2008,Import,Other,Macro Import (US$ Thousand),320736.076,0.0461
+France,2008,Import,Animal,Micro Import (US$ Thousand),14365665.01,2.067
+France,2008,Import,Chemicals,Micro Import (US$ Thousand),73668924.89,10.5998
+France,2008,Import,Food Products,Micro Import (US$ Thousand),25671909.26,3.6938
+France,2008,Import,Footwear,Micro Import (US$ Thousand),6581286.066,0.9469
+France,2008,Import,Fuels,Micro Import (US$ Thousand),117496799,16.9059
+France,2008,Import,Hides and Skins,Micro Import (US$ Thousand),4149286.236,0.597
+France,2008,Import,Mach and Elec,Micro Import (US$ Thousand),141573776.1,20.3702
+France,2008,Import,Metals,Micro Import (US$ Thousand),58787684.22,8.4586
+France,2008,Import,Minerals,Micro Import (US$ Thousand),4313030.769,0.6206
+France,2008,Import,Miscellaneous,Micro Import (US$ Thousand),40065048.97,5.7647
+France,2008,Import,Plastic or Rubber,Micro Import (US$ Thousand),33383110.27,4.8033
+France,2008,Import,Stone and Glass,Micro Import (US$ Thousand),13436566.14,1.9333
+France,2008,Import,Textiles and Clothing,Micro Import (US$ Thousand),30950463.58,4.4533
+France,2008,Import,Transportation,Micro Import (US$ Thousand),89267839.23,12.8442
+France,2008,Import,Vegetable,Micro Import (US$ Thousand),18932143.45,2.724
+France,2008,Import,Wood,Micro Import (US$ Thousand),22360750.09,3.2174
+France,2009,Export,  All Products,Export (US$ Thousand),464112811,100
+France,2009,Export, Capital goods,Macro Export (US$ Thousand),154757384.7,33.3448
+France,2009,Export, Consumer goods,Macro Export (US$ Thousand),178213694,38.3988
+France,2009,Export, Intermediate goods,Macro Export (US$ Thousand),92664796.56,19.966
+France,2009,Export, Raw materials,Macro Export (US$ Thousand),26912954.16,5.7988
+France,2009,Export,Other,Macro Export (US$ Thousand),11563981.57,2.4916
+France,2009,Export,Animal,Micro Export (US$ Thousand),14433790.82,3.11
+France,2009,Export,Chemicals,Micro Export (US$ Thousand),75994035.44,16.374
+France,2009,Export,Food Products,Micro Export (US$ Thousand),29499407.77,6.3561
+France,2009,Export,Footwear,Micro Export (US$ Thousand),2155689.22,0.4645
+France,2009,Export,Fuels,Micro Export (US$ Thousand),16391838.83,3.5319
+France,2009,Export,Hides and Skins,Micro Export (US$ Thousand),4885992.159,1.0528
+France,2009,Export,Mach and Elec,Micro Export (US$ Thousand),94290455.5,20.3163
+France,2009,Export,Metals,Micro Export (US$ Thousand),32374117.15,6.9755
+France,2009,Export,Minerals,Micro Export (US$ Thousand),1070695.839,0.2307
+France,2009,Export,Miscellaneous,Micro Export (US$ Thousand),37794329.79,8.1433
+France,2009,Export,Plastic or Rubber,Micro Export (US$ Thousand),22571534.34,4.8634
+France,2009,Export,Stone and Glass,Micro Export (US$ Thousand),8427087.124,1.8157
+France,2009,Export,Textiles and Clothing,Micro Export (US$ Thousand),15004431.07,3.2329
+France,2009,Export,Transportation,Micro Export (US$ Thousand),80628745.94,17.3727
+France,2009,Export,Vegetable,Micro Export (US$ Thousand),15792011.65,3.4026
+France,2009,Export,Wood,Micro Export (US$ Thousand),12798648.35,2.7577
+France,2009,Import,  All Products,Import (US$ Thousand),540502282.9,100
+France,2009,Import, Capital goods,Macro Import (US$ Thousand),135518485,25.0727
+France,2009,Import, Consumer goods,Macro Import (US$ Thousand),228130862.9,42.2072
+France,2009,Import, Intermediate goods,Macro Import (US$ Thousand),116231789.8,21.5044
+France,2009,Import, Raw materials,Macro Import (US$ Thousand),60375336.61,11.1702
+France,2009,Import,Other,Macro Import (US$ Thousand),245808.528,0.0455
+France,2009,Import,Animal,Micro Import (US$ Thousand),13419978.03,2.4829
+France,2009,Import,Chemicals,Micro Import (US$ Thousand),66761032.98,12.3517
+France,2009,Import,Food Products,Micro Import (US$ Thousand),23768138.4,4.3974
+France,2009,Import,Footwear,Micro Import (US$ Thousand),6134345.729,1.1349
+France,2009,Import,Fuels,Micro Import (US$ Thousand),71975420.13,13.3164
+France,2009,Import,Hides and Skins,Micro Import (US$ Thousand),3433413.719,0.6352
+France,2009,Import,Mach and Elec,Micro Import (US$ Thousand),111647127,20.6562
+France,2009,Import,Metals,Micro Import (US$ Thousand),35819335.64,6.627
+France,2009,Import,Minerals,Micro Import (US$ Thousand),2568652.787,0.4752
+France,2009,Import,Miscellaneous,Micro Import (US$ Thousand),34778912.12,6.4346
+France,2009,Import,Plastic or Rubber,Micro Import (US$ Thousand),26229700.6,4.8528
+France,2009,Import,Stone and Glass,Micro Import (US$ Thousand),10648916.73,1.9702
+France,2009,Import,Textiles and Clothing,Micro Import (US$ Thousand),26947388.08,4.9856
+France,2009,Import,Transportation,Micro Import (US$ Thousand),71681771.49,13.2621
+France,2009,Import,Vegetable,Micro Import (US$ Thousand),16249733.25,3.0064
+France,2009,Import,Wood,Micro Import (US$ Thousand),18438416.21,3.4113
+France,2010,Export,  All Products,Export (US$ Thousand),511651042.7,100
+France,2010,Export, Capital goods,Macro Export (US$ Thousand),178586571,34.904
+France,2010,Export, Consumer goods,Macro Export (US$ Thousand),185224859.8,36.2014
+France,2010,Export, Intermediate goods,Macro Export (US$ Thousand),103770642.9,20.2815
+France,2010,Export, Raw materials,Macro Export (US$ Thousand),31438774.54,6.1446
+France,2010,Export,Other,Macro Export (US$ Thousand),12630194.5,2.4685
+France,2010,Export,Animal,Micro Export (US$ Thousand),14996427.77,2.931
+France,2010,Export,Chemicals,Micro Export (US$ Thousand),79095266.29,15.4588
+France,2010,Export,Food Products,Micro Export (US$ Thousand),31273654.73,6.1123
+France,2010,Export,Footwear,Micro Export (US$ Thousand),2353053.223,0.4599
+France,2010,Export,Fuels,Micro Export (US$ Thousand),18719104.68,3.6586
+France,2010,Export,Hides and Skins,Micro Export (US$ Thousand),5709090.646,1.1158
+France,2010,Export,Mach and Elec,Micro Export (US$ Thousand),101723571.5,19.8814
+France,2010,Export,Metals,Micro Export (US$ Thousand),38269907.26,7.4797
+France,2010,Export,Minerals,Micro Export (US$ Thousand),1271728.384,0.2486
+France,2010,Export,Miscellaneous,Micro Export (US$ Thousand),39698462.73,7.7589
+France,2010,Export,Plastic or Rubber,Micro Export (US$ Thousand),25444335.72,4.973
+France,2010,Export,Stone and Glass,Micro Export (US$ Thousand),9910806.655,1.937
+France,2010,Export,Textiles and Clothing,Micro Export (US$ Thousand),15062985.5,2.944
+France,2010,Export,Transportation,Micro Export (US$ Thousand),97616497.89,19.0787
+France,2010,Export,Vegetable,Micro Export (US$ Thousand),17203153.67,3.3623
+France,2010,Export,Wood,Micro Export (US$ Thousand),13302996.1,2.6
+France,2010,Import,  All Products,Import (US$ Thousand),599171506.1,100
+France,2010,Import, Capital goods,Macro Import (US$ Thousand),156871317,26.1814
+France,2010,Import, Consumer goods,Macro Import (US$ Thousand),242022963.4,40.3929
+France,2010,Import, Intermediate goods,Macro Import (US$ Thousand),131983683.9,22.0277
+France,2010,Import, Raw materials,Macro Import (US$ Thousand),67998568.98,11.3488
+France,2010,Import,Other,Macro Import (US$ Thousand),294972.848,0.0492
+France,2010,Import,Animal,Micro Import (US$ Thousand),14073131.32,2.3488
+France,2010,Import,Chemicals,Micro Import (US$ Thousand),70713372.81,11.8019
+France,2010,Import,Food Products,Micro Import (US$ Thousand),23306827.35,3.8898
+France,2010,Import,Footwear,Micro Import (US$ Thousand),6666597.997,1.1126
+France,2010,Import,Fuels,Micro Import (US$ Thousand),82758894.9,13.8122
+France,2010,Import,Hides and Skins,Micro Import (US$ Thousand),3891320.625,0.6495
+France,2010,Import,Mach and Elec,Micro Import (US$ Thousand),123272138.2,20.5738
+France,2010,Import,Metals,Micro Import (US$ Thousand),43672067.14,7.2887
+France,2010,Import,Minerals,Micro Import (US$ Thousand),3871199.892,0.6461
+France,2010,Import,Miscellaneous,Micro Import (US$ Thousand),37821420.54,6.3123
+France,2010,Import,Plastic or Rubber,Micro Import (US$ Thousand),30534253.01,5.0961
+France,2010,Import,Stone and Glass,Micro Import (US$ Thousand),12133657,2.0251
+France,2010,Import,Textiles and Clothing,Micro Import (US$ Thousand),28039630.7,4.6797
+France,2010,Import,Transportation,Micro Import (US$ Thousand),82376145.01,13.7483
+France,2010,Import,Vegetable,Micro Import (US$ Thousand),16765329.15,2.7981
+France,2010,Import,Wood,Micro Import (US$ Thousand),19275520.5,3.217
+France,2011,Export,  All Products,Export (US$ Thousand),585723823.8,100
+France,2011,Export, Capital goods,Macro Export (US$ Thousand),198094040,33.8204
+France,2011,Export, Consumer goods,Macro Export (US$ Thousand),211695245.1,36.1425
+France,2011,Export, Intermediate goods,Macro Export (US$ Thousand),121478167.3,20.7398
+France,2011,Export, Raw materials,Macro Export (US$ Thousand),39468869.37,6.7385
+France,2011,Export,Other,Macro Export (US$ Thousand),14987502.04,2.5588
+France,2011,Export,Animal,Micro Export (US$ Thousand),17478576.94,2.9841
+France,2011,Export,Chemicals,Micro Export (US$ Thousand),85866235.29,14.6599
+France,2011,Export,Food Products,Micro Export (US$ Thousand),36498497.22,6.2313
+France,2011,Export,Footwear,Micro Export (US$ Thousand),2892661.186,0.4939
+France,2011,Export,Fuels,Micro Export (US$ Thousand),26614809.93,4.5439
+France,2011,Export,Hides and Skins,Micro Export (US$ Thousand),7352497.174,1.2553
+France,2011,Export,Mach and Elec,Micro Export (US$ Thousand),113865720.4,19.4402
+France,2011,Export,Metals,Micro Export (US$ Thousand),44903829.19,7.6664
+France,2011,Export,Minerals,Micro Export (US$ Thousand),1389166.166,0.2372
+France,2011,Export,Miscellaneous,Micro Export (US$ Thousand),45152477.73,7.7088
+France,2011,Export,Plastic or Rubber,Micro Export (US$ Thousand),29834082.03,5.0935
+France,2011,Export,Stone and Glass,Micro Export (US$ Thousand),13176697.65,2.2496
+France,2011,Export,Textiles and Clothing,Micro Export (US$ Thousand),16511312.11,2.819
+France,2011,Export,Transportation,Micro Export (US$ Thousand),106678216.1,18.2131
+France,2011,Export,Vegetable,Micro Export (US$ Thousand),22911115.23,3.9116
+France,2011,Export,Wood,Micro Export (US$ Thousand),14597929.41,2.4923
+France,2011,Import,  All Products,Import (US$ Thousand),713675253.8,100
+France,2011,Import, Capital goods,Macro Import (US$ Thousand),184477079.7,25.8489
+France,2011,Import, Consumer goods,Macro Import (US$ Thousand),283551225.3,39.7311
+France,2011,Import, Intermediate goods,Macro Import (US$ Thousand),155285141.4,21.7585
+France,2011,Import, Raw materials,Macro Import (US$ Thousand),89720069.7,12.5716
+France,2011,Import,Other,Macro Import (US$ Thousand),641737.679,0.0899
+France,2011,Import,Animal,Micro Import (US$ Thousand),16029343.55,2.246
+France,2011,Import,Chemicals,Micro Import (US$ Thousand),81602157.38,11.4341
+France,2011,Import,Food Products,Micro Import (US$ Thousand),27068382.69,3.7928
+France,2011,Import,Footwear,Micro Import (US$ Thousand),7642116.274,1.0708
+France,2011,Import,Fuels,Micro Import (US$ Thousand),114983711.1,16.1115
+France,2011,Import,Hides and Skins,Micro Import (US$ Thousand),5008015.284,0.7017
+France,2011,Import,Mach and Elec,Micro Import (US$ Thousand),141493863.6,19.8261
+France,2011,Import,Metals,Micro Import (US$ Thousand),53446307.44,7.4889
+France,2011,Import,Minerals,Micro Import (US$ Thousand),4569144.464,0.6402
+France,2011,Import,Miscellaneous,Micro Import (US$ Thousand),42395430.6,5.9404
+France,2011,Import,Plastic or Rubber,Micro Import (US$ Thousand),35847535.28,5.0229
+France,2011,Import,Stone and Glass,Micro Import (US$ Thousand),14475381.91,2.0283
+France,2011,Import,Textiles and Clothing,Micro Import (US$ Thousand),31876467.69,4.4665
+France,2011,Import,Transportation,Micro Import (US$ Thousand),96449272.52,13.5144
+France,2011,Import,Vegetable,Micro Import (US$ Thousand),19366788.52,2.7137
+France,2011,Import,Wood,Micro Import (US$ Thousand),21421335.48,3.0016
+France,2012,Export,  All Products,Export (US$ Thousand),558460545.5,100
+France,2012,Export, Capital goods,Macro Export (US$ Thousand),193751795.1,34.6939
+France,2012,Export, Consumer goods,Macro Export (US$ Thousand),203366962.7,36.4156
+France,2012,Export, Intermediate goods,Macro Export (US$ Thousand),112155826.2,20.083
+France,2012,Export, Raw materials,Macro Export (US$ Thousand),35140027.8,6.2923
+France,2012,Export,Other,Macro Export (US$ Thousand),14045933.68,2.5152
+France,2012,Export,Animal,Micro Export (US$ Thousand),16468853.57,2.949
+France,2012,Export,Chemicals,Micro Export (US$ Thousand),84041454.84,15.0488
+France,2012,Export,Food Products,Micro Export (US$ Thousand),36390802.75,6.5163
+France,2012,Export,Footwear,Micro Export (US$ Thousand),2958959.618,0.5298
+France,2012,Export,Fuels,Micro Export (US$ Thousand),24837497.75,4.4475
+France,2012,Export,Hides and Skins,Micro Export (US$ Thousand),7637536.605,1.3676
+France,2012,Export,Mach and Elec,Micro Export (US$ Thousand),108270118.4,19.3872
+France,2012,Export,Metals,Micro Export (US$ Thousand),39505633.3,7.074
+France,2012,Export,Minerals,Micro Export (US$ Thousand),1357451.974,0.2431
+France,2012,Export,Miscellaneous,Micro Export (US$ Thousand),42984695.42,7.697
+France,2012,Export,Plastic or Rubber,Micro Export (US$ Thousand),27650658.84,4.9512
+France,2012,Export,Stone and Glass,Micro Export (US$ Thousand),13127241.67,2.3506
+France,2012,Export,Textiles and Clothing,Micro Export (US$ Thousand),15040980.65,2.6933
+France,2012,Export,Transportation,Micro Export (US$ Thousand),105272661.8,18.8505
+France,2012,Export,Vegetable,Micro Export (US$ Thousand),19945422.98,3.5715
+France,2012,Export,Wood,Micro Export (US$ Thousand),12970575.29,2.3226
+France,2012,Import,  All Products,Import (US$ Thousand),666675231,100
+France,2012,Import, Capital goods,Macro Import (US$ Thousand),169649462.2,25.4471
+France,2012,Import, Consumer goods,Macro Import (US$ Thousand),270002789.8,40.4999
+France,2012,Import, Intermediate goods,Macro Import (US$ Thousand),144216356.1,21.6322
+France,2012,Import, Raw materials,Macro Import (US$ Thousand),82307455.82,12.346
+France,2012,Import,Other,Macro Import (US$ Thousand),499167.005,0.0748
+France,2012,Import,Animal,Micro Import (US$ Thousand),15152783.32,2.2729
+France,2012,Import,Chemicals,Micro Import (US$ Thousand),79299518.12,11.8948
+France,2012,Import,Food Products,Micro Import (US$ Thousand),25975167.4,3.8962
+France,2012,Import,Footwear,Micro Import (US$ Thousand),7217979.291,1.0827
+France,2012,Import,Fuels,Micro Import (US$ Thousand),115238292.1,17.2855
+France,2012,Import,Hides and Skins,Micro Import (US$ Thousand),5248382.278,0.7872
+France,2012,Import,Mach and Elec,Micro Import (US$ Thousand),128019993.6,19.2028
+France,2012,Import,Metals,Micro Import (US$ Thousand),45440081.29,6.8159
+France,2012,Import,Minerals,Micro Import (US$ Thousand),3972042.556,0.5958
+France,2012,Import,Miscellaneous,Micro Import (US$ Thousand),40021033.1,6.0031
+France,2012,Import,Plastic or Rubber,Micro Import (US$ Thousand),32623518.67,4.8935
+France,2012,Import,Stone and Glass,Micro Import (US$ Thousand),14066246.6,2.1099
+France,2012,Import,Textiles and Clothing,Micro Import (US$ Thousand),28368522.69,4.2552
+France,2012,Import,Transportation,Micro Import (US$ Thousand),88504363.44,13.2755
+France,2012,Import,Vegetable,Micro Import (US$ Thousand),18496812.98,2.7745
+France,2012,Import,Wood,Micro Import (US$ Thousand),19030493.52,2.8545
+France,2013,Export,  All Products,Export (US$ Thousand),567987697.5,100
+France,2013,Export, Capital goods,Macro Export (US$ Thousand),198538762.8,34.9548
+France,2013,Export, Consumer goods,Macro Export (US$ Thousand),205537258.5,36.1869
+France,2013,Export, Intermediate goods,Macro Export (US$ Thousand),113178844.6,19.9263
+France,2013,Export, Raw materials,Macro Export (US$ Thousand),36860108.51,6.4896
+France,2013,Export,Other,Macro Export (US$ Thousand),13872723.13,2.4424
+France,2013,Export,Animal,Micro Export (US$ Thousand),17123440.72,3.0148
+France,2013,Export,Chemicals,Micro Export (US$ Thousand),86954183.95,15.3092
+France,2013,Export,Food Products,Micro Export (US$ Thousand),37650480.78,6.6287
+France,2013,Export,Footwear,Micro Export (US$ Thousand),3232333.967,0.5691
+France,2013,Export,Fuels,Micro Export (US$ Thousand),22238996.66,3.9154
+France,2013,Export,Hides and Skins,Micro Export (US$ Thousand),7925663.321,1.3954
+France,2013,Export,Mach and Elec,Micro Export (US$ Thousand),109314556.8,19.2459
+France,2013,Export,Metals,Micro Export (US$ Thousand),38502506.29,6.7788
+France,2013,Export,Minerals,Micro Export (US$ Thousand),1421109.287,0.2502
+France,2013,Export,Miscellaneous,Micro Export (US$ Thousand),44276652.1,7.7954
+France,2013,Export,Plastic or Rubber,Micro Export (US$ Thousand),28369937.39,4.9948
+France,2013,Export,Stone and Glass,Micro Export (US$ Thousand),12709168.48,2.2376
+France,2013,Export,Textiles and Clothing,Micro Export (US$ Thousand),15853739.39,2.7912
+France,2013,Export,Transportation,Micro Export (US$ Thousand),106793395,18.8021
+France,2013,Export,Vegetable,Micro Export (US$ Thousand),22544312.33,3.9692
+France,2013,Export,Wood,Micro Export (US$ Thousand),13077221.09,2.3024
+France,2013,Import,  All Products,Import (US$ Thousand),671253553.3,100
+France,2013,Import, Capital goods,Macro Import (US$ Thousand),172554893.5,25.7064
+France,2013,Import, Consumer goods,Macro Import (US$ Thousand),272937804,40.6609
+France,2013,Import, Intermediate goods,Macro Import (US$ Thousand),143817613.9,21.4252
+France,2013,Import, Raw materials,Macro Import (US$ Thousand),81488675.88,12.1398
+France,2013,Import,Other,Macro Import (US$ Thousand),454566.081,0.0677
+France,2013,Import,Animal,Micro Import (US$ Thousand),16388208.7,2.4414
+France,2013,Import,Chemicals,Micro Import (US$ Thousand),77940247.89,11.6111
+France,2013,Import,Food Products,Micro Import (US$ Thousand),27600767.09,4.1118
+France,2013,Import,Footwear,Micro Import (US$ Thousand),7772128.821,1.1579
+France,2013,Import,Fuels,Micro Import (US$ Thousand),110531862.3,16.4665
+France,2013,Import,Hides and Skins,Micro Import (US$ Thousand),5267651.834,0.7847
+France,2013,Import,Mach and Elec,Micro Import (US$ Thousand),130638291.5,19.4618
+France,2013,Import,Metals,Micro Import (US$ Thousand),44800264.24,6.6741
+France,2013,Import,Minerals,Micro Import (US$ Thousand),3963166.639,0.5904
+France,2013,Import,Miscellaneous,Micro Import (US$ Thousand),40272674.36,5.9996
+France,2013,Import,Plastic or Rubber,Micro Import (US$ Thousand),33375351.93,4.9721
+France,2013,Import,Stone and Glass,Micro Import (US$ Thousand),14541037.56,2.1663
+France,2013,Import,Textiles and Clothing,Micro Import (US$ Thousand),29767701.48,4.4346
+France,2013,Import,Transportation,Micro Import (US$ Thousand),89063795.43,13.2683
+France,2013,Import,Vegetable,Micro Import (US$ Thousand),20374660.56,3.0353
+France,2013,Import,Wood,Micro Import (US$ Thousand),18955742.95,2.8239
+France,2014,Export,  All Products,Export (US$ Thousand),566656165.4,100
+France,2014,Export, Capital goods,Macro Export (US$ Thousand),198169006.1,34.9716
+France,2014,Export, Consumer goods,Macro Export (US$ Thousand),206241830.9,36.3963
+France,2014,Export, Intermediate goods,Macro Export (US$ Thousand),114048202.8,20.1265
+France,2014,Export, Raw materials,Macro Export (US$ Thousand),34036503.42,6.0066
+France,2014,Export,Other,Macro Export (US$ Thousand),14160622.14,2.499
+France,2014,Export,Animal,Micro Export (US$ Thousand),17133315.77,3.0236
+France,2014,Export,Chemicals,Micro Export (US$ Thousand),85752396.67,15.1331
+France,2014,Export,Food Products,Micro Export (US$ Thousand),37323591.96,6.5866
+France,2014,Export,Footwear,Micro Export (US$ Thousand),3553988.105,0.6272
+France,2014,Export,Fuels,Micro Export (US$ Thousand),21985879.27,3.8799
+France,2014,Export,Hides and Skins,Micro Export (US$ Thousand),7974389.034,1.4073
+France,2014,Export,Mach and Elec,Micro Export (US$ Thousand),109560017.6,19.3345
+France,2014,Export,Metals,Micro Export (US$ Thousand),38906529.95,6.866
+France,2014,Export,Minerals,Micro Export (US$ Thousand),1334127.942,0.2354
+France,2014,Export,Miscellaneous,Micro Export (US$ Thousand),44370953.56,7.8303
+France,2014,Export,Plastic or Rubber,Micro Export (US$ Thousand),28616775.39,5.0501
+France,2014,Export,Stone and Glass,Micro Export (US$ Thousand),13028942.73,2.2993
+France,2014,Export,Textiles and Clothing,Micro Export (US$ Thousand),16512317.57,2.914
+France,2014,Export,Transportation,Micro Export (US$ Thousand),107606877.6,18.9898
+France,2014,Export,Vegetable,Micro Export (US$ Thousand),19964726.06,3.5233
+France,2014,Export,Wood,Micro Export (US$ Thousand),13031336.18,2.2997
+France,2014,Import,  All Products,Import (US$ Thousand),659872076.4,100
+France,2014,Import, Capital goods,Macro Import (US$ Thousand),170636939.6,25.8591
+France,2014,Import, Consumer goods,Macro Import (US$ Thousand),271746048.6,41.1816
+France,2014,Import, Intermediate goods,Macro Import (US$ Thousand),143546332.6,21.7537
+France,2014,Import, Raw materials,Macro Import (US$ Thousand),73480505.04,11.1356
+France,2014,Import,Other,Macro Import (US$ Thousand),462250.503,0.07
+France,2014,Import,Animal,Micro Import (US$ Thousand),16503029.4,2.5009
+France,2014,Import,Chemicals,Micro Import (US$ Thousand),78179201.3,11.8476
+France,2014,Import,Food Products,Micro Import (US$ Thousand),27889062.8,4.2264
+France,2014,Import,Footwear,Micro Import (US$ Thousand),8466541.872,1.2831
+France,2014,Import,Fuels,Micro Import (US$ Thousand),96195930.85,14.578
+France,2014,Import,Hides and Skins,Micro Import (US$ Thousand),5560761.525,0.8427
+France,2014,Import,Mach and Elec,Micro Import (US$ Thousand),129916970.7,19.6882
+France,2014,Import,Metals,Micro Import (US$ Thousand),44295168.94,6.7127
+France,2014,Import,Minerals,Micro Import (US$ Thousand),3665518.335,0.5555
+France,2014,Import,Miscellaneous,Micro Import (US$ Thousand),41590323.65,6.3028
+France,2014,Import,Plastic or Rubber,Micro Import (US$ Thousand),33079900.29,5.0131
+France,2014,Import,Stone and Glass,Micro Import (US$ Thousand),15281937.61,2.3159
+France,2014,Import,Textiles and Clothing,Micro Import (US$ Thousand),31179860.41,4.7251
+France,2014,Import,Transportation,Micro Import (US$ Thousand),89702136.15,13.5939
+France,2014,Import,Vegetable,Micro Import (US$ Thousand),19761971.95,2.9948
+France,2014,Import,Wood,Micro Import (US$ Thousand),18603760.58,2.8193
+France,2015,Export,  All Products,Export (US$ Thousand),493941214.2,100
+France,2015,Export, Capital goods,Macro Export (US$ Thousand),177987445.6,36.0341
+France,2015,Export, Consumer goods,Macro Export (US$ Thousand),179449534.1,36.3301
+France,2015,Export, Intermediate goods,Macro Export (US$ Thousand),95650378.51,19.3647
+France,2015,Export, Raw materials,Macro Export (US$ Thousand),28761486.96,5.8229
+France,2015,Export,Other,Macro Export (US$ Thousand),12092368.98,2.4482
+France,2015,Export,Animal,Micro Export (US$ Thousand),14118904.16,2.8584
+France,2015,Export,Chemicals,Micro Export (US$ Thousand),73514732.57,14.8833
+France,2015,Export,Food Products,Micro Export (US$ Thousand),33044269.27,6.6899
+France,2015,Export,Footwear,Micro Export (US$ Thousand),3466610.087,0.7018
+France,2015,Export,Fuels,Micro Export (US$ Thousand),14599734.13,2.9558
+France,2015,Export,Hides and Skins,Micro Export (US$ Thousand),7193845.631,1.4564
+France,2015,Export,Mach and Elec,Micro Export (US$ Thousand),95640720.77,19.3628
+France,2015,Export,Metals,Micro Export (US$ Thousand),32139014.16,6.5066
+France,2015,Export,Minerals,Micro Export (US$ Thousand),1058669.708,0.2143
+France,2015,Export,Miscellaneous,Micro Export (US$ Thousand),39054808.34,7.9068
+France,2015,Export,Plastic or Rubber,Micro Export (US$ Thousand),24250954.14,4.9097
+France,2015,Export,Stone and Glass,Micro Export (US$ Thousand),12052132.18,2.44
+France,2015,Export,Textiles and Clothing,Micro Export (US$ Thousand),14752247.65,2.9866
+France,2015,Export,Transportation,Micro Export (US$ Thousand),100334340.8,20.313
+France,2015,Export,Vegetable,Micro Export (US$ Thousand),17565158.15,3.5561
+France,2015,Export,Wood,Micro Export (US$ Thousand),11155072.52,2.2584
+France,2015,Import,  All Products,Import (US$ Thousand),563398247.6,100
+France,2015,Import, Capital goods,Macro Import (US$ Thousand),154402093,27.4055
+France,2015,Import, Consumer goods,Macro Import (US$ Thousand),230419350.5,40.8981
+France,2015,Import, Intermediate goods,Macro Import (US$ Thousand),125774074.5,22.3242
+France,2015,Import, Raw materials,Macro Import (US$ Thousand),52413423.1,9.3031
+France,2015,Import,Other,Macro Import (US$ Thousand),389306.396,0.0691
+France,2015,Import,Animal,Micro Import (US$ Thousand),13579474.77,2.4103
+France,2015,Import,Chemicals,Micro Import (US$ Thousand),65691221.59,11.6598
+France,2015,Import,Food Products,Micro Import (US$ Thousand),24405036.3,4.3318
+France,2015,Import,Footwear,Micro Import (US$ Thousand),7837425.846,1.3911
+France,2015,Import,Fuels,Micro Import (US$ Thousand),59620253.84,10.5823
+France,2015,Import,Hides and Skins,Micro Import (US$ Thousand),4989688.776,0.8856
+France,2015,Import,Mach and Elec,Micro Import (US$ Thousand),117140706.5,20.7918
+France,2015,Import,Metals,Micro Import (US$ Thousand),37944191.66,6.7349
+France,2015,Import,Minerals,Micro Import (US$ Thousand),2582806.878,0.4584
+France,2015,Import,Miscellaneous,Micro Import (US$ Thousand),37965051.6,6.7386
+France,2015,Import,Plastic or Rubber,Micro Import (US$ Thousand),28556164.1,5.0686
+France,2015,Import,Stone and Glass,Micro Import (US$ Thousand),13842468.23,2.457
+France,2015,Import,Textiles and Clothing,Micro Import (US$ Thousand),28281850.49,5.0199
+France,2015,Import,Transportation,Micro Import (US$ Thousand),86881915.5,15.421
+France,2015,Import,Vegetable,Micro Import (US$ Thousand),18107770.42,3.214
+France,2015,Import,Wood,Micro Import (US$ Thousand),15972221.06,2.835
+France,2016,Export,  All Products,Export (US$ Thousand),488885072.4,100
+France,2016,Export, Capital goods,Macro Export (US$ Thousand),179564132.7,36.7293
+France,2016,Export, Consumer goods,Macro Export (US$ Thousand),179769998.8,36.7714
+France,2016,Export, Intermediate goods,Macro Export (US$ Thousand),91118315.52,18.638
+France,2016,Export, Raw materials,Macro Export (US$ Thousand),26503267.91,5.4212
+France,2016,Export,Other,Macro Export (US$ Thousand),11929357.5,2.4401
+France,2016,Export,Animal,Micro Export (US$ Thousand),13606778.39,2.7832
+France,2016,Export,Chemicals,Micro Export (US$ Thousand),72792694.24,14.8895
+France,2016,Export,Food Products,Micro Export (US$ Thousand),33132343.51,6.7771
+France,2016,Export,Footwear,Micro Export (US$ Thousand),3705461.935,0.7579
+France,2016,Export,Fuels,Micro Export (US$ Thousand),11284670.54,2.3082
+France,2016,Export,Hides and Skins,Micro Export (US$ Thousand),7591247.467,1.5528
+France,2016,Export,Mach and Elec,Micro Export (US$ Thousand),95512808.49,19.5369
+France,2016,Export,Metals,Micro Export (US$ Thousand),29571967.23,6.0489
+France,2016,Export,Minerals,Micro Export (US$ Thousand),1073809.494,0.2196
+France,2016,Export,Miscellaneous,Micro Export (US$ Thousand),39495918.83,8.0788
+France,2016,Export,Plastic or Rubber,Micro Export (US$ Thousand),23816614.27,4.8716
+France,2016,Export,Stone and Glass,Micro Export (US$ Thousand),12399357.75,2.5363
+France,2016,Export,Textiles and Clothing,Micro Export (US$ Thousand),14955863.97,3.0592
+France,2016,Export,Transportation,Micro Export (US$ Thousand),102599985,20.9865
+France,2016,Export,Vegetable,Micro Export (US$ Thousand),16279121.43,3.3298
+France,2016,Export,Wood,Micro Export (US$ Thousand),11066429.92,2.2636
+France,2016,Import,  All Products,Import (US$ Thousand),560554862.7,100
+France,2016,Import, Capital goods,Macro Import (US$ Thousand),159408149.8,28.4376
+France,2016,Import, Consumer goods,Macro Import (US$ Thousand),228492699.1,40.7619
+France,2016,Import, Intermediate goods,Macro Import (US$ Thousand),124746477.5,22.2541
+France,2016,Import, Raw materials,Macro Import (US$ Thousand),47425326.6,8.4604
+France,2016,Import,Other,Macro Import (US$ Thousand),482209.652,0.086
+France,2016,Import,Animal,Micro Import (US$ Thousand),13652467.88,2.4355
+France,2016,Import,Chemicals,Micro Import (US$ Thousand),63682127.57,11.3606
+France,2016,Import,Food Products,Micro Import (US$ Thousand),25080267.72,4.4742
+France,2016,Import,Footwear,Micro Import (US$ Thousand),8133487.032,1.451
+France,2016,Import,Fuels,Micro Import (US$ Thousand),47087631.14,8.4002
+France,2016,Import,Hides and Skins,Micro Import (US$ Thousand),5054190.318,0.9016
+France,2016,Import,Mach and Elec,Micro Import (US$ Thousand),119839890.6,21.3788
+France,2016,Import,Metals,Micro Import (US$ Thousand),35995905.95,6.4215
+France,2016,Import,Minerals,Micro Import (US$ Thousand),2370909.687,0.423
+France,2016,Import,Miscellaneous,Micro Import (US$ Thousand),38906795.7,6.9408
+France,2016,Import,Plastic or Rubber,Micro Import (US$ Thousand),28428564.15,5.0715
+France,2016,Import,Stone and Glass,Micro Import (US$ Thousand),14104969.98,2.5163
+France,2016,Import,Textiles and Clothing,Micro Import (US$ Thousand),28269789.51,5.0432
+France,2016,Import,Transportation,Micro Import (US$ Thousand),94854759.68,16.9216
+France,2016,Import,Vegetable,Micro Import (US$ Thousand),19142095.46,3.4148
+France,2016,Import,Wood,Micro Import (US$ Thousand),15951010.29,2.8456
+France,2017,Export,  All Products,Export (US$ Thousand),523385133.3,100
+France,2017,Export, Capital goods,Macro Export (US$ Thousand),184407917.9,35.2337
+France,2017,Export, Consumer goods,Macro Export (US$ Thousand),198186572.9,37.8663
+France,2017,Export, Intermediate goods,Macro Export (US$ Thousand),100482466.8,19.1986
+France,2017,Export, Raw materials,Macro Export (US$ Thousand),27630883.18,5.2793
+France,2017,Export,Other,Macro Export (US$ Thousand),12677292.49,2.4221
+France,2017,Export,Animal,Micro Export (US$ Thousand),14471866.3,2.7651
+France,2017,Export,Chemicals,Micro Export (US$ Thousand),79049983.75,15.1036
+France,2017,Export,Food Products,Micro Export (US$ Thousand),37289221.4,7.1246
+France,2017,Export,Footwear,Micro Export (US$ Thousand),4053578.461,0.7745
+France,2017,Export,Fuels,Micro Export (US$ Thousand),14663206.99,2.8016
+France,2017,Export,Hides and Skins,Micro Export (US$ Thousand),8330644.939,1.5917
+France,2017,Export,Mach and Elec,Micro Export (US$ Thousand),101673214.1,19.4261
+France,2017,Export,Metals,Micro Export (US$ Thousand),36471637.16,6.9684
+France,2017,Export,Minerals,Micro Export (US$ Thousand),1392897.282,0.2661
+France,2017,Export,Miscellaneous,Micro Export (US$ Thousand),34950124.38,6.6777
+France,2017,Export,Plastic or Rubber,Micro Export (US$ Thousand),28053200.02,5.36
+France,2017,Export,Stone and Glass,Micro Export (US$ Thousand),13178090.31,2.5179
+France,2017,Export,Textiles and Clothing,Micro Export (US$ Thousand),15764017.12,3.0119
+France,2017,Export,Transportation,Micro Export (US$ Thousand),105399312.2,20.138
+France,2017,Export,Vegetable,Micro Export (US$ Thousand),16702195.96,3.1912
+France,2017,Export,Wood,Micro Export (US$ Thousand),11941942.86,2.2817
+France,2017,Import,  All Products,Import (US$ Thousand),613132639.7,100
+France,2017,Import, Capital goods,Macro Import (US$ Thousand),176295603.9,28.7533
+France,2017,Import, Consumer goods,Macro Import (US$ Thousand),247537187.9,40.3725
+France,2017,Import, Intermediate goods,Macro Import (US$ Thousand),131543847.2,21.4544
+France,2017,Import, Raw materials,Macro Import (US$ Thousand),57097800.89,9.3125
+France,2017,Import,Other,Macro Import (US$ Thousand),658199.856,0.1073
+France,2017,Import,Animal,Micro Import (US$ Thousand),15023035.57,2.4502
+France,2017,Import,Chemicals,Micro Import (US$ Thousand),68399839.9,11.1558
+France,2017,Import,Food Products,Micro Import (US$ Thousand),26826329.92,4.3753
+France,2017,Import,Footwear,Micro Import (US$ Thousand),8749376.318,1.427
+France,2017,Import,Fuels,Micro Import (US$ Thousand),59727484.2,9.7414
+France,2017,Import,Hides and Skins,Micro Import (US$ Thousand),5520875.298,0.9004
+France,2017,Import,Mach and Elec,Micro Import (US$ Thousand),137277206.9,22.3895
+France,2017,Import,Metals,Micro Import (US$ Thousand),41743583.89,6.8082
+France,2017,Import,Minerals,Micro Import (US$ Thousand),3267349.244,0.5329
+France,2017,Import,Miscellaneous,Micro Import (US$ Thousand),41830309.65,6.8224
+France,2017,Import,Plastic or Rubber,Micro Import (US$ Thousand),31386957.79,5.1191
+France,2017,Import,Stone and Glass,Micro Import (US$ Thousand),15210559.58,2.4808
+France,2017,Import,Textiles and Clothing,Micro Import (US$ Thousand),29641379.89,4.8344
+France,2017,Import,Transportation,Micro Import (US$ Thousand),91128478.2,14.8628
+France,2017,Import,Vegetable,Micro Import (US$ Thousand),20553396.7,3.3522
+France,2017,Import,Wood,Micro Import (US$ Thousand),16846476.68,2.7476
+France,2018,Export,  All Products,Export (US$ Thousand),568535879.8,100
+France,2018,Export, Capital goods,Macro Export (US$ Thousand),198587957.2,34.9297
+France,2018,Export, Consumer goods,Macro Export (US$ Thousand),217106803.8,38.187
+France,2018,Export, Intermediate goods,Macro Export (US$ Thousand),109009129.1,19.1737
+France,2018,Export, Raw materials,Macro Export (US$ Thousand),30293409.76,5.3283
+France,2018,Export,Other,Macro Export (US$ Thousand),13538580.02,2.3813
+France,2018,Export,Animal,Micro Export (US$ Thousand),14977180.41,2.6343
+France,2018,Export,Chemicals,Micro Export (US$ Thousand),85610603.16,15.0581
+France,2018,Export,Food Products,Micro Export (US$ Thousand),39421800.64,6.9339
+France,2018,Export,Footwear,Micro Export (US$ Thousand),4665439.641,0.8206
+France,2018,Export,Fuels,Micro Export (US$ Thousand),18728227.49,3.2941
+France,2018,Export,Hides and Skins,Micro Export (US$ Thousand),9547496.357,1.6793
+France,2018,Export,Mach and Elec,Micro Export (US$ Thousand),111521166.2,19.6155
+France,2018,Export,Metals,Micro Export (US$ Thousand),39598703.59,6.965
+France,2018,Export,Minerals,Micro Export (US$ Thousand),1519969.106,0.2673
+France,2018,Export,Miscellaneous,Micro Export (US$ Thousand),36961871.61,6.5012
+France,2018,Export,Plastic or Rubber,Micro Export (US$ Thousand),29358652.85,5.1639
+France,2018,Export,Stone and Glass,Micro Export (US$ Thousand),14512521.73,2.5526
+France,2018,Export,Textiles and Clothing,Micro Export (US$ Thousand),17487313.78,3.0759
+France,2018,Export,Transportation,Micro Export (US$ Thousand),113346592.3,19.9366
+France,2018,Export,Vegetable,Micro Export (US$ Thousand),18632754.62,3.2773
+France,2018,Export,Wood,Micro Export (US$ Thousand),12645586.27,2.2242
+France,2018,Import,  All Products,Import (US$ Thousand),659374522.3,100
+France,2018,Import, Capital goods,Macro Import (US$ Thousand),182744633.7,27.7148
+France,2018,Import, Consumer goods,Macro Import (US$ Thousand),273418472.4,41.4663
+France,2018,Import, Intermediate goods,Macro Import (US$ Thousand),139451121.8,21.149
+France,2018,Import, Raw materials,Macro Import (US$ Thousand),63063535.66,9.5641
+France,2018,Import,Other,Macro Import (US$ Thousand),696758.7389,0.1058
+France,2018,Import,Animal,Micro Import (US$ Thousand),15960907.81,2.4206
+France,2018,Import,Chemicals,Micro Import (US$ Thousand),71759458.21,10.883
+France,2018,Import,Food Products,Micro Import (US$ Thousand),28505426.15,4.3231
+France,2018,Import,Footwear,Micro Import (US$ Thousand),9377882.892,1.4222
+France,2018,Import,Fuels,Micro Import (US$ Thousand),73886235.68,11.2055
+France,2018,Import,Hides and Skins,Micro Import (US$ Thousand),6095025.61,0.9244
+France,2018,Import,Mach and Elec,Micro Import (US$ Thousand),141638758.2,21.4808
+France,2018,Import,Metals,Micro Import (US$ Thousand),46700258.72,7.0825
+France,2018,Import,Minerals,Micro Import (US$ Thousand),3525315.222,0.5346
+France,2018,Import,Miscellaneous,Micro Import (US$ Thousand),43882190.81,6.6551
+France,2018,Import,Plastic or Rubber,Micro Import (US$ Thousand),33770601.48,5.1216
+France,2018,Import,Stone and Glass,Micro Import (US$ Thousand),16477586.63,2.499
+France,2018,Import,Textiles and Clothing,Micro Import (US$ Thousand),31841284.93,4.829
+France,2018,Import,Transportation,Micro Import (US$ Thousand),96764191.74,14.6751
+France,2018,Import,Vegetable,Micro Import (US$ Thousand),20880644.17,3.1667
+France,2018,Import,Wood,Micro Import (US$ Thousand),18308754.13,2.7767

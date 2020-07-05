@@ -1,0 +1,485 @@
+reporter_name,_year,trade_flow,product_group,trade_indicator,total_dollars,total_perc
+Australia,2008,Import,  All Products,Import (US$ Thousand),200617274.5,100
+Australia,2008,Import, Capital goods,Macro Import (US$ Thousand),61880820.31,5.7558
+Australia,2008,Import, Consumer goods,Macro Import (US$ Thousand),79244348.65,15.1473
+Australia,2008,Import, Intermediate goods,Macro Import (US$ Thousand),37420942.6,20.4933
+Australia,2008,Import, Raw materials,Macro Import (US$ Thousand),19531809.37,54.4679
+Australia,2008,Import,Other,Macro Import (US$ Thousand),2539353.587,4.1357
+Australia,2008,Import,Animal,Micro Import (US$ Thousand),1755780.332,5.3998
+Australia,2008,Import,Chemicals,Micro Import (US$ Thousand),18306036.33,6.2506
+Australia,2008,Import,Food Products,Micro Import (US$ Thousand),5981612.553,2.2536
+Australia,2008,Import,Footwear,Micro Import (US$ Thousand),1378715.299,0.0299
+Australia,2008,Import,Fuels,Micro Import (US$ Thousand),31286321.36,32.0403
+Australia,2008,Import,Hides and Skins,Micro Import (US$ Thousand),962997.768,0.488
+Australia,2008,Import,Mach and Elec,Micro Import (US$ Thousand),48615294.76,4.0954
+Australia,2008,Import,Metals,Micro Import (US$ Thousand),11831053.37,7.6506
+Australia,2008,Import,Minerals,Micro Import (US$ Thousand),1265329.102,18.5039
+Australia,2008,Import,Miscellaneous,Micro Import (US$ Thousand),16035955.45,5.8236
+Australia,2008,Import,Plastic or Rubber,Micro Import (US$ Thousand),7538883.084,0.6182
+Australia,2008,Import,Stone and Glass,Micro Import (US$ Thousand),11874956.6,7.0681
+Australia,2008,Import,Textiles and Clothing,Micro Import (US$ Thousand),6546039.516,1.5194
+Australia,2008,Import,Transportation,Micro Import (US$ Thousand),29554572.93,2.8685
+Australia,2008,Import,Vegetable,Micro Import (US$ Thousand),2330116.184,4.092
+Australia,2008,Import,Wood,Micro Import (US$ Thousand),5353609.883,1.298
+Australia,2008,Export,  All Products,Export (US$ Thousand),186853013.6,100
+Australia,2008,Export, Capital goods,Macro Export (US$ Thousand),10754893.6,30.8452
+Australia,2008,Export, Consumer goods,Macro Export (US$ Thousand),28303260.32,39.5003
+Australia,2008,Export, Intermediate goods,Macro Export (US$ Thousand),38292335.39,18.6529
+Australia,2008,Export, Raw materials,Macro Export (US$ Thousand),101774898.7,9.7359
+Australia,2008,Export,Other,Macro Export (US$ Thousand),7727625.573,1.2657
+Australia,2008,Export,Animal,Micro Export (US$ Thousand),10089635.49,0.8752
+Australia,2008,Export,Chemicals,Micro Export (US$ Thousand),11679417,9.1249
+Australia,2008,Export,Food Products,Micro Export (US$ Thousand),4211012.468,2.9816
+Australia,2008,Export,Footwear,Micro Export (US$ Thousand),55863.071,0.6872
+Australia,2008,Export,Fuels,Micro Export (US$ Thousand),59868231.68,15.595
+Australia,2008,Export,Hides and Skins,Micro Export (US$ Thousand),911922.445,0.48
+Australia,2008,Export,Mach and Elec,Micro Export (US$ Thousand),7652317.506,24.2329
+Australia,2008,Export,Metals,Micro Export (US$ Thousand),14295442.41,5.8973
+Australia,2008,Export,Minerals,Micro Export (US$ Thousand),34575178.16,0.6307
+Australia,2008,Export,Miscellaneous,Micro Export (US$ Thousand),10881636.83,7.9933
+Australia,2008,Export,Plastic or Rubber,Micro Export (US$ Thousand),1155158.04,3.7578
+Australia,2008,Export,Stone and Glass,Micro Export (US$ Thousand),13206921.6,5.9192
+Australia,2008,Export,Textiles and Clothing,Micro Export (US$ Thousand),2839099.732,3.2629
+Australia,2008,Export,Transportation,Micro Export (US$ Thousand),5359823.589,14.7318
+Australia,2008,Export,Vegetable,Micro Export (US$ Thousand),7646038.62,1.1615
+Australia,2008,Export,Wood,Micro Export (US$ Thousand),2425314.953,2.6686
+Australia,2009,Import,  All Products,Import (US$ Thousand),165601136.4,100
+Australia,2009,Import, Capital goods,Macro Import (US$ Thousand),51543528.94,5.9487
+Australia,2009,Import, Consumer goods,Macro Import (US$ Thousand),67443160.14,14.1721
+Australia,2009,Import, Intermediate goods,Macro Import (US$ Thousand),28589966.47,20.0174
+Australia,2009,Import, Raw materials,Macro Import (US$ Thousand),13227679.25,54.995
+Australia,2009,Import,Other,Macro Import (US$ Thousand),4796801.624,4.8668
+Australia,2009,Import,Animal,Micro Import (US$ Thousand),1595053.148,5.5677
+Australia,2009,Import,Chemicals,Micro Import (US$ Thousand),15886700.26,6.069
+Australia,2009,Import,Food Products,Micro Import (US$ Thousand),5855013.504,2.5154
+Australia,2009,Import,Footwear,Micro Import (US$ Thousand),1258668.219,0.0296
+Australia,2009,Import,Fuels,Micro Import (US$ Thousand),20886403.49,29.5073
+Australia,2009,Import,Hides and Skins,Micro Import (US$ Thousand),858009.263,0.4145
+Australia,2009,Import,Mach and Elec,Micro Import (US$ Thousand),44050947.83,4.1537
+Australia,2009,Import,Metals,Micro Import (US$ Thousand),8860819.29,6.3318
+Australia,2009,Import,Minerals,Micro Import (US$ Thousand),677627.759,19.8298
+Australia,2009,Import,Miscellaneous,Micro Import (US$ Thousand),16989232.32,6.7061
+Australia,2009,Import,Plastic or Rubber,Micro Import (US$ Thousand),6326268.898,0.6297
+Australia,2009,Import,Stone and Glass,Micro Import (US$ Thousand),10584232.34,8.3851
+Australia,2009,Import,Textiles and Clothing,Micro Import (US$ Thousand),5997496.309,1.4888
+Australia,2009,Import,Transportation,Micro Import (US$ Thousand),19222941.65,1.9875
+Australia,2009,Import,Vegetable,Micro Import (US$ Thousand),2162879.101,5.1446
+Australia,2009,Import,Wood,Micro Import (US$ Thousand),4388843.039,1.2395
+Australia,2009,Export,  All Products,Export (US$ Thousand),153899576,100
+Australia,2009,Export, Capital goods,Macro Export (US$ Thousand),9155023.8,31.1251
+Australia,2009,Export, Consumer goods,Macro Export (US$ Thousand),21810851.26,40.7263
+Australia,2009,Export, Intermediate goods,Macro Export (US$ Thousand),30806717.57,17.2644
+Australia,2009,Export, Raw materials,Macro Export (US$ Thousand),84637015.6,7.9877
+Australia,2009,Export,Other,Macro Export (US$ Thousand),7489967.717,2.8965
+Australia,2009,Export,Animal,Micro Export (US$ Thousand),8568606.963,0.9632
+Australia,2009,Export,Chemicals,Micro Export (US$ Thousand),9340099.485,9.5934
+Australia,2009,Export,Food Products,Micro Export (US$ Thousand),3871183.537,3.5356
+Australia,2009,Export,Footwear,Micro Export (US$ Thousand),45535.496,0.7601
+Australia,2009,Export,Fuels,Micro Export (US$ Thousand),45411625.01,12.6125
+Australia,2009,Export,Hides and Skins,Micro Export (US$ Thousand),637905.384,0.5181
+Australia,2009,Export,Mach and Elec,Micro Export (US$ Thousand),6392556.707,26.6006
+Australia,2009,Export,Metals,Micro Export (US$ Thousand),9744546.209,5.3507
+Australia,2009,Export,Minerals,Micro Export (US$ Thousand),30518032.9,0.4092
+Australia,2009,Export,Miscellaneous,Micro Export (US$ Thousand),10320734.01,10.2591
+Australia,2009,Export,Plastic or Rubber,Micro Export (US$ Thousand),969069.336,3.8202
+Australia,2009,Export,Stone and Glass,Micro Export (US$ Thousand),12904618.58,6.3914
+Australia,2009,Export,Textiles and Clothing,Micro Export (US$ Thousand),2291206.616,3.6217
+Australia,2009,Export,Transportation,Micro Export (US$ Thousand),3058734.365,11.608
+Australia,2009,Export,Vegetable,Micro Export (US$ Thousand),7917593.153,1.3061
+Australia,2009,Export,Wood,Micro Export (US$ Thousand),1907528.212,2.6502
+Australia,2010,Import,  All Products,Import (US$ Thousand),201703333.7,100
+Australia,2010,Import, Capital goods,Macro Import (US$ Thousand),61478070.62,5.0648
+Australia,2010,Import, Consumer goods,Macro Import (US$ Thousand),82464333.59,12.8813
+Australia,2010,Import, Intermediate goods,Macro Import (US$ Thousand),32859596.97,17.6335
+Australia,2010,Import, Raw materials,Macro Import (US$ Thousand),19216977,59.607
+Australia,2010,Import,Other,Macro Import (US$ Thousand),5684355.545,4.8134
+Australia,2010,Import,Animal,Micro Import (US$ Thousand),1951814.684,4.7563
+Australia,2010,Import,Chemicals,Micro Import (US$ Thousand),19053591.37,5.2925
+Australia,2010,Import,Food Products,Micro Import (US$ Thousand),6720130.44,2.115
+Australia,2010,Import,Footwear,Micro Import (US$ Thousand),1505067.286,0.0256
+Australia,2010,Import,Fuels,Micro Import (US$ Thousand),27379125.38,28.8813
+Australia,2010,Import,Hides and Skins,Micro Import (US$ Thousand),982796.945,0.4487
+Australia,2010,Import,Mach and Elec,Micro Import (US$ Thousand),51093816.88,3.5977
+Australia,2010,Import,Metals,Micro Import (US$ Thousand),10876582.57,6.1783
+Australia,2010,Import,Minerals,Micro Import (US$ Thousand),1122450.162,26.533
+Australia,2010,Import,Miscellaneous,Micro Import (US$ Thousand),19780214.51,6.3335
+Australia,2010,Import,Plastic or Rubber,Micro Import (US$ Thousand),7965845.643,0.5296
+Australia,2010,Import,Stone and Glass,Micro Import (US$ Thousand),10244728.94,6.8321
+Australia,2010,Import,Textiles and Clothing,Micro Import (US$ Thousand),7228648.995,1.6374
+Australia,2010,Import,Transportation,Micro Import (US$ Thousand),27909434.34,1.7279
+Australia,2010,Import,Vegetable,Micro Import (US$ Thousand),2399010.14,3.9166
+Australia,2010,Import,Wood,Micro Import (US$ Thousand),5490075.438,1.1943
+Australia,2010,Export,  All Products,Export (US$ Thousand),212108726.3,100
+Australia,2010,Export, Capital goods,Macro Export (US$ Thousand),10742821.02,30.4795
+Australia,2010,Export, Consumer goods,Macro Export (US$ Thousand),27322433.75,40.884
+Australia,2010,Export, Intermediate goods,Macro Export (US$ Thousand),37402096.64,16.2911
+Australia,2010,Export, Raw materials,Macro Export (US$ Thousand),126431548.6,9.5273
+Australia,2010,Export,Other,Macro Export (US$ Thousand),10209826.24,2.8181
+Australia,2010,Export,Animal,Micro Export (US$ Thousand),10088511.35,0.9677
+Australia,2010,Export,Chemicals,Micro Export (US$ Thousand),11225921.68,9.4463
+Australia,2010,Export,Food Products,Micro Export (US$ Thousand),4486053.631,3.3317
+Australia,2010,Export,Footwear,Micro Export (US$ Thousand),54372.03,0.7462
+Australia,2010,Export,Fuels,Micro Export (US$ Thousand),61259839.43,13.574
+Australia,2010,Export,Hides and Skins,Micro Export (US$ Thousand),951707.042,0.4872
+Australia,2010,Export,Mach and Elec,Micro Export (US$ Thousand),7631057.014,25.3312
+Australia,2010,Export,Metals,Micro Export (US$ Thousand),13104816.2,5.3924
+Australia,2010,Export,Minerals,Micro Export (US$ Thousand),56278857.22,0.5565
+Australia,2010,Export,Miscellaneous,Micro Export (US$ Thousand),13433810.29,9.8066
+Australia,2010,Export,Plastic or Rubber,Micro Export (US$ Thousand),1123259.886,3.9493
+Australia,2010,Export,Stone and Glass,Micro Export (US$ Thousand),14491556.98,5.0791
+Australia,2010,Export,Textiles and Clothing,Micro Export (US$ Thousand),3473046.334,3.5838
+Australia,2010,Export,Transportation,Micro Export (US$ Thousand),3665094.569,13.8369
+Australia,2010,Export,Vegetable,Micro Export (US$ Thousand),8307513.649,1.1894
+Australia,2010,Export,Wood,Micro Export (US$ Thousand),2533308.992,2.7219
+Australia,2011,Import,  All Products,Import (US$ Thousand),201703333.7,100
+Australia,2011,Import, Capital goods,Macro Import (US$ Thousand),61478070.62,4.726
+Australia,2011,Import, Consumer goods,Macro Import (US$ Thousand),82464333.59,11.9294
+Australia,2011,Import, Intermediate goods,Macro Import (US$ Thousand),32859596.97,16.5265
+Australia,2011,Import, Raw materials,Macro Import (US$ Thousand),19216977,62.8277
+Australia,2011,Import,Other,Macro Import (US$ Thousand),5684355.545,3.9904
+Australia,2011,Import,Animal,Micro Import (US$ Thousand),1951814.684,4.3679
+Australia,2011,Import,Chemicals,Micro Import (US$ Thousand),19053591.37,4.6747
+Australia,2011,Import,Food Products,Micro Import (US$ Thousand),6720130.44,1.7945
+Australia,2011,Import,Footwear,Micro Import (US$ Thousand),1505067.286,0.0249
+Australia,2011,Import,Fuels,Micro Import (US$ Thousand),27379125.38,28.1412
+Australia,2011,Import,Hides and Skins,Micro Import (US$ Thousand),982796.945,0.4399
+Australia,2011,Import,Mach and Elec,Micro Import (US$ Thousand),51093816.88,3.2642
+Australia,2011,Import,Metals,Micro Import (US$ Thousand),10876582.57,5.8929
+Australia,2011,Import,Minerals,Micro Import (US$ Thousand),1122450.162,29.5527
+Australia,2011,Import,Miscellaneous,Micro Import (US$ Thousand),19780214.51,5.358
+Australia,2011,Import,Plastic or Rubber,Micro Import (US$ Thousand),7965845.643,0.4498
+Australia,2011,Import,Stone and Glass,Micro Import (US$ Thousand),10244728.94,6.3466
+Australia,2011,Import,Textiles and Clothing,Micro Import (US$ Thousand),7228648.995,2.2545
+Australia,2011,Import,Transportation,Micro Import (US$ Thousand),27909434.34,1.5644
+Australia,2011,Import,Vegetable,Micro Import (US$ Thousand),2399010.14,4.8727
+Australia,2011,Import,Wood,Micro Import (US$ Thousand),5490075.438,1.0011
+Australia,2011,Export,  All Products,Export (US$ Thousand),212108726.3,100
+Australia,2011,Export, Capital goods,Macro Export (US$ Thousand),10742821.02,30.24
+Australia,2011,Export, Consumer goods,Macro Export (US$ Thousand),27322433.75,39.8979
+Australia,2011,Export, Intermediate goods,Macro Export (US$ Thousand),37402096.64,15.6881
+Australia,2011,Export, Raw materials,Macro Export (US$ Thousand),126431548.6,11.0787
+Australia,2011,Export,Other,Macro Export (US$ Thousand),10209826.24,3.0953
+Australia,2011,Export,Animal,Micro Export (US$ Thousand),10088511.35,0.8901
+Australia,2011,Export,Chemicals,Micro Export (US$ Thousand),11225921.68,9.3114
+Australia,2011,Export,Food Products,Micro Export (US$ Thousand),4486053.631,3.2473
+Australia,2011,Export,Footwear,Micro Export (US$ Thousand),54372.03,0.6807
+Australia,2011,Export,Fuels,Micro Export (US$ Thousand),61259839.43,16.8714
+Australia,2011,Export,Hides and Skins,Micro Export (US$ Thousand),951707.042,0.4826
+Australia,2011,Export,Mach and Elec,Micro Export (US$ Thousand),7631057.014,24.657
+Australia,2011,Export,Metals,Micro Export (US$ Thousand),13104816.2,5.2362
+Australia,2011,Export,Minerals,Micro Export (US$ Thousand),56278857.22,0.5348
+Australia,2011,Export,Miscellaneous,Micro Export (US$ Thousand),13433810.29,9.789
+Australia,2011,Export,Plastic or Rubber,Micro Export (US$ Thousand),1123259.886,3.9421
+Australia,2011,Export,Stone and Glass,Micro Export (US$ Thousand),14491556.98,4.906
+Australia,2011,Export,Textiles and Clothing,Micro Export (US$ Thousand),3473046.334,3.4156
+Australia,2011,Export,Transportation,Micro Export (US$ Thousand),3665094.569,12.5511
+Australia,2011,Export,Vegetable,Micro Export (US$ Thousand),8307513.649,1.1903
+Australia,2011,Export,Wood,Micro Export (US$ Thousand),2533308.992,2.2942
+Australia,2012,Import,  All Products,Import (US$ Thousand),250464794.4,100
+Australia,2012,Import, Capital goods,Macro Import (US$ Thousand),81090221.22,5.1036
+Australia,2012,Import, Consumer goods,Macro Import (US$ Thousand),100155673.1,14.0669
+Australia,2012,Import, Intermediate goods,Macro Import (US$ Thousand),36666343.7,16.8185
+Australia,2012,Import, Raw materials,Macro Import (US$ Thousand),26696590.87,60.1934
+Australia,2012,Import,Other,Macro Import (US$ Thousand),5855965.526,3.8176
+Australia,2012,Import,Animal,Micro Import (US$ Thousand),2185233.318,4.5986
+Australia,2012,Import,Chemicals,Micro Import (US$ Thousand),22070001.89,5.0549
+Australia,2012,Import,Food Products,Micro Import (US$ Thousand),8064597.784,1.8457
+Australia,2012,Import,Footwear,Micro Import (US$ Thousand),1787940.33,0.0258
+Australia,2012,Import,Fuels,Micro Import (US$ Thousand),42333320.49,28.4459
+Australia,2012,Import,Hides and Skins,Micro Import (US$ Thousand),1232835.248,0.4387
+Australia,2012,Import,Mach and Elec,Micro Import (US$ Thousand),63001163.35,3.5038
+Australia,2012,Import,Metals,Micro Import (US$ Thousand),13653048.22,5.3861
+Australia,2012,Import,Minerals,Micro Import (US$ Thousand),1107744.563,27.3308
+Australia,2012,Import,Miscellaneous,Micro Import (US$ Thousand),22275047.19,5.1717
+Australia,2012,Import,Plastic or Rubber,Micro Import (US$ Thousand),9807053.592,0.4854
+Australia,2012,Import,Stone and Glass,Micro Import (US$ Thousand),10064913.45,6.8734
+Australia,2012,Import,Textiles and Clothing,Micro Import (US$ Thousand),8249949.566,2.286
+Australia,2012,Import,Transportation,Micro Import (US$ Thousand),36255439.57,1.8945
+Australia,2012,Import,Vegetable,Micro Import (US$ Thousand),2887828.3,5.733
+Australia,2012,Import,Wood,Micro Import (US$ Thousand),5488677.545,0.9256
+Australia,2012,Export,  All Products,Export (US$ Thousand),256242913,100
+Australia,2012,Export, Capital goods,Macro Export (US$ Thousand),13077563.88,32.3759
+Australia,2012,Export, Consumer goods,Macro Export (US$ Thousand),36045328.35,39.9879
+Australia,2012,Export, Intermediate goods,Macro Export (US$ Thousand),43096263.21,14.6393
+Australia,2012,Export, Raw materials,Macro Export (US$ Thousand),154241212.8,10.6588
+Australia,2012,Export,Other,Macro Export (US$ Thousand),9782544.765,2.3381
+Australia,2012,Export,Animal,Micro Export (US$ Thousand),11783627.34,0.8725
+Australia,2012,Export,Chemicals,Micro Export (US$ Thousand),12952879.12,8.8116
+Australia,2012,Export,Food Products,Micro Export (US$ Thousand),4729482.939,3.2199
+Australia,2012,Export,Footwear,Micro Export (US$ Thousand),66165.285,0.7138
+Australia,2012,Export,Fuels,Micro Export (US$ Thousand),72890517.38,16.9019
+Australia,2012,Export,Hides and Skins,Micro Export (US$ Thousand),1124159.114,0.4922
+Australia,2012,Export,Mach and Elec,Micro Export (US$ Thousand),8978120.709,25.1537
+Australia,2012,Export,Metals,Micro Export (US$ Thousand),13801492.46,5.4511
+Australia,2012,Export,Minerals,Micro Export (US$ Thousand),70033112.73,0.4423
+Australia,2012,Export,Miscellaneous,Micro Export (US$ Thousand),13252227.56,8.8935
+Australia,2012,Export,Plastic or Rubber,Micro Export (US$ Thousand),1243923.353,3.9155
+Australia,2012,Export,Stone and Glass,Micro Export (US$ Thousand),17612679.38,4.0185
+Australia,2012,Export,Textiles and Clothing,Micro Export (US$ Thousand),5857754.509,3.2939
+Australia,2012,Export,Transportation,Micro Export (US$ Thousand),4854601.946,14.4753
+Australia,2012,Export,Vegetable,Micro Export (US$ Thousand),14690282.13,1.153
+Australia,2012,Export,Wood,Micro Export (US$ Thousand),2371887.047,2.1914
+Australia,2013,Import,  All Products,Import (US$ Thousand),232481271.3,100
+Australia,2013,Import, Capital goods,Macro Import (US$ Thousand),70146843.48,4.8134
+Australia,2013,Import, Consumer goods,Macro Import (US$ Thousand),100773737.6,13.4869
+Australia,2013,Import, Intermediate goods,Macro Import (US$ Thousand),33222101.86,15.7859
+Australia,2013,Import, Raw materials,Macro Import (US$ Thousand),23556337.34,62.4841
+Australia,2013,Import,Other,Macro Import (US$ Thousand),4782251.01,3.4297
+Australia,2013,Import,Animal,Micro Import (US$ Thousand),2245617.048,4.9982
+Australia,2013,Import,Chemicals,Micro Import (US$ Thousand),19842671.14,4.7014
+Australia,2013,Import,Food Products,Micro Import (US$ Thousand),8585799.462,1.8353
+Australia,2013,Import,Footwear,Micro Import (US$ Thousand),1815309.019,0.0279
+Australia,2013,Import,Fuels,Micro Import (US$ Thousand),40668502.82,25.8656
+Australia,2013,Import,Hides and Skins,Micro Import (US$ Thousand),1289683.869,0.5016
+Australia,2013,Import,Mach and Elec,Micro Import (US$ Thousand),56648573.42,3.362
+Australia,2013,Import,Metals,Micro Import (US$ Thousand),13032220.55,5.0872
+Australia,2013,Import,Minerals,Micro Import (US$ Thousand),795256.029,31.5129
+Australia,2013,Import,Miscellaneous,Micro Import (US$ Thousand),20902033.95,4.7996
+Australia,2013,Import,Plastic or Rubber,Micro Import (US$ Thousand),9306841.632,0.4394
+Australia,2013,Import,Stone and Glass,Micro Import (US$ Thousand),8848611.547,6.061
+Australia,2013,Import,Textiles and Clothing,Micro Import (US$ Thousand),8465183.81,2.1831
+Australia,2013,Import,Transportation,Micro Import (US$ Thousand),31984286.03,1.8807
+Australia,2013,Import,Vegetable,Micro Import (US$ Thousand),2851155.968,5.793
+Australia,2013,Import,Wood,Micro Import (US$ Thousand),5199525.053,0.9511
+Australia,2013,Export,  All Products,Export (US$ Thousand),252155105.3,100
+Australia,2013,Export, Capital goods,Macro Export (US$ Thousand),12137221.19,30.1731
+Australia,2013,Export, Consumer goods,Macro Export (US$ Thousand),34008007.72,43.347
+Australia,2013,Export, Intermediate goods,Macro Export (US$ Thousand),39805029.01,14.2902
+Australia,2013,Export, Raw materials,Macro Export (US$ Thousand),157556765.9,10.1326
+Australia,2013,Export,Other,Macro Export (US$ Thousand),8648081.475,2.0571
+Australia,2013,Export,Animal,Micro Export (US$ Thousand),12603097.97,0.9659
+Australia,2013,Export,Chemicals,Micro Export (US$ Thousand),11854881.58,8.5352
+Australia,2013,Export,Food Products,Micro Export (US$ Thousand),4627716.374,3.6931
+Australia,2013,Export,Footwear,Micro Export (US$ Thousand),70270.799,0.7808
+Australia,2013,Export,Fuels,Micro Export (US$ Thousand),65221537.19,17.4932
+Australia,2013,Export,Hides and Skins,Micro Export (US$ Thousand),1264917.572,0.5547
+Australia,2013,Export,Mach and Elec,Micro Export (US$ Thousand),8477553.735,24.3669
+Australia,2013,Export,Metals,Micro Export (US$ Thousand),12827679.96,5.6057
+Australia,2013,Export,Minerals,Micro Export (US$ Thousand),79461479.76,0.3421
+Australia,2013,Export,Miscellaneous,Micro Export (US$ Thousand),12102376.36,8.9908
+Australia,2013,Export,Plastic or Rubber,Micro Export (US$ Thousand),1107892.937,4.0033
+Australia,2013,Export,Stone and Glass,Micro Export (US$ Thousand),15283046.59,3.8062
+Australia,2013,Export,Textiles and Clothing,Micro Export (US$ Thousand),5504918.843,3.6412
+Australia,2013,Export,Transportation,Micro Export (US$ Thousand),4742217.665,13.7578
+Australia,2013,Export,Vegetable,Micro Export (US$ Thousand),14607235.83,1.2264
+Australia,2013,Export,Wood,Micro Export (US$ Thousand),2398282.124,2.2365
+Australia,2014,Import,  All Products,Import (US$ Thousand),227544231.3,100
+Australia,2014,Import, Capital goods,Macro Import (US$ Thousand),68819331.14,5.1887
+Australia,2014,Import, Consumer goods,Macro Import (US$ Thousand),96582645.41,14.2122
+Australia,2014,Import, Intermediate goods,Macro Import (US$ Thousand),32927922.16,15.9239
+Australia,2014,Import, Raw materials,Macro Import (US$ Thousand),22838732.12,61.3697
+Australia,2014,Import,Other,Macro Import (US$ Thousand),6375600.514,3.3055
+Australia,2014,Import,Animal,Micro Import (US$ Thousand),2511481.56,6.3907
+Australia,2014,Import,Chemicals,Micro Import (US$ Thousand),19290140.77,4.5278
+Australia,2014,Import,Food Products,Micro Import (US$ Thousand),8923548.197,1.8098
+Australia,2014,Import,Footwear,Micro Import (US$ Thousand),1892822.32,0.0308
+Australia,2014,Import,Fuels,Micro Import (US$ Thousand),36236781.82,26.5991
+Australia,2014,Import,Hides and Skins,Micro Import (US$ Thousand),1345932.361,0.5047
+Australia,2014,Import,Mach and Elec,Micro Import (US$ Thousand),55888604.57,3.5414
+Australia,2014,Import,Metals,Micro Import (US$ Thousand),13219358.79,5.3685
+Australia,2014,Import,Minerals,Micro Import (US$ Thousand),945008.361,30.082
+Australia,2014,Import,Miscellaneous,Micro Import (US$ Thousand),23374136.46,4.8107
+Australia,2014,Import,Plastic or Rubber,Micro Import (US$ Thousand),9158139.743,0.4571
+Australia,2014,Import,Stone and Glass,Micro Import (US$ Thousand),8186056.582,5.6664
+Australia,2014,Import,Textiles and Clothing,Micro Import (US$ Thousand),8813386.732,1.8451
+Australia,2014,Import,Transportation,Micro Import (US$ Thousand),29159928.39,1.9672
+Australia,2014,Import,Vegetable,Micro Import (US$ Thousand),3147915.83,5.332
+Australia,2014,Import,Wood,Micro Import (US$ Thousand),5450988.862,1.0666
+Australia,2014,Export,  All Products,Export (US$ Thousand),240444683.9,100
+Australia,2014,Export, Capital goods,Macro Export (US$ Thousand),12475957.29,30.2444
+Australia,2014,Export, Consumer goods,Macro Export (US$ Thousand),34172399.74,42.4457
+Australia,2014,Export, Intermediate goods,Macro Export (US$ Thousand),38288176.09,14.471
+Australia,2014,Export, Raw materials,Macro Export (US$ Thousand),147560285.5,10.0371
+Australia,2014,Export,Other,Macro Export (US$ Thousand),7947865.211,2.8018
+Australia,2014,Export,Animal,Micro Export (US$ Thousand),15366202.81,1.1037
+Australia,2014,Export,Chemicals,Micro Export (US$ Thousand),10886848.52,8.4775
+Australia,2014,Export,Food Products,Micro Export (US$ Thousand),4351453.159,3.9217
+Australia,2014,Export,Footwear,Micro Export (US$ Thousand),74082.859,0.8318
+Australia,2014,Export,Fuels,Micro Export (US$ Thousand),63956234.02,15.9252
+Australia,2014,Export,Hides and Skins,Micro Export (US$ Thousand),1213606.317,0.5915
+Australia,2014,Export,Mach and Elec,Micro Export (US$ Thousand),8515227.923,24.5616
+Australia,2014,Export,Metals,Micro Export (US$ Thousand),12908220.44,5.8096
+Australia,2014,Export,Minerals,Micro Export (US$ Thousand),72330559.43,0.4153
+Australia,2014,Export,Miscellaneous,Micro Export (US$ Thousand),11567155.94,10.2723
+Australia,2014,Export,Plastic or Rubber,Micro Export (US$ Thousand),1099121.2,4.0248
+Australia,2014,Export,Stone and Glass,Micro Export (US$ Thousand),13624467.33,3.5976
+Australia,2014,Export,Textiles and Clothing,Micro Export (US$ Thousand),4436363.297,3.8733
+Australia,2014,Export,Transportation,Micro Export (US$ Thousand),4730027.448,12.8151
+Australia,2014,Export,Vegetable,Micro Export (US$ Thousand),12820622.74,1.3834
+Australia,2014,Export,Wood,Micro Export (US$ Thousand),2564490.416,2.3956
+Australia,2015,Import,  All Products,Import (US$ Thousand),200113780,100
+Australia,2015,Import, Capital goods,Macro Import (US$ Thousand),63236594.72,5.9254
+Australia,2015,Import, Consumer goods,Macro Import (US$ Thousand),89289779.77,14.7852
+Australia,2015,Import, Intermediate goods,Macro Import (US$ Thousand),30547165.9,17.98
+Australia,2015,Import, Raw materials,Macro Import (US$ Thousand),11586982.13,57.5312
+Australia,2015,Import,Other,Macro Import (US$ Thousand),5453257.454,3.7782
+Australia,2015,Import,Animal,Micro Import (US$ Thousand),2176067.885,7.6047
+Australia,2015,Import,Chemicals,Micro Import (US$ Thousand),17372427.9,5.1179
+Australia,2015,Import,Food Products,Micro Import (US$ Thousand),8470949.692,2.3915
+Australia,2015,Import,Footwear,Micro Import (US$ Thousand),1961059.006,0.0387
+Australia,2015,Import,Fuels,Micro Import (US$ Thousand),21748482.42,25.291
+Australia,2015,Import,Hides and Skins,Micro Import (US$ Thousand),1330894.469,0.547
+Australia,2015,Import,Mach and Elec,Micro Import (US$ Thousand),51998039.22,4.1349
+Australia,2015,Import,Metals,Micro Import (US$ Thousand),12734349.21,5.3061
+Australia,2015,Import,Minerals,Micro Import (US$ Thousand),943569.28,24.8755
+Australia,2015,Import,Miscellaneous,Micro Import (US$ Thousand),21548226.24,5.6791
+Australia,2015,Import,Plastic or Rubber,Micro Import (US$ Thousand),8275336.647,0.5367
+Australia,2015,Import,Stone and Glass,Micro Import (US$ Thousand),7488477.395,6.5467
+Australia,2015,Import,Textiles and Clothing,Micro Import (US$ Thousand),8880731.55,1.8331
+Australia,2015,Import,Transportation,Micro Import (US$ Thousand),27228241.41,2.3055
+Australia,2015,Import,Vegetable,Micro Import (US$ Thousand),2969524.057,6.5107
+Australia,2015,Import,Wood,Micro Import (US$ Thousand),4987403.6,1.281
+Australia,2015,Export,  All Products,Export (US$ Thousand),187792151.5,100
+Australia,2015,Export, Capital goods,Macro Export (US$ Thousand),11127435.5,31.6003
+Australia,2015,Export, Consumer goods,Macro Export (US$ Thousand),27765374.95,44.6195
+Australia,2015,Export, Intermediate goods,Macro Export (US$ Thousand),33764983.78,15.2649
+Australia,2015,Export, Raw materials,Macro Export (US$ Thousand),108038988.7,5.7902
+Australia,2015,Export,Other,Macro Export (US$ Thousand),7095368.563,2.7251
+Australia,2015,Export,Animal,Micro Export (US$ Thousand),14281096.01,1.0874
+Australia,2015,Export,Chemicals,Micro Export (US$ Thousand),9610956.209,8.6813
+Australia,2015,Export,Food Products,Micro Export (US$ Thousand),4491132.044,4.2331
+Australia,2015,Export,Footwear,Micro Export (US$ Thousand),72697.799,0.98
+Australia,2015,Export,Fuels,Micro Export (US$ Thousand),47494438.9,10.8681
+Australia,2015,Export,Hides and Skins,Micro Export (US$ Thousand),1027197.234,0.6651
+Australia,2015,Export,Mach and Elec,Micro Export (US$ Thousand),7765026.562,25.9842
+Australia,2015,Export,Metals,Micro Export (US$ Thousand),9964432.399,6.3636
+Australia,2015,Export,Minerals,Micro Export (US$ Thousand),46714283.71,0.4715
+Australia,2015,Export,Miscellaneous,Micro Export (US$ Thousand),10664906.7,10.768
+Australia,2015,Export,Plastic or Rubber,Micro Export (US$ Thousand),1007813.853,4.1353
+Australia,2015,Export,Stone and Glass,Micro Export (US$ Thousand),12294101.32,3.7421
+Australia,2015,Export,Textiles and Clothing,Micro Export (US$ Thousand),3442369.125,4.4378
+Australia,2015,Export,Transportation,Micro Export (US$ Thousand),4329532.587,13.6064
+Australia,2015,Export,Vegetable,Micro Export (US$ Thousand),12226517.9,1.4839
+Australia,2015,Export,Wood,Micro Export (US$ Thousand),2405649.133,2.4923
+Australia,2016,Import,  All Products,Import (US$ Thousand),189406027.9,100
+Australia,2016,Import, Capital goods,Macro Import (US$ Thousand),60357869.1,5.7197
+Australia,2016,Import, Consumer goods,Macro Import (US$ Thousand),86609182.23,15.6354
+Australia,2016,Import, Intermediate goods,Macro Import (US$ Thousand),29213375.63,18.3401
+Australia,2016,Import, Raw materials,Macro Import (US$ Thousand),11270929.44,56.4404
+Australia,2016,Import,Other,Macro Import (US$ Thousand),1954671.537,3.8644
+Australia,2016,Import,Animal,Micro Import (US$ Thousand),2259794.62,6.5701
+Australia,2016,Import,Chemicals,Micro Import (US$ Thousand),17693729.32,5.0528
+Australia,2016,Import,Food Products,Micro Import (US$ Thousand),8685098.714,2.7238
+Australia,2016,Import,Footwear,Micro Import (US$ Thousand),1934207.935,0.0426
+Australia,2016,Import,Fuels,Micro Import (US$ Thousand),17534290.62,25.5972
+Australia,2016,Import,Hides and Skins,Micro Import (US$ Thousand),1323863.132,0.4384
+Australia,2016,Import,Mach and Elec,Micro Import (US$ Thousand),47423051.62,3.9603
+Australia,2016,Import,Metals,Micro Import (US$ Thousand),9426251.198,4.6203
+Australia,2016,Import,Minerals,Micro Import (US$ Thousand),1051006.974,25.369
+Australia,2016,Import,Miscellaneous,Micro Import (US$ Thousand),18025873.13,5.787
+Australia,2016,Import,Plastic or Rubber,Micro Import (US$ Thousand),8145655.137,0.5418
+Australia,2016,Import,Stone and Glass,Micro Import (US$ Thousand),9883960.717,8.059
+Australia,2016,Import,Textiles and Clothing,Micro Import (US$ Thousand),8659472.511,2.0496
+Australia,2016,Import,Transportation,Micro Import (US$ Thousand),29614937.1,2.1372
+Australia,2016,Import,Vegetable,Micro Import (US$ Thousand),2955608.662,5.7048
+Australia,2016,Import,Wood,Micro Import (US$ Thousand),4789226.557,1.346
+Australia,2016,Export,  All Products,Export (US$ Thousand),189629974.6,100
+Australia,2016,Export, Capital goods,Macro Export (US$ Thousand),10846205.27,31.8669
+Australia,2016,Export, Consumer goods,Macro Export (US$ Thousand),29649487.23,45.7267
+Australia,2016,Export, Intermediate goods,Macro Export (US$ Thousand),34778315.4,15.4237
+Australia,2016,Export, Raw materials,Macro Export (US$ Thousand),107027964.5,5.9507
+Australia,2016,Export,Other,Macro Export (US$ Thousand),7328002.193,1.032
+Australia,2016,Export,Animal,Micro Export (US$ Thousand),12458915.63,1.1931
+Australia,2016,Export,Chemicals,Micro Export (US$ Thousand),9581541.584,9.3417
+Australia,2016,Export,Food Products,Micro Export (US$ Thousand),5165224.982,4.5854
+Australia,2016,Export,Footwear,Micro Export (US$ Thousand),80871.79,1.0212
+Australia,2016,Export,Fuels,Micro Export (US$ Thousand),48540003.84,9.2575
+Australia,2016,Export,Hides and Skins,Micro Export (US$ Thousand),831353.155,0.699
+Australia,2016,Export,Mach and Elec,Micro Export (US$ Thousand),7509922.68,25.0378
+Australia,2016,Export,Metals,Micro Export (US$ Thousand),8761564.434,4.9767
+Australia,2016,Export,Minerals,Micro Export (US$ Thousand),48107209.81,0.5549
+Australia,2016,Export,Miscellaneous,Micro Export (US$ Thousand),10973864.03,9.5171
+Australia,2016,Export,Plastic or Rubber,Micro Export (US$ Thousand),1027435.153,4.3006
+Australia,2016,Export,Stone and Glass,Micro Export (US$ Thousand),15282325.9,5.2184
+Australia,2016,Export,Textiles and Clothing,Micro Export (US$ Thousand),3886568.609,4.5719
+Australia,2016,Export,Transportation,Micro Export (US$ Thousand),4052788.07,15.6357
+Australia,2016,Export,Vegetable,Micro Export (US$ Thousand),10818027.62,1.5605
+Australia,2016,Export,Wood,Micro Export (US$ Thousand),2552357.277,2.5286
+Australia,2017,Import,  All Products,Import (US$ Thousand),228441736.9,100
+Australia,2017,Import, Capital goods,Macro Import (US$ Thousand),73723111.74,4.7128
+Australia,2017,Import, Consumer goods,Macro Import (US$ Thousand),97896598.48,16.2791
+Australia,2017,Import, Intermediate goods,Macro Import (US$ Thousand),32506480.37,16.7605
+Australia,2017,Import, Raw materials,Macro Import (US$ Thousand),12862478.54,58.6107
+Australia,2017,Import,Other,Macro Import (US$ Thousand),11453067.8,3.6369
+Australia,2017,Import,Animal,Micro Import (US$ Thousand),2607214.565,5.7908
+Australia,2017,Import,Chemicals,Micro Import (US$ Thousand),19515587.8,4.952
+Australia,2017,Import,Food Products,Micro Import (US$ Thousand),9461757.167,2.6512
+Australia,2017,Import,Footwear,Micro Import (US$ Thousand),2039495.148,0.0442
+Australia,2017,Import,Fuels,Micro Import (US$ Thousand),23616300.28,30.151
+Australia,2017,Import,Hides and Skins,Micro Import (US$ Thousand),1459706.565,0.361
+Australia,2017,Import,Mach and Elec,Micro Import (US$ Thousand),52956148.89,3.3248
+Australia,2017,Import,Metals,Micro Import (US$ Thousand),10622221.19,4.4452
+Australia,2017,Import,Minerals,Micro Import (US$ Thousand),1412346.733,26.3605
+Australia,2017,Import,Miscellaneous,Micro Import (US$ Thousand),28267373.49,4.0927
+Australia,2017,Import,Plastic or Rubber,Micro Import (US$ Thousand),9282521.2,0.4917
+Australia,2017,Import,Stone and Glass,Micro Import (US$ Thousand),9151369.818,6.5135
+Australia,2017,Import,Textiles and Clothing,Micro Import (US$ Thousand),9324260.228,2.1194
+Australia,2017,Import,Transportation,Micro Import (US$ Thousand),40094228.33,1.5584
+Australia,2017,Import,Vegetable,Micro Import (US$ Thousand),3299008.273,5.908
+Australia,2017,Import,Wood,Micro Import (US$ Thousand),5332197.26,1.2356
+Australia,2017,Export,  All Products,Export (US$ Thousand),230163207.2,100
+Australia,2017,Export, Capital goods,Macro Export (US$ Thousand),10847045.34,32.2722
+Australia,2017,Export, Consumer goods,Macro Export (US$ Thousand),37468540.6,42.8541
+Australia,2017,Export, Intermediate goods,Macro Export (US$ Thousand),38576603.84,14.2297
+Australia,2017,Export, Raw materials,Macro Export (US$ Thousand),134900171.4,5.6305
+Australia,2017,Export,Other,Macro Export (US$ Thousand),8370845.976,5.0135
+Australia,2017,Export,Animal,Micro Export (US$ Thousand),13328335.23,1.1413
+Australia,2017,Export,Chemicals,Micro Export (US$ Thousand),11397580.83,8.5429
+Australia,2017,Export,Food Products,Micro Export (US$ Thousand),6101990.25,4.1419
+Australia,2017,Export,Footwear,Micro Export (US$ Thousand),101818.3338,0.8928
+Australia,2017,Export,Fuels,Micro Export (US$ Thousand),69396612.75,10.338
+Australia,2017,Export,Hides and Skins,Micro Export (US$ Thousand),830779.8241,0.639
+Australia,2017,Export,Mach and Elec,Micro Export (US$ Thousand),7652527.878,23.1815
+Australia,2017,Export,Metals,Micro Export (US$ Thousand),10231288.94,4.6499
+Australia,2017,Export,Minerals,Micro Export (US$ Thousand),60672129.44,0.6183
+Australia,2017,Export,Miscellaneous,Micro Export (US$ Thousand),9419952.988,12.374
+Australia,2017,Export,Plastic or Rubber,Micro Export (US$ Thousand),1131673.006,4.0634
+Australia,2017,Export,Stone and Glass,Micro Export (US$ Thousand),14991683.51,4.006
+Australia,2017,Export,Textiles and Clothing,Micro Export (US$ Thousand),4878001.62,4.0817
+Australia,2017,Export,Transportation,Micro Export (US$ Thousand),3586913.169,17.5512
+Australia,2017,Export,Vegetable,Micro Export (US$ Thousand),13598013.35,1.4441
+Australia,2017,Export,Wood,Micro Export (US$ Thousand),2843906.095,2.3342
+Australia,2018,Import,  All Products,Import (US$ Thousand),235519140.9,100
+Australia,2018,Import, Capital goods,Macro Import (US$ Thousand),75100827.74,4.5969
+Australia,2018,Import, Consumer goods,Macro Import (US$ Thousand),104734555.4,7.1338
+Australia,2018,Import, Intermediate goods,Macro Import (US$ Thousand),32691818.66,14.1432
+Australia,2018,Import, Raw materials,Macro Import (US$ Thousand),15627442.56,56.0995
+Australia,2018,Import,Other,Macro Import (US$ Thousand),7364496.558,18.0266
+Australia,2018,Import,Animal,Micro Import (US$ Thousand),2678616.419,5.789
+Australia,2018,Import,Chemicals,Micro Import (US$ Thousand),19357598.85,3.3761
+Australia,2018,Import,Food Products,Micro Import (US$ Thousand),9987402.875,2.4348
+Australia,2018,Import,Footwear,Micro Import (US$ Thousand),2141541.588,0.0321
+Australia,2018,Import,Fuels,Micro Import (US$ Thousand),31278132.55,23.0699
+Australia,2018,Import,Hides and Skins,Micro Import (US$ Thousand),1659239.686,0.3031
+Australia,2018,Import,Mach and Elec,Micro Import (US$ Thousand),58606062.95,3.1294
+Australia,2018,Import,Metals,Micro Import (US$ Thousand),11407022.41,4.501
+Australia,2018,Import,Minerals,Micro Import (US$ Thousand),1516129.895,22.9301
+Australia,2018,Import,Miscellaneous,Micro Import (US$ Thousand),25299849.98,19.6164
+Australia,2018,Import,Plastic or Rubber,Micro Import (US$ Thousand),9256520.503,0.437
+Australia,2018,Import,Stone and Glass,Micro Import (US$ Thousand),9226322.35,6.1633
+Australia,2018,Import,Textiles and Clothing,Micro Import (US$ Thousand),9745885.795,1.7272
+Australia,2018,Import,Transportation,Micro Import (US$ Thousand),34535297.51,1.406
+Australia,2018,Import,Vegetable,Micro Import (US$ Thousand),3287797.195,3.9013
+Australia,2018,Import,Wood,Micro Import (US$ Thousand),5535720.314,1.1832
+Australia,2018,Export,  All Products,Export (US$ Thousand),252775516.2,100
+Australia,2018,Export, Capital goods,Macro Export (US$ Thousand),11619803.29,31.8874
+Australia,2018,Export, Consumer goods,Macro Export (US$ Thousand),18032472.53,44.4697
+Australia,2018,Export, Intermediate goods,Macro Export (US$ Thousand),35750428.95,13.8807
+Australia,2018,Export, Raw materials,Macro Export (US$ Thousand),141805729,6.6353
+Australia,2018,Export,Other,Macro Export (US$ Thousand),45567082.5,3.1269
+Australia,2018,Export,Animal,Micro Export (US$ Thousand),14633048.35,1.1373
+Australia,2018,Export,Chemicals,Micro Export (US$ Thousand),8534012.192,8.2191
+Australia,2018,Export,Food Products,Micro Export (US$ Thousand),6154499.078,4.2406
+Australia,2018,Export,Footwear,Micro Export (US$ Thousand),81155.31978,0.9093
+Australia,2018,Export,Fuels,Micro Export (US$ Thousand),58315134.16,13.2805
+Australia,2018,Export,Hides and Skins,Micro Export (US$ Thousand),766111.7448,0.7045
+Australia,2018,Export,Mach and Elec,Micro Export (US$ Thousand),7910410.678,24.8838
+Australia,2018,Export,Metals,Micro Export (US$ Thousand),11377334.92,4.8434
+Australia,2018,Export,Minerals,Micro Export (US$ Thousand),57961766.53,0.6437
+Australia,2018,Export,Miscellaneous,Micro Export (US$ Thousand),49585538.89,10.7422
+Australia,2018,Export,Plastic or Rubber,Micro Export (US$ Thousand),1104736.975,3.9303
+Australia,2018,Export,Stone and Glass,Micro Export (US$ Thousand),15579307.2,3.9174
+Australia,2018,Export,Textiles and Clothing,Micro Export (US$ Thousand),4366015.363,4.138
+Australia,2018,Export,Transportation,Micro Export (US$ Thousand),3553920.259,14.6635
+Australia,2018,Export,Vegetable,Micro Export (US$ Thousand),9861591.34,1.396
+Australia,2018,Export,Wood,Micro Export (US$ Thousand),2990933.217,2.3504

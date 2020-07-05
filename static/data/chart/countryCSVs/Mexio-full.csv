@@ -1,0 +1,485 @@
+﻿reporter_name,_year,trade_flow,product_group,_indicator,total_dollars,total_perc
+Mexico,2008,Export,  All Products,Export (US$ Thousand),291264808.8,100
+Mexico,2008,Export, Capital goods,Macro Export (US$ Thousand),105869277.9,36.3481
+Mexico,2008,Export, Consumer goods,Macro Export (US$ Thousand),98088064.93,33.6766
+Mexico,2008,Export, Intermediate goods,Macro Export (US$ Thousand),29852378,10.2492
+Mexico,2008,Export, Raw materials,Macro Export (US$ Thousand),56135017.06,19.2728
+Mexico,2008,Export,Other,Macro Export (US$ Thousand),1320070.926,0.4533
+Mexico,2008,Export,Animal,Micro Export (US$ Thousand),1701459.189,0.5842
+Mexico,2008,Export,Chemicals,Micro Export (US$ Thousand),8750702.245,3.0044
+Mexico,2008,Export,Food Products,Micro Export (US$ Thousand),7100986.757,2.438
+Mexico,2008,Export,Footwear,Micro Export (US$ Thousand),386395.858,0.1327
+Mexico,2008,Export,Fuels,Micro Export (US$ Thousand),50165033.61,17.2232
+Mexico,2008,Export,Hides and Skins,Micro Export (US$ Thousand),514487.938,0.1766
+Mexico,2008,Export,Mach and Elec,Micro Export (US$ Thousand),108852005.2,37.3722
+Mexico,2008,Export,Metals,Micro Export (US$ Thousand),16162871,5.5492
+Mexico,2008,Export,Minerals,Micro Export (US$ Thousand),2046422.414,0.7026
+Mexico,2008,Export,Miscellaneous,Micro Export (US$ Thousand),18940409.98,6.5028
+Mexico,2008,Export,Plastic or Rubber,Micro Export (US$ Thousand),6856094.947,2.3539
+Mexico,2008,Export,Stone and Glass,Micro Export (US$ Thousand),8080881.052,2.7744
+Mexico,2008,Export,Textiles and Clothing,Micro Export (US$ Thousand),6862632.818,2.3561
+Mexico,2008,Export,Transportation,Micro Export (US$ Thousand),45022798.65,15.4577
+Mexico,2008,Export,Vegetable,Micro Export (US$ Thousand),7482333.329,2.5689
+Mexico,2008,Export,Wood,Micro Export (US$ Thousand),2339293.851,0.8032
+Mexico,2008,Import,  All Products,Import (US$ Thousand),308583119.9,100
+Mexico,2008,Import, Capital goods,Macro Import (US$ Thousand),132121432,42.8155
+Mexico,2008,Import, Consumer goods,Macro Import (US$ Thousand),91232719.57,29.565
+Mexico,2008,Import, Intermediate goods,Macro Import (US$ Thousand),61892612.02,20.057
+Mexico,2008,Import, Raw materials,Macro Import (US$ Thousand),18616397.77,6.0329
+Mexico,2008,Import,Other,Macro Import (US$ Thousand),4719958.579,1.5296
+Mexico,2008,Import,Animal,Micro Import (US$ Thousand),5486765.697,1.7781
+Mexico,2008,Import,Chemicals,Micro Import (US$ Thousand),23754312.48,7.6979
+Mexico,2008,Import,Food Products,Micro Import (US$ Thousand),5600613.71,1.8149
+Mexico,2008,Import,Footwear,Micro Import (US$ Thousand),729425.306,0.2364
+Mexico,2008,Import,Fuels,Micro Import (US$ Thousand),29195931.67,9.4613
+Mexico,2008,Import,Hides and Skins,Micro Import (US$ Thousand),1268426.914,0.411
+Mexico,2008,Import,Mach and Elec,Micro Import (US$ Thousand),110228396.2,35.7208
+Mexico,2008,Import,Metals,Micro Import (US$ Thousand),26888308.7,8.7135
+Mexico,2008,Import,Minerals,Micro Import (US$ Thousand),1874191.155,0.6074
+Mexico,2008,Import,Miscellaneous,Micro Import (US$ Thousand),23730779.91,7.6902
+Mexico,2008,Import,Plastic or Rubber,Micro Import (US$ Thousand),20258084.93,6.5649
+Mexico,2008,Import,Stone and Glass,Micro Import (US$ Thousand),3260721.18,1.0567
+Mexico,2008,Import,Textiles and Clothing,Micro Import (US$ Thousand),8512960.945,2.7587
+Mexico,2008,Import,Transportation,Micro Import (US$ Thousand),27842858.89,9.0228
+Mexico,2008,Import,Vegetable,Micro Import (US$ Thousand),11741695.95,3.805
+Mexico,2008,Import,Wood,Micro Import (US$ Thousand),8209646.354,2.6604
+Mexico,2009,Export,  All Products,Export (US$ Thousand),229712337.3,100
+Mexico,2009,Export, Capital goods,Macro Export (US$ Thousand),89873745.26,39.1245
+Mexico,2009,Export, Consumer goods,Macro Export (US$ Thousand),77875804.48,33.9014
+Mexico,2009,Export, Intermediate goods,Macro Export (US$ Thousand),23733213.01,10.3317
+Mexico,2009,Export, Raw materials,Macro Export (US$ Thousand),36942569.87,16.0821
+Mexico,2009,Export,Other,Macro Export (US$ Thousand),1287004.691,0.5603
+Mexico,2009,Export,Animal,Micro Export (US$ Thousand),1726378.455,0.7515
+Mexico,2009,Export,Chemicals,Micro Export (US$ Thousand),7802346.853,3.3966
+Mexico,2009,Export,Food Products,Micro Export (US$ Thousand),7137062.197,3.107
+Mexico,2009,Export,Footwear,Micro Export (US$ Thousand),367991.11,0.1602
+Mexico,2009,Export,Fuels,Micro Export (US$ Thousand),30501517.97,13.2781
+Mexico,2009,Export,Hides and Skins,Micro Export (US$ Thousand),414930.984,0.1806
+Mexico,2009,Export,Mach and Elec,Micro Export (US$ Thousand),89335966.82,38.8904
+Mexico,2009,Export,Metals,Micro Export (US$ Thousand),10640590.95,4.6321
+Mexico,2009,Export,Minerals,Micro Export (US$ Thousand),1519472.618,0.6615
+Mexico,2009,Export,Miscellaneous,Micro Export (US$ Thousand),16355968.96,7.1202
+Mexico,2009,Export,Plastic or Rubber,Micro Export (US$ Thousand),5808441.256,2.5286
+Mexico,2009,Export,Stone and Glass,Micro Export (US$ Thousand),8470317.831,3.6874
+Mexico,2009,Export,Textiles and Clothing,Micro Export (US$ Thousand),5664679.855,2.466
+Mexico,2009,Export,Transportation,Micro Export (US$ Thousand),34835528.47,15.1648
+Mexico,2009,Export,Vegetable,Micro Export (US$ Thousand),7161834.997,3.1177
+Mexico,2009,Export,Wood,Micro Export (US$ Thousand),1969307.98,0.8573
+Mexico,2009,Import,  All Products,Import (US$ Thousand),234384531.9,100
+Mexico,2009,Import, Capital goods,Macro Import (US$ Thousand),106580506.9,45.4725
+Mexico,2009,Import, Consumer goods,Macro Import (US$ Thousand),64267012.54,27.4195
+Mexico,2009,Import, Intermediate goods,Macro Import (US$ Thousand),45901993.38,19.5841
+Mexico,2009,Import, Raw materials,Macro Import (US$ Thousand),13128595.52,5.6013
+Mexico,2009,Import,Other,Macro Import (US$ Thousand),4506423.534,1.9226
+Mexico,2009,Import,Animal,Micro Import (US$ Thousand),4342574.225,1.8528
+Mexico,2009,Import,Chemicals,Micro Import (US$ Thousand),19670591.72,8.3924
+Mexico,2009,Import,Food Products,Micro Import (US$ Thousand),5105516.585,2.1783
+Mexico,2009,Import,Footwear,Micro Import (US$ Thousand),601826.967,0.2568
+Mexico,2009,Import,Fuels,Micro Import (US$ Thousand),15761487.89,6.7246
+Mexico,2009,Import,Hides and Skins,Micro Import (US$ Thousand),856207.456,0.3653
+Mexico,2009,Import,Mach and Elec,Micro Import (US$ Thousand),91847920.15,39.1869
+Mexico,2009,Import,Metals,Micro Import (US$ Thousand),18235962.05,7.7804
+Mexico,2009,Import,Minerals,Micro Import (US$ Thousand),797062.173,0.3401
+Mexico,2009,Import,Miscellaneous,Micro Import (US$ Thousand),17903052.04,7.6383
+Mexico,2009,Import,Plastic or Rubber,Micro Import (US$ Thousand),15854563.81,6.7643
+Mexico,2009,Import,Stone and Glass,Micro Import (US$ Thousand),2477893.188,1.0572
+Mexico,2009,Import,Textiles and Clothing,Micro Import (US$ Thousand),6718724.567,2.8665
+Mexico,2009,Import,Transportation,Micro Import (US$ Thousand),19078420.48,8.1398
+Mexico,2009,Import,Vegetable,Micro Import (US$ Thousand),8635672.39,3.6844
+Mexico,2009,Import,Wood,Micro Import (US$ Thousand),6497056.211,2.772
+Mexico,2010,Export,  All Products,Export (US$ Thousand),298305075.1,100
+Mexico,2010,Export, Capital goods,Macro Export (US$ Thousand),120458528.1,40.381
+Mexico,2010,Export, Consumer goods,Macro Export (US$ Thousand),94593393.05,31.7103
+Mexico,2010,Export, Intermediate goods,Macro Export (US$ Thousand),32109326.68,10.7639
+Mexico,2010,Export, Raw materials,Macro Export (US$ Thousand),49653054.92,16.6451
+Mexico,2010,Export,Other,Macro Export (US$ Thousand),1490772.36,0.4997
+Mexico,2010,Export,Animal,Micro Export (US$ Thousand),2036895.383,0.6828
+Mexico,2010,Export,Chemicals,Micro Export (US$ Thousand),8878493.561,2.9763
+Mexico,2010,Export,Food Products,Micro Export (US$ Thousand),8091609.568,2.7125
+Mexico,2010,Export,Footwear,Micro Export (US$ Thousand),459177.362,0.1539
+Mexico,2010,Export,Fuels,Micro Export (US$ Thousand),41071403.24,13.7683
+Mexico,2010,Export,Hides and Skins,Micro Export (US$ Thousand),479585.863,0.1608
+Mexico,2010,Export,Mach and Elec,Micro Export (US$ Thousand),113053509,37.8986
+Mexico,2010,Export,Metals,Micro Export (US$ Thousand),13740530.49,4.6062
+Mexico,2010,Export,Minerals,Micro Export (US$ Thousand),2463547.322,0.8258
+Mexico,2010,Export,Miscellaneous,Micro Export (US$ Thousand),19220050.51,6.4431
+Mexico,2010,Export,Plastic or Rubber,Micro Export (US$ Thousand),7418470.041,2.4869
+Mexico,2010,Export,Stone and Glass,Micro Export (US$ Thousand),12022734.71,4.0303
+Mexico,2010,Export,Textiles and Clothing,Micro Export (US$ Thousand),6265549.932,2.1004
+Mexico,2010,Export,Transportation,Micro Export (US$ Thousand),52963410.93,17.7548
+Mexico,2010,Export,Vegetable,Micro Export (US$ Thousand),7879971.05,2.6416
+Mexico,2010,Export,Wood,Micro Export (US$ Thousand),2260136.212,0.7577
+Mexico,2010,Import,  All Products,Import (US$ Thousand),301481733.9,100
+Mexico,2010,Import, Capital goods,Macro Import (US$ Thousand),136415509,45.2483
+Mexico,2010,Import, Consumer goods,Macro Import (US$ Thousand),83568692.6,27.7193
+Mexico,2010,Import, Intermediate goods,Macro Import (US$ Thousand),59414933.82,19.7076
+Mexico,2010,Import, Raw materials,Macro Import (US$ Thousand),16246895.12,5.389
+Mexico,2010,Import,Other,Macro Import (US$ Thousand),5835703.402,1.9358
+Mexico,2010,Import,Animal,Micro Import (US$ Thousand),5208331.225,1.7276
+Mexico,2010,Import,Chemicals,Micro Import (US$ Thousand),23463535.71,7.7827
+Mexico,2010,Import,Food Products,Micro Import (US$ Thousand),5700940.044,1.891
+Mexico,2010,Import,Footwear,Micro Import (US$ Thousand),775398.369,0.2572
+Mexico,2010,Import,Fuels,Micro Import (US$ Thousand),24057789.04,7.9798
+Mexico,2010,Import,Hides and Skins,Micro Import (US$ Thousand),1124223.033,0.3729
+Mexico,2010,Import,Mach and Elec,Micro Import (US$ Thousand),117613550.2,39.0118
+Mexico,2010,Import,Metals,Micro Import (US$ Thousand),24998337.84,8.2918
+Mexico,2010,Import,Minerals,Micro Import (US$ Thousand),1204247.997,0.3994
+Mexico,2010,Import,Miscellaneous,Micro Import (US$ Thousand),21454288.59,7.1163
+Mexico,2010,Import,Plastic or Rubber,Micro Import (US$ Thousand),21868869.57,7.2538
+Mexico,2010,Import,Stone and Glass,Micro Import (US$ Thousand),3165697.705,1.05
+Mexico,2010,Import,Textiles and Clothing,Micro Import (US$ Thousand),8089781.508,2.6833
+Mexico,2010,Import,Transportation,Micro Import (US$ Thousand),25405895.38,8.427
+Mexico,2010,Import,Vegetable,Micro Import (US$ Thousand),9532004.421,3.1617
+Mexico,2010,Import,Wood,Micro Import (US$ Thousand),7818843.258,2.5935
+Mexico,2011,Export,  All Products,Export (US$ Thousand),349326581.7,100
+Mexico,2011,Export, Capital goods,Macro Export (US$ Thousand),135580237,38.8119
+Mexico,2011,Export, Consumer goods,Macro Export (US$ Thousand),102873005.6,29.4489
+Mexico,2011,Export, Intermediate goods,Macro Export (US$ Thousand),41208830.9,11.7966
+Mexico,2011,Export, Raw materials,Macro Export (US$ Thousand),67348240.98,19.2794
+Mexico,2011,Export,Other,Macro Export (US$ Thousand),2316267.203,0.6632
+Mexico,2011,Export,Animal,Micro Export (US$ Thousand),2780596.786,0.796
+Mexico,2011,Export,Chemicals,Micro Export (US$ Thousand),10265756.6,2.9387
+Mexico,2011,Export,Food Products,Micro Export (US$ Thousand),9519944.933,2.7252
+Mexico,2011,Export,Footwear,Micro Export (US$ Thousand),555700.981,0.1591
+Mexico,2011,Export,Fuels,Micro Export (US$ Thousand),55700983.65,15.9452
+Mexico,2011,Export,Hides and Skins,Micro Export (US$ Thousand),577852.355,0.1654
+Mexico,2011,Export,Mach and Elec,Micro Export (US$ Thousand),118902681,34.0377
+Mexico,2011,Export,Metals,Micro Export (US$ Thousand),16831786.1,4.8184
+Mexico,2011,Export,Minerals,Micro Export (US$ Thousand),4098328.988,1.1732
+Mexico,2011,Export,Miscellaneous,Micro Export (US$ Thousand),21326361.94,6.105
+Mexico,2011,Export,Plastic or Rubber,Micro Export (US$ Thousand),8832870.147,2.5285
+Mexico,2011,Export,Stone and Glass,Micro Export (US$ Thousand),16177272.28,4.631
+Mexico,2011,Export,Textiles and Clothing,Micro Export (US$ Thousand),6842673.382,1.9588
+Mexico,2011,Export,Transportation,Micro Export (US$ Thousand),65063108.62,18.6253
+Mexico,2011,Export,Vegetable,Micro Export (US$ Thousand),9418200.49,2.6961
+Mexico,2011,Export,Wood,Micro Export (US$ Thousand),2432463.482,0.6963
+Mexico,2011,Import,  All Products,Import (US$ Thousand),350842805.6,100
+Mexico,2011,Import, Capital goods,Macro Import (US$ Thousand),151982714.9,43.3193
+Mexico,2011,Import, Consumer goods,Macro Import (US$ Thousand),100349121.7,28.6023
+Mexico,2011,Import, Intermediate goods,Macro Import (US$ Thousand),70388420.27,20.0627
+Mexico,2011,Import, Raw materials,Macro Import (US$ Thousand),20698888.44,5.8998
+Mexico,2011,Import,Other,Macro Import (US$ Thousand),7423660.32,2.1159
+Mexico,2011,Import,Animal,Micro Import (US$ Thousand),5912957.479,1.6854
+Mexico,2011,Import,Chemicals,Micro Import (US$ Thousand),27094416.69,7.7227
+Mexico,2011,Import,Food Products,Micro Import (US$ Thousand),6683593.074,1.905
+Mexico,2011,Import,Footwear,Micro Import (US$ Thousand),925003.6,0.2637
+Mexico,2011,Import,Fuels,Micro Import (US$ Thousand),35020909.06,9.9819
+Mexico,2011,Import,Hides and Skins,Micro Import (US$ Thousand),1413042.117,0.4028
+Mexico,2011,Import,Mach and Elec,Micro Import (US$ Thousand),129640298.7,36.9511
+Mexico,2011,Import,Metals,Micro Import (US$ Thousand),29417116.14,8.3847
+Mexico,2011,Import,Minerals,Micro Import (US$ Thousand),1639333.868,0.4673
+Mexico,2011,Import,Miscellaneous,Micro Import (US$ Thousand),24438653.53,6.9657
+Mexico,2011,Import,Plastic or Rubber,Micro Import (US$ Thousand),24100783.06,6.8694
+Mexico,2011,Import,Stone and Glass,Micro Import (US$ Thousand),3709066.441,1.0572
+Mexico,2011,Import,Textiles and Clothing,Micro Import (US$ Thousand),9501944.77,2.7083
+Mexico,2011,Import,Transportation,Micro Import (US$ Thousand),30102247.78,8.58
+Mexico,2011,Import,Vegetable,Micro Import (US$ Thousand),13045561.17,3.7183
+Mexico,2011,Import,Wood,Micro Import (US$ Thousand),8197878.098,2.3366
+Mexico,2012,Export,  All Products,Export (US$ Thousand),370642551.9,100
+Mexico,2012,Export, Capital goods,Macro Export (US$ Thousand),151740058,40.9397
+Mexico,2012,Export, Consumer goods,Macro Export (US$ Thousand),106286966.4,28.6764
+Mexico,2012,Export, Intermediate goods,Macro Export (US$ Thousand),42375276.16,11.4329
+Mexico,2012,Export, Raw materials,Macro Export (US$ Thousand),65896367.73,17.779
+Mexico,2012,Export,Other,Macro Export (US$ Thousand),4343883.56,1.172
+Mexico,2012,Export,Animal,Micro Export (US$ Thousand),2867304.281,0.7736
+Mexico,2012,Export,Chemicals,Micro Export (US$ Thousand),11327655.48,3.0562
+Mexico,2012,Export,Food Products,Micro Export (US$ Thousand),9224806.996,2.4889
+Mexico,2012,Export,Footwear,Micro Export (US$ Thousand),683066.047,0.1843
+Mexico,2012,Export,Fuels,Micro Export (US$ Thousand),52100321.09,14.0568
+Mexico,2012,Export,Hides and Skins,Micro Export (US$ Thousand),731824.555,0.1974
+Mexico,2012,Export,Mach and Elec,Micro Export (US$ Thousand),128382303.4,34.6378
+Mexico,2012,Export,Metals,Micro Export (US$ Thousand),16566367.07,4.4696
+Mexico,2012,Export,Minerals,Micro Export (US$ Thousand),4989618.512,1.3462
+Mexico,2012,Export,Miscellaneous,Micro Export (US$ Thousand),25659876.05,6.9231
+Mexico,2012,Export,Plastic or Rubber,Micro Export (US$ Thousand),9992517.38,2.696
+Mexico,2012,Export,Stone and Glass,Micro Export (US$ Thousand),16390918.79,4.4223
+Mexico,2012,Export,Textiles and Clothing,Micro Export (US$ Thousand),6764873.373,1.8252
+Mexico,2012,Export,Transportation,Micro Export (US$ Thousand),73078136.41,19.7166
+Mexico,2012,Export,Vegetable,Micro Export (US$ Thousand),9563839.813,2.5803
+Mexico,2012,Export,Wood,Micro Export (US$ Thousand),2319122.635,0.6257
+Mexico,2012,Import,  All Products,Import (US$ Thousand),370751407.5,100
+Mexico,2012,Import, Capital goods,Macro Import (US$ Thousand),164220806.2,44.294
+Mexico,2012,Import, Consumer goods,Macro Import (US$ Thousand),103330683.6,27.8706
+Mexico,2012,Import, Intermediate goods,Macro Import (US$ Thousand),74887509.38,20.1988
+Mexico,2012,Import, Raw materials,Macro Import (US$ Thousand),17872409.4,4.8206
+Mexico,2012,Import,Other,Macro Import (US$ Thousand),10439998.91,2.816
+Mexico,2012,Import,Animal,Micro Import (US$ Thousand),5823084.78,1.5706
+Mexico,2012,Import,Chemicals,Micro Import (US$ Thousand),28445317.05,7.6723
+Mexico,2012,Import,Food Products,Micro Import (US$ Thousand),7099098.672,1.9148
+Mexico,2012,Import,Footwear,Micro Import (US$ Thousand),1040977.433,0.2808
+Mexico,2012,Import,Fuels,Micro Import (US$ Thousand),33342594.99,8.9932
+Mexico,2012,Import,Hides and Skins,Micro Import (US$ Thousand),1656321.36,0.4467
+Mexico,2012,Import,Mach and Elec,Micro Import (US$ Thousand),138017741.4,37.2265
+Mexico,2012,Import,Metals,Micro Import (US$ Thousand),32184931.79,8.681
+Mexico,2012,Import,Minerals,Micro Import (US$ Thousand),1617332.511,0.4362
+Mexico,2012,Import,Miscellaneous,Micro Import (US$ Thousand),28543065.62,7.6987
+Mexico,2012,Import,Plastic or Rubber,Micro Import (US$ Thousand),26209600.92,7.0693
+Mexico,2012,Import,Stone and Glass,Micro Import (US$ Thousand),3808575.33,1.0273
+Mexico,2012,Import,Textiles and Clothing,Micro Import (US$ Thousand),9418104.853,2.5403
+Mexico,2012,Import,Transportation,Micro Import (US$ Thousand),34163960.2,9.2148
+Mexico,2012,Import,Vegetable,Micro Import (US$ Thousand),11092514.13,2.9919
+Mexico,2012,Import,Wood,Micro Import (US$ Thousand),8288186.508,2.2355
+Mexico,2013,Export,  All Products,Export (US$ Thousand),379949273.1,100
+Mexico,2013,Export, Capital goods,Macro Export (US$ Thousand),159786393.2,42.0547
+Mexico,2013,Export, Consumer goods,Macro Export (US$ Thousand),114026177.4,30.0109
+Mexico,2013,Export, Intermediate goods,Macro Export (US$ Thousand),40184190.85,10.5762
+Mexico,2013,Export, Raw materials,Macro Export (US$ Thousand),62571429.62,16.4684
+Mexico,2013,Export,Other,Macro Export (US$ Thousand),3381082.099,0.8898
+Mexico,2013,Export,Animal,Micro Export (US$ Thousand),2842842.394,0.7482
+Mexico,2013,Export,Chemicals,Micro Export (US$ Thousand),11378713.95,2.9948
+Mexico,2013,Export,Food Products,Micro Export (US$ Thousand),10642344.37,2.801
+Mexico,2013,Export,Footwear,Micro Export (US$ Thousand),783506,0.2062
+Mexico,2013,Export,Fuels,Micro Export (US$ Thousand),48679871.76,12.8122
+Mexico,2013,Export,Hides and Skins,Micro Export (US$ Thousand),709786.272,0.1868
+Mexico,2013,Export,Mach and Elec,Micro Export (US$ Thousand),131715505.2,34.6666
+Mexico,2013,Export,Metals,Micro Export (US$ Thousand),16791765.61,4.4195
+Mexico,2013,Export,Minerals,Micro Export (US$ Thousand),4843306.776,1.2747
+Mexico,2013,Export,Miscellaneous,Micro Export (US$ Thousand),26683763.39,7.023
+Mexico,2013,Export,Plastic or Rubber,Micro Export (US$ Thousand),10558167.18,2.7788
+Mexico,2013,Export,Stone and Glass,Micro Export (US$ Thousand),13211238.29,3.4771
+Mexico,2013,Export,Textiles and Clothing,Micro Export (US$ Thousand),6940269.862,1.8266
+Mexico,2013,Export,Transportation,Micro Export (US$ Thousand),80739987.65,21.2502
+Mexico,2013,Export,Vegetable,Micro Export (US$ Thousand),10629793.91,2.7977
+Mexico,2013,Export,Wood,Micro Export (US$ Thousand),2798410.503,0.7365
+Mexico,2013,Import,  All Products,Import (US$ Thousand),381210149.5,100
+Mexico,2013,Import, Capital goods,Macro Import (US$ Thousand),171883688.8,45.089
+Mexico,2013,Import, Consumer goods,Macro Import (US$ Thousand),107215959.5,28.1252
+Mexico,2013,Import, Intermediate goods,Macro Import (US$ Thousand),74508927.16,19.5454
+Mexico,2013,Import, Raw materials,Macro Import (US$ Thousand),19018442.87,4.989
+Mexico,2013,Import,Other,Macro Import (US$ Thousand),8583131.132,2.2514
+Mexico,2013,Import,Animal,Micro Import (US$ Thousand),6929301.801,1.8177
+Mexico,2013,Import,Chemicals,Micro Import (US$ Thousand),29133485.18,7.6424
+Mexico,2013,Import,Food Products,Micro Import (US$ Thousand),7347495.763,1.9274
+Mexico,2013,Import,Footwear,Micro Import (US$ Thousand),1090564.364,0.2861
+Mexico,2013,Import,Fuels,Micro Import (US$ Thousand),32909496.37,8.6329
+Mexico,2013,Import,Hides and Skins,Micro Import (US$ Thousand),1809518.855,0.4747
+Mexico,2013,Import,Mach and Elec,Micro Import (US$ Thousand),146023145.9,38.3052
+Mexico,2013,Import,Metals,Micro Import (US$ Thousand),30544270.41,8.0124
+Mexico,2013,Import,Minerals,Micro Import (US$ Thousand),1357288.785,0.356
+Mexico,2013,Import,Miscellaneous,Micro Import (US$ Thousand),27811229.58,7.2955
+Mexico,2013,Import,Plastic or Rubber,Micro Import (US$ Thousand),27148937.17,7.1218
+Mexico,2013,Import,Stone and Glass,Micro Import (US$ Thousand),3805295.73,0.9982
+Mexico,2013,Import,Textiles and Clothing,Micro Import (US$ Thousand),9842898.009,2.582
+Mexico,2013,Import,Transportation,Micro Import (US$ Thousand),34894570.68,9.1536
+Mexico,2013,Import,Vegetable,Micro Import (US$ Thousand),11985087.25,3.144
+Mexico,2013,Import,Wood,Micro Import (US$ Thousand),8577563.583,2.2501
+Mexico,2014,Export,  All Products,Export (US$ Thousand),396881845.7,100
+Mexico,2014,Export, Capital goods,Macro Export (US$ Thousand),178823002.7,45.057
+Mexico,2014,Export, Consumer goods,Macro Export (US$ Thousand),117859369.1,29.6963
+Mexico,2014,Export, Intermediate goods,Macro Export (US$ Thousand),39546330.47,9.9643
+Mexico,2014,Export, Raw materials,Macro Export (US$ Thousand),56722465.69,14.292
+Mexico,2014,Export,Other,Macro Export (US$ Thousand),3930677.781,0.9904
+Mexico,2014,Export,Animal,Micro Export (US$ Thousand),3465495.276,0.8732
+Mexico,2014,Export,Chemicals,Micro Export (US$ Thousand),11193450.46,2.8203
+Mexico,2014,Export,Food Products,Micro Export (US$ Thousand),10602510.94,2.6715
+Mexico,2014,Export,Footwear,Micro Export (US$ Thousand),768768.377,0.1937
+Mexico,2014,Export,Fuels,Micro Export (US$ Thousand),41572992.24,10.4749
+Mexico,2014,Export,Hides and Skins,Micro Export (US$ Thousand),780862.768,0.1967
+Mexico,2014,Export,Mach and Elec,Micro Export (US$ Thousand),140264420.2,35.3416
+Mexico,2014,Export,Metals,Micro Export (US$ Thousand),17468369.88,4.4014
+Mexico,2014,Export,Minerals,Micro Export (US$ Thousand),5149980.455,1.2976
+Mexico,2014,Export,Miscellaneous,Micro Export (US$ Thousand),30559369.29,7.6999
+Mexico,2014,Export,Plastic or Rubber,Micro Export (US$ Thousand),11232405.15,2.8302
+Mexico,2014,Export,Stone and Glass,Micro Export (US$ Thousand),11444096.08,2.8835
+Mexico,2014,Export,Textiles and Clothing,Micro Export (US$ Thousand),6993246.62,1.762
+Mexico,2014,Export,Transportation,Micro Export (US$ Thousand),91045964.2,22.9403
+Mexico,2014,Export,Vegetable,Micro Export (US$ Thousand),11437049.28,2.8817
+Mexico,2014,Export,Wood,Micro Export (US$ Thousand),2902864.544,0.7314
+Mexico,2014,Import,  All Products,Import (US$ Thousand),399976864.2,100
+Mexico,2014,Import, Capital goods,Macro Import (US$ Thousand),178849911.1,44.7151
+Mexico,2014,Import, Consumer goods,Macro Import (US$ Thousand),112066752.5,28.0183
+Mexico,2014,Import, Intermediate goods,Macro Import (US$ Thousand),78792880.9,19.6994
+Mexico,2014,Import, Raw materials,Macro Import (US$ Thousand),19594458.26,4.8989
+Mexico,2014,Import,Other,Macro Import (US$ Thousand),10672861.37,2.6683
+Mexico,2014,Import,Animal,Micro Import (US$ Thousand),7813806.923,1.9536
+Mexico,2014,Import,Chemicals,Micro Import (US$ Thousand),30431252.28,7.6083
+Mexico,2014,Import,Food Products,Micro Import (US$ Thousand),7388389.921,1.8472
+Mexico,2014,Import,Footwear,Micro Import (US$ Thousand),1211689.778,0.3029
+Mexico,2014,Import,Fuels,Micro Import (US$ Thousand),33228756.62,8.3077
+Mexico,2014,Import,Hides and Skins,Micro Import (US$ Thousand),2080040.232,0.52
+Mexico,2014,Import,Mach and Elec,Micro Import (US$ Thousand),150516887.7,37.6314
+Mexico,2014,Import,Metals,Micro Import (US$ Thousand),32772078.95,8.1935
+Mexico,2014,Import,Minerals,Micro Import (US$ Thousand),1273566.028,0.3184
+Mexico,2014,Import,Miscellaneous,Micro Import (US$ Thousand),31177740.27,7.7949
+Mexico,2014,Import,Plastic or Rubber,Micro Import (US$ Thousand),29090107.25,7.2729
+Mexico,2014,Import,Stone and Glass,Micro Import (US$ Thousand),4209068.863,1.0523
+Mexico,2014,Import,Textiles and Clothing,Micro Import (US$ Thousand),10336988.37,2.5844
+Mexico,2014,Import,Transportation,Micro Import (US$ Thousand),37734625.95,9.4342
+Mexico,2014,Import,Vegetable,Micro Import (US$ Thousand),11829404.22,2.9575
+Mexico,2014,Import,Wood,Micro Import (US$ Thousand),8882460.901,2.2207
+Mexico,2015,Export,  All Products,Export (US$ Thousand),380527499.7,100
+Mexico,2015,Export, Capital goods,Macro Export (US$ Thousand),183148766.9,48.1302
+Mexico,2015,Export, Consumer goods,Macro Export (US$ Thousand),117799042,30.9568
+Mexico,2015,Export, Intermediate goods,Macro Export (US$ Thousand),35129533.3,9.2318
+Mexico,2015,Export, Raw materials,Macro Export (US$ Thousand),39630107.48,10.4145
+Mexico,2015,Export,Other,Macro Export (US$ Thousand),4820049.977,1.2667
+Mexico,2015,Export,Animal,Micro Export (US$ Thousand),3663223.185,0.9627
+Mexico,2015,Export,Chemicals,Micro Export (US$ Thousand),10468468.62,2.751
+Mexico,2015,Export,Food Products,Micro Export (US$ Thousand),10694996.44,2.8106
+Mexico,2015,Export,Footwear,Micro Export (US$ Thousand),752077.236,0.1976
+Mexico,2015,Export,Fuels,Micro Export (US$ Thousand),22508673.16,5.9151
+Mexico,2015,Export,Hides and Skins,Micro Export (US$ Thousand),754218.751,0.1982
+Mexico,2015,Export,Mach and Elec,Micro Export (US$ Thousand),140052680.5,36.8049
+Mexico,2015,Export,Metals,Micro Export (US$ Thousand),15521570.33,4.079
+Mexico,2015,Export,Minerals,Micro Export (US$ Thousand),4542025.626,1.1936
+Mexico,2015,Export,Miscellaneous,Micro Export (US$ Thousand),32582492.71,8.5625
+Mexico,2015,Export,Plastic or Rubber,Micro Export (US$ Thousand),10933851.29,2.8733
+Mexico,2015,Export,Stone and Glass,Micro Export (US$ Thousand),10747883.44,2.8245
+Mexico,2015,Export,Textiles and Clothing,Micro Export (US$ Thousand),6818350.638,1.7918
+Mexico,2015,Export,Transportation,Micro Export (US$ Thousand),95267733.06,25.0357
+Mexico,2015,Export,Vegetable,Micro Export (US$ Thousand),12261571.95,3.2223
+Mexico,2015,Export,Wood,Micro Export (US$ Thousand),2957682.733,0.7773
+Mexico,2015,Import,  All Products,Import (US$ Thousand),395232221.2,100
+Mexico,2015,Import, Capital goods,Macro Import (US$ Thousand),182656993.3,46.2151
+Mexico,2015,Import, Consumer goods,Macro Import (US$ Thousand),107938746.7,27.3102
+Mexico,2015,Import, Intermediate goods,Macro Import (US$ Thousand),75457000.39,19.0918
+Mexico,2015,Import, Raw materials,Macro Import (US$ Thousand),17477698.1,4.4221
+Mexico,2015,Import,Other,Macro Import (US$ Thousand),11701782.66,2.9608
+Mexico,2015,Import,Animal,Micro Import (US$ Thousand),6493533.05,1.643
+Mexico,2015,Import,Chemicals,Micro Import (US$ Thousand),27922766.71,7.0649
+Mexico,2015,Import,Food Products,Micro Import (US$ Thousand),7295611.87,1.8459
+Mexico,2015,Import,Footwear,Micro Import (US$ Thousand),1258504.569,0.3184
+Mexico,2015,Import,Fuels,Micro Import (US$ Thousand),26455441.01,6.6936
+Mexico,2015,Import,Hides and Skins,Micro Import (US$ Thousand),2077629.893,0.5257
+Mexico,2015,Import,Mach and Elec,Micro Import (US$ Thousand),152904142.3,38.6872
+Mexico,2015,Import,Metals,Micro Import (US$ Thousand),32717121.9,8.2779
+Mexico,2015,Import,Minerals,Micro Import (US$ Thousand),1069176.395,0.2705
+Mexico,2015,Import,Miscellaneous,Micro Import (US$ Thousand),34272448.02,8.6715
+Mexico,2015,Import,Plastic or Rubber,Micro Import (US$ Thousand),28932558.2,7.3204
+Mexico,2015,Import,Stone and Glass,Micro Import (US$ Thousand),4257226.291,1.0771
+Mexico,2015,Import,Textiles and Clothing,Micro Import (US$ Thousand),10511633.68,2.6596
+Mexico,2015,Import,Transportation,Micro Import (US$ Thousand),39187879.63,9.9152
+Mexico,2015,Import,Vegetable,Micro Import (US$ Thousand),10978967.4,2.7779
+Mexico,2015,Import,Wood,Micro Import (US$ Thousand),8897580.292,2.2512
+Mexico,2016,Export,  All Products,Export (US$ Thousand),373900013.3,100
+Mexico,2016,Export, Capital goods,Macro Export (US$ Thousand),183998578.7,49.2106
+Mexico,2016,Export, Consumer goods,Macro Export (US$ Thousand),111213345.6,29.7441
+Mexico,2016,Export, Intermediate goods,Macro Export (US$ Thousand),35551517.64,9.5083
+Mexico,2016,Export, Raw materials,Macro Export (US$ Thousand),38190974.65,10.2142
+Mexico,2016,Export,Other,Macro Export (US$ Thousand),4945596.726,1.3228
+Mexico,2016,Export,Animal,Micro Export (US$ Thousand),3442451.052,0.9207
+Mexico,2016,Export,Chemicals,Micro Export (US$ Thousand),9600407.883,2.5676
+Mexico,2016,Export,Food Products,Micro Export (US$ Thousand),11195625.93,2.9943
+Mexico,2016,Export,Footwear,Micro Export (US$ Thousand),667261.816,0.1785
+Mexico,2016,Export,Fuels,Micro Export (US$ Thousand),18124099.67,4.8473
+Mexico,2016,Export,Hides and Skins,Micro Export (US$ Thousand),654804.939,0.1751
+Mexico,2016,Export,Mach and Elec,Micro Export (US$ Thousand),138040369.7,36.9191
+Mexico,2016,Export,Metals,Micro Export (US$ Thousand),15691021.77,4.1966
+Mexico,2016,Export,Minerals,Micro Export (US$ Thousand),4410813.384,1.1797
+Mexico,2016,Export,Miscellaneous,Micro Export (US$ Thousand),34118253.85,9.125
+Mexico,2016,Export,Plastic or Rubber,Micro Export (US$ Thousand),10926502.35,2.9223
+Mexico,2016,Export,Stone and Glass,Micro Export (US$ Thousand),11059414.83,2.9579
+Mexico,2016,Export,Textiles and Clothing,Micro Export (US$ Thousand),6473520.457,1.7314
+Mexico,2016,Export,Transportation,Micro Export (US$ Thousand),92407548.39,24.7145
+Mexico,2016,Export,Vegetable,Micro Export (US$ Thousand),14256826.89,3.813
+Mexico,2016,Export,Wood,Micro Export (US$ Thousand),2831090.448,0.7572
+Mexico,2016,Import,  All Products,Import (US$ Thousand),387064351.3,100
+Mexico,2016,Import, Capital goods,Macro Import (US$ Thousand),180853391.3,46.7244
+Mexico,2016,Import, Consumer goods,Macro Import (US$ Thousand),103904386.6,26.8442
+Mexico,2016,Import, Intermediate goods,Macro Import (US$ Thousand),72138210.93,18.6373
+Mexico,2016,Import, Raw materials,Macro Import (US$ Thousand),17443280.82,4.5066
+Mexico,2016,Import,Other,Macro Import (US$ Thousand),12725081.65,3.2875
+Mexico,2016,Import,Animal,Micro Import (US$ Thousand),6264872.363,1.6186
+Mexico,2016,Import,Chemicals,Micro Import (US$ Thousand),26297583.69,6.7941
+Mexico,2016,Import,Food Products,Micro Import (US$ Thousand),7311325.484,1.8889
+Mexico,2016,Import,Footwear,Micro Import (US$ Thousand),1233113.341,0.3186
+Mexico,2016,Import,Fuels,Micro Import (US$ Thousand),25087010.9,6.4814
+Mexico,2016,Import,Hides and Skins,Micro Import (US$ Thousand),2042641.649,0.5277
+Mexico,2016,Import,Mach and Elec,Micro Import (US$ Thousand),151174059.6,39.0566
+Mexico,2016,Import,Metals,Micro Import (US$ Thousand),30978821.78,8.0035
+Mexico,2016,Import,Minerals,Micro Import (US$ Thousand),1102807.297,0.2849
+Mexico,2016,Import,Miscellaneous,Micro Import (US$ Thousand),34516835.35,8.9176
+Mexico,2016,Import,Plastic or Rubber,Micro Import (US$ Thousand),28328616.73,7.3188
+Mexico,2016,Import,Stone and Glass,Micro Import (US$ Thousand),3957244.465,1.0224
+Mexico,2016,Import,Textiles and Clothing,Micro Import (US$ Thousand),10212558.53,2.6385
+Mexico,2016,Import,Transportation,Micro Import (US$ Thousand),38763055.34,10.0146
+Mexico,2016,Import,Vegetable,Micro Import (US$ Thousand),11241193.38,2.9042
+Mexico,2016,Import,Wood,Micro Import (US$ Thousand),8552611.407,2.2096
+Mexico,2017,Export,  All Products,Export (US$ Thousand),409451378.2,100
+Mexico,2017,Export, Capital goods,Macro Export (US$ Thousand),197115926.5,48.1415
+Mexico,2017,Export, Consumer goods,Macro Export (US$ Thousand),124893550,30.5027
+Mexico,2017,Export, Intermediate goods,Macro Export (US$ Thousand),37189859.88,9.0829
+Mexico,2017,Export, Raw materials,Macro Export (US$ Thousand),44943328.36,10.9765
+Mexico,2017,Export,Other,Macro Export (US$ Thousand),5308713.415,1.2964
+Mexico,2017,Export,Animal,Micro Export (US$ Thousand),3850577.498,0.9404
+Mexico,2017,Export,Chemicals,Micro Export (US$ Thousand),9799021.749,2.3932
+Mexico,2017,Export,Food Products,Micro Export (US$ Thousand),13276107.4,3.2424
+Mexico,2017,Export,Footwear,Micro Export (US$ Thousand),694880.033,0.1697
+Mexico,2017,Export,Fuels,Micro Export (US$ Thousand),22617826.18,5.5239
+Mexico,2017,Export,Hides and Skins,Micro Export (US$ Thousand),640449.809,0.1564
+Mexico,2017,Export,Mach and Elec,Micro Export (US$ Thousand),147409573.5,36.0017
+Mexico,2017,Export,Metals,Micro Export (US$ Thousand),16755929.72,4.0923
+Mexico,2017,Export,Minerals,Micro Export (US$ Thousand),5452522.653,1.3317
+Mexico,2017,Export,Miscellaneous,Micro Export (US$ Thousand),36177198.14,8.8355
+Mexico,2017,Export,Plastic or Rubber,Micro Export (US$ Thousand),11863141.88,2.8973
+Mexico,2017,Export,Stone and Glass,Micro Export (US$ Thousand),10514180.77,2.5679
+Mexico,2017,Export,Textiles and Clothing,Micro Export (US$ Thousand),6464308.04,1.5788
+Mexico,2017,Export,Transportation,Micro Export (US$ Thousand),105475071.8,25.7601
+Mexico,2017,Export,Vegetable,Micro Export (US$ Thousand),15404719.54,3.7623
+Mexico,2017,Export,Wood,Micro Export (US$ Thousand),3055869.517,0.7463
+Mexico,2017,Import,  All Products,Import (US$ Thousand),420369113.3,100
+Mexico,2017,Import, Capital goods,Macro Import (US$ Thousand),188879440.9,44.9318
+Mexico,2017,Import, Consumer goods,Macro Import (US$ Thousand),118057407.6,28.0842
+Mexico,2017,Import, Intermediate goods,Macro Import (US$ Thousand),79141922.67,18.8268
+Mexico,2017,Import, Raw materials,Macro Import (US$ Thousand),19221652.99,4.5726
+Mexico,2017,Import,Other,Macro Import (US$ Thousand),15068689.09,3.5846
+Mexico,2017,Import,Animal,Micro Import (US$ Thousand),6885521.028,1.638
+Mexico,2017,Import,Chemicals,Micro Import (US$ Thousand),28783030.97,6.8471
+Mexico,2017,Import,Food Products,Micro Import (US$ Thousand),7254509.191,1.7257
+Mexico,2017,Import,Footwear,Micro Import (US$ Thousand),1329355.391,0.3162
+Mexico,2017,Import,Fuels,Micro Import (US$ Thousand),35531072.62,8.4524
+Mexico,2017,Import,Hides and Skins,Micro Import (US$ Thousand),1902799.04,0.4526
+Mexico,2017,Import,Mach and Elec,Micro Import (US$ Thousand),156696686.2,37.276
+Mexico,2017,Import,Metals,Micro Import (US$ Thousand),34502516.33,8.2077
+Mexico,2017,Import,Minerals,Micro Import (US$ Thousand),1326936.751,0.3157
+Mexico,2017,Import,Miscellaneous,Micro Import (US$ Thousand),37815901.21,8.9959
+Mexico,2017,Import,Plastic or Rubber,Micro Import (US$ Thousand),30099943.04,7.1604
+Mexico,2017,Import,Stone and Glass,Micro Import (US$ Thousand),4079943.559,0.9706
+Mexico,2017,Import,Textiles and Clothing,Micro Import (US$ Thousand),10223704.67,2.4321
+Mexico,2017,Import,Transportation,Micro Import (US$ Thousand),42955416.04,10.2185
+Mexico,2017,Import,Vegetable,Micro Import (US$ Thousand),11998838.68,2.8544
+Mexico,2017,Import,Wood,Micro Import (US$ Thousand),8982938.54,2.1369
+Mexico,2018,Export,  All Products,Export (US$ Thousand),450531651.2,100
+Mexico,2018,Export, Capital goods,Macro Export (US$ Thousand),214336680.6,47.5742
+Mexico,2018,Export, Consumer goods,Macro Export (US$ Thousand),136851888.5,30.3756
+Mexico,2018,Export, Intermediate goods,Macro Export (US$ Thousand),39977734.8,8.8735
+Mexico,2018,Export, Raw materials,Macro Export (US$ Thousand),53028668.15,11.7702
+Mexico,2018,Export,Other,Macro Export (US$ Thousand),6336679.196,1.4065
+Mexico,2018,Export,Animal,Micro Export (US$ Thousand),4269453.034,0.9476
+Mexico,2018,Export,Chemicals,Micro Export (US$ Thousand),10244773.98,2.2739
+Mexico,2018,Export,Food Products,Micro Export (US$ Thousand),14558402.22,3.2314
+Mexico,2018,Export,Footwear,Micro Export (US$ Thousand),754804.166,0.1675
+Mexico,2018,Export,Fuels,Micro Export (US$ Thousand),29706020.6,6.5935
+Mexico,2018,Export,Hides and Skins,Micro Export (US$ Thousand),785784.615,0.1744
+Mexico,2018,Export,Mach and Elec,Micro Export (US$ Thousand),157181981.8,34.8881
+Mexico,2018,Export,Metals,Micro Export (US$ Thousand),19214053.12,4.2648
+Mexico,2018,Export,Minerals,Micro Export (US$ Thousand),6306950.873,1.3999
+Mexico,2018,Export,Miscellaneous,Micro Export (US$ Thousand),38767756.89,8.6049
+Mexico,2018,Export,Plastic or Rubber,Micro Export (US$ Thousand),12765859.4,2.8335
+Mexico,2018,Export,Stone and Glass,Micro Export (US$ Thousand),10521296.22,2.3353
+Mexico,2018,Export,Textiles and Clothing,Micro Export (US$ Thousand),6822787.775,1.5144
+Mexico,2018,Export,Transportation,Micro Export (US$ Thousand),119864552.1,26.6051
+Mexico,2018,Export,Vegetable,Micro Export (US$ Thousand),15629747.5,3.4692
+Mexico,2018,Export,Wood,Micro Export (US$ Thousand),3137426.929,0.6964
+Mexico,2018,Import,  All Products,Import (US$ Thousand),464268470.3,100
+Mexico,2018,Import, Capital goods,Macro Import (US$ Thousand),206390651.3,44.455
+Mexico,2018,Import, Consumer goods,Macro Import (US$ Thousand),132115779.8,28.4568
+Mexico,2018,Import, Intermediate goods,Macro Import (US$ Thousand),87482271.44,18.843
+Mexico,2018,Import, Raw materials,Macro Import (US$ Thousand),21118330.97,4.5487
+Mexico,2018,Import,Other,Macro Import (US$ Thousand),17161436.87,3.6965
+Mexico,2018,Import,Animal,Micro Import (US$ Thousand),6814058.35,1.4677
+Mexico,2018,Import,Chemicals,Micro Import (US$ Thousand),31660274.65,6.8194
+Mexico,2018,Import,Food Products,Micro Import (US$ Thousand),7625187.492,1.6424
+Mexico,2018,Import,Footwear,Micro Import (US$ Thousand),1408936.888,0.3035
+Mexico,2018,Import,Fuels,Micro Import (US$ Thousand),46331739.86,9.9795
+Mexico,2018,Import,Hides and Skins,Micro Import (US$ Thousand),2025998.21,0.4364
+Mexico,2018,Import,Mach and Elec,Micro Import (US$ Thousand),172158252.6,37.0816
+Mexico,2018,Import,Metals,Micro Import (US$ Thousand),38565352.34,8.3067
+Mexico,2018,Import,Minerals,Micro Import (US$ Thousand),2010764.634,0.4331
+Mexico,2018,Import,Miscellaneous,Micro Import (US$ Thousand),40431774.48,8.7087
+Mexico,2018,Import,Plastic or Rubber,Micro Import (US$ Thousand),32391506.08,6.9769
+Mexico,2018,Import,Stone and Glass,Micro Import (US$ Thousand),4421048.757,0.9523
+Mexico,2018,Import,Textiles and Clothing,Micro Import (US$ Thousand),10954991.48,2.3596
+Mexico,2018,Import,Transportation,Micro Import (US$ Thousand),44846227.39,9.6595
+Mexico,2018,Import,Vegetable,Micro Import (US$ Thousand),12920985.68,2.7831
+Mexico,2018,Import,Wood,Micro Import (US$ Thousand),9701371.488,2.0896

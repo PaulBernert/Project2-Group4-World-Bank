@@ -1,0 +1,485 @@
+﻿reporter_name,_year,trade_flow,product_group,_indicator,total_dollars,total_perc
+United States,2008,Export,  All Products,Export (US$ Thousand),1299898877,100
+United States,2008,Export, Capital goods,Macro Export (US$ Thousand),522991101.2,40.2332
+United States,2008,Export, Consumer goods,Macro Export (US$ Thousand),308502141.8,23.7328
+United States,2008,Export, Intermediate goods,Macro Export (US$ Thousand),294522213.2,22.6573
+United States,2008,Export, Raw materials,Macro Export (US$ Thousand),136226242.6,10.4798
+United States,2008,Export,Other,Macro Export (US$ Thousand),37657178.36,2.8969
+United States,2008,Export,Animal,Micro Export (US$ Thousand),20737393.98,1.5953
+United States,2008,Export,Chemicals,Micro Export (US$ Thousand),141335023.6,10.8728
+United States,2008,Export,Food Products,Micro Export (US$ Thousand),28426277.95,2.1868
+United States,2008,Export,Footwear,Micro Export (US$ Thousand),1358896.759,0.1045
+United States,2008,Export,Fuels,Micro Export (US$ Thousand),76711358.17,5.9013
+United States,2008,Export,Hides and Skins,Micro Export (US$ Thousand),4276976.817,0.329
+United States,2008,Export,Mach and Elec,Micro Export (US$ Thousand),365173925.8,28.0925
+United States,2008,Export,Metals,Micro Export (US$ Thousand),74834353.6,5.7569
+United States,2008,Export,Minerals,Micro Export (US$ Thousand),8708374.731,0.6699
+United States,2008,Export,Miscellaneous,Micro Export (US$ Thousand),139000182.5,10.6932
+United States,2008,Export,Plastic or Rubber,Micro Export (US$ Thousand),62999284.28,4.8465
+United States,2008,Export,Stone and Glass,Micro Export (US$ Thousand),60056176.42,4.6201
+United States,2008,Export,Textiles and Clothing,Micro Export (US$ Thousand),22591598.33,1.738
+United States,2008,Export,Transportation,Micro Export (US$ Thousand),189712989.4,14.5944
+United States,2008,Export,Vegetable,Micro Export (US$ Thousand),67464796.89,5.19
+United States,2008,Export,Wood,Micro Export (US$ Thousand),36511267.98,2.8088
+United States,2008,Import,  All Products,Import (US$ Thousand),2164834031,100
+United States,2008,Import, Capital goods,Macro Import (US$ Thousand),571957012.8,26.4204
+United States,2008,Import, Consumer goods,Macro Import (US$ Thousand),760932066.2,35.1497
+United States,2008,Import, Intermediate goods,Macro Import (US$ Thousand),337135666.4,15.5733
+United States,2008,Import, Raw materials,Macro Import (US$ Thousand),430170683.9,19.8708
+United States,2008,Import,Other,Macro Import (US$ Thousand),64638601.81,2.9858
+United States,2008,Import,Animal,Micro Import (US$ Thousand),21546299.29,0.9953
+United States,2008,Import,Chemicals,Micro Import (US$ Thousand),162492838.8,7.506
+United States,2008,Import,Food Products,Micro Import (US$ Thousand),45099934.59,2.0833
+United States,2008,Import,Footwear,Micro Import (US$ Thousand),24228069.76,1.1192
+United States,2008,Import,Fuels,Micro Import (US$ Thousand),501942111.6,23.1862
+United States,2008,Import,Hides and Skins,Micro Import (US$ Thousand),11822390.85,0.5461
+United States,2008,Import,Mach and Elec,Micro Import (US$ Thousand),511589556,23.6318
+United States,2008,Import,Metals,Micro Import (US$ Thousand),129483108.7,5.9812
+United States,2008,Import,Minerals,Micro Import (US$ Thousand),8802277.834,0.4066
+United States,2008,Import,Miscellaneous,Micro Import (US$ Thousand),217536430.9,10.0486
+United States,2008,Import,Plastic or Rubber,Micro Import (US$ Thousand),59440108.44,2.7457
+United States,2008,Import,Stone and Glass,Micro Import (US$ Thousand),66351817.95,3.065
+United States,2008,Import,Textiles and Clothing,Micro Import (US$ Thousand),100508512.6,4.6428
+United States,2008,Import,Transportation,Micro Import (US$ Thousand),223987245.2,10.3466
+United States,2008,Import,Vegetable,Micro Import (US$ Thousand),35084616.11,1.6207
+United States,2008,Import,Wood,Micro Import (US$ Thousand),44918712.56,2.0749
+United States,2009,Export,  All Products,Export (US$ Thousand),1056712078,100
+United States,2009,Export, Capital goods,Macro Export (US$ Thousand),371036094.6,35.1123
+United States,2009,Export, Consumer goods,Macro Export (US$ Thousand),252727730.8,23.9164
+United States,2009,Export, Intermediate goods,Macro Export (US$ Thousand),220034257.6,20.8225
+United States,2009,Export, Raw materials,Macro Export (US$ Thousand),107260146.8,10.1504
+United States,2009,Export,Other,Macro Export (US$ Thousand),105653848.4,9.9984
+United States,2009,Export,Animal,Micro Export (US$ Thousand),17619186.1,1.6674
+United States,2009,Export,Chemicals,Micro Export (US$ Thousand),128712870.4,12.1805
+United States,2009,Export,Food Products,Micro Export (US$ Thousand),27696754.37,2.621
+United States,2009,Export,Footwear,Micro Export (US$ Thousand),1224831.387,0.1159
+United States,2009,Export,Fuels,Micro Export (US$ Thousand),54936719.51,5.1988
+United States,2009,Export,Hides and Skins,Micro Export (US$ Thousand),3202645.868,0.3031
+United States,2009,Export,Mach and Elec,Micro Export (US$ Thousand),277908717.4,26.2994
+United States,2009,Export,Metals,Micro Export (US$ Thousand),53196535.54,5.0342
+United States,2009,Export,Minerals,Micro Export (US$ Thousand),5119618.881,0.4845
+United States,2009,Export,Miscellaneous,Micro Export (US$ Thousand),197082439.9,18.6505
+United States,2009,Export,Plastic or Rubber,Micro Export (US$ Thousand),52671712.92,4.9845
+United States,2009,Export,Stone and Glass,Micro Export (US$ Thousand),45903353.89,4.344
+United States,2009,Export,Textiles and Clothing,Micro Export (US$ Thousand),18341112.55,1.7357
+United States,2009,Export,Transportation,Micro Export (US$ Thousand),86094286.1,8.1474
+United States,2009,Export,Vegetable,Micro Export (US$ Thousand),55543765.95,5.2563
+United States,2009,Export,Wood,Micro Export (US$ Thousand),31457527.59,2.9769
+United States,2009,Import,  All Products,Import (US$ Thousand),1601895815,100
+United States,2009,Import, Capital goods,Macro Import (US$ Thousand),468709130.1,29.2597
+United States,2009,Import, Consumer goods,Macro Import (US$ Thousand),588567183.3,36.7419
+United States,2009,Import, Intermediate goods,Macro Import (US$ Thousand),234288569.3,14.6257
+United States,2009,Import, Raw materials,Macro Import (US$ Thousand),254859148.5,15.9098
+United States,2009,Import,Other,Macro Import (US$ Thousand),55471783.86,3.4629
+United States,2009,Import,Animal,Micro Import (US$ Thousand),19189415.96,1.1979
+United States,2009,Import,Chemicals,Micro Import (US$ Thousand),140964502.2,8.7999
+United States,2009,Import,Food Products,Micro Import (US$ Thousand),41650023.77,2.6
+United States,2009,Import,Footwear,Micro Import (US$ Thousand),21413705.89,1.3368
+United States,2009,Import,Fuels,Micro Import (US$ Thousand),279146202.7,17.426
+United States,2009,Import,Hides and Skins,Micro Import (US$ Thousand),9279271.649,0.5793
+United States,2009,Import,Mach and Elec,Micro Import (US$ Thousand),425182842.9,26.5425
+United States,2009,Import,Metals,Micro Import (US$ Thousand),74901925.07,4.6758
+United States,2009,Import,Minerals,Micro Import (US$ Thousand),5287679.142,0.3301
+United States,2009,Import,Miscellaneous,Micro Import (US$ Thousand),182349112.1,11.3833
+United States,2009,Import,Plastic or Rubber,Micro Import (US$ Thousand),46341398.99,2.8929
+United States,2009,Import,Stone and Glass,Micro Import (US$ Thousand),50300690.35,3.1401
+United States,2009,Import,Textiles and Clothing,Micro Import (US$ Thousand),86739764.03,5.4148
+United States,2009,Import,Transportation,Micro Import (US$ Thousand),154440835.4,9.6411
+United States,2009,Import,Vegetable,Micro Import (US$ Thousand),31348454.89,1.957
+United States,2009,Import,Wood,Micro Import (US$ Thousand),33359990.11,2.0825
+United States,2010,Export,  All Products,Export (US$ Thousand),1278099187,100
+United States,2010,Export, Capital goods,Macro Export (US$ Thousand),445798520.9,34.8798
+United States,2010,Export, Consumer goods,Macro Export (US$ Thousand),308042046,24.1016
+United States,2010,Export, Intermediate goods,Macro Export (US$ Thousand),276574795.3,21.6395
+United States,2010,Export, Raw materials,Macro Export (US$ Thousand),135180763.6,10.5767
+United States,2010,Export,Other,Macro Export (US$ Thousand),112503061.7,8.8024
+United States,2010,Export,Animal,Micro Export (US$ Thousand),20859859.18,1.6321
+United States,2010,Export,Chemicals,Micro Export (US$ Thousand),148785110.8,11.6411
+United States,2010,Export,Food Products,Micro Export (US$ Thousand),31902924.4,2.4961
+United States,2010,Export,Footwear,Micro Export (US$ Thousand),1416812.626,0.1109
+United States,2010,Export,Fuels,Micro Export (US$ Thousand),81692031.85,6.3917
+United States,2010,Export,Hides and Skins,Micro Export (US$ Thousand),4408929.506,0.345
+United States,2010,Export,Mach and Elec,Micro Export (US$ Thousand),334532591.7,26.1742
+United States,2010,Export,Metals,Micro Export (US$ Thousand),67436941.08,5.2763
+United States,2010,Export,Minerals,Micro Export (US$ Thousand),7823447.927,0.6121
+United States,2010,Export,Miscellaneous,Micro Export (US$ Thousand),215120296.5,16.8313
+United States,2010,Export,Plastic or Rubber,Micro Export (US$ Thousand),66075807.83,5.1698
+United States,2010,Export,Stone and Glass,Micro Export (US$ Thousand),61093250.5,4.78
+United States,2010,Export,Textiles and Clothing,Micro Export (US$ Thousand),23590280.8,1.8457
+United States,2010,Export,Transportation,Micro Export (US$ Thousand),111977185.3,8.7612
+United States,2010,Export,Vegetable,Micro Export (US$ Thousand),63841685.28,4.995
+United States,2010,Export,Wood,Micro Export (US$ Thousand),37542032.13,2.9373
+United States,2010,Import,  All Products,Import (US$ Thousand),1968259901,100
+United States,2010,Import, Capital goods,Macro Import (US$ Thousand),578657216.9,29.3994
+United States,2010,Import, Consumer goods,Macro Import (US$ Thousand),708671316.6,36.005
+United States,2010,Import, Intermediate goods,Macro Import (US$ Thousand),293434800.5,14.9083
+United States,2010,Import, Raw materials,Macro Import (US$ Thousand),331162473.6,16.8251
+United States,2010,Import,Other,Macro Import (US$ Thousand),56334093.33,2.8622
+United States,2010,Import,Animal,Micro Import (US$ Thousand),21471926.25,1.0909
+United States,2010,Import,Chemicals,Micro Import (US$ Thousand),159947966.8,8.1264
+United States,2010,Import,Food Products,Micro Import (US$ Thousand),45901235.2,2.3321
+United States,2010,Import,Footwear,Micro Import (US$ Thousand),25820469.21,1.3118
+United States,2010,Import,Fuels,Micro Import (US$ Thousand),364169509.5,18.5021
+United States,2010,Import,Hides and Skins,Micro Import (US$ Thousand),11455852.45,0.582
+United States,2010,Import,Mach and Elec,Micro Import (US$ Thousand),518240503.1,26.3299
+United States,2010,Import,Metals,Micro Import (US$ Thousand),98507129.61,5.0048
+United States,2010,Import,Minerals,Micro Import (US$ Thousand),6229133.437,0.3165
+United States,2010,Import,Miscellaneous,Micro Import (US$ Thousand),206367877.9,10.4848
+United States,2010,Import,Plastic or Rubber,Micro Import (US$ Thousand),60072328.74,3.0521
+United States,2010,Import,Stone and Glass,Micro Import (US$ Thousand),68719801.95,3.4914
+United States,2010,Import,Textiles and Clothing,Micro Import (US$ Thousand),99885715.52,5.0748
+United States,2010,Import,Transportation,Micro Import (US$ Thousand),208028241.9,10.5691
+United States,2010,Import,Vegetable,Micro Import (US$ Thousand),35497324.19,1.8035
+United States,2010,Import,Wood,Micro Import (US$ Thousand),37944885.32,1.9278
+United States,2011,Export,  All Products,Export (US$ Thousand),1481682202,100
+United States,2011,Export, Capital goods,Macro Export (US$ Thousand),492760971.7,33.2569
+United States,2011,Export, Consumer goods,Macro Export (US$ Thousand),376012368.9,25.3774
+United States,2011,Export, Intermediate goods,Macro Export (US$ Thousand),328087714.2,22.1429
+United States,2011,Export, Raw materials,Macro Export (US$ Thousand),164758978.3,11.1197
+United States,2011,Export,Other,Macro Export (US$ Thousand),120062168.7,8.1031
+United States,2011,Export,Animal,Micro Export (US$ Thousand),26434087.61,1.7841
+United States,2011,Export,Chemicals,Micro Export (US$ Thousand),160228419.3,10.814
+United States,2011,Export,Food Products,Micro Export (US$ Thousand),37842566.59,2.554
+United States,2011,Export,Footwear,Micro Export (US$ Thousand),1655936.445,0.1118
+United States,2011,Export,Fuels,Micro Export (US$ Thousand),130566667.7,8.8121
+United States,2011,Export,Hides and Skins,Micro Export (US$ Thousand),5114758.083,0.3452
+United States,2011,Export,Mach and Elec,Micro Export (US$ Thousand),365122646.8,24.6424
+United States,2011,Export,Metals,Micro Export (US$ Thousand),81632765.09,5.5095
+United States,2011,Export,Minerals,Micro Export (US$ Thousand),10201933.91,0.6885
+United States,2011,Export,Miscellaneous,Micro Export (US$ Thousand),229990085.7,15.5222
+United States,2011,Export,Plastic or Rubber,Micro Export (US$ Thousand),73995193.5,4.994
+United States,2011,Export,Stone and Glass,Micro Export (US$ Thousand),82033802.2,5.5365
+United States,2011,Export,Textiles and Clothing,Micro Export (US$ Thousand),28732525.78,1.9392
+United States,2011,Export,Transportation,Micro Export (US$ Thousand),133288978.3,8.9958
+United States,2011,Export,Vegetable,Micro Export (US$ Thousand),74074599.34,4.9994
+United States,2011,Export,Wood,Micro Export (US$ Thousand),40767235.42,2.7514
+United States,2011,Import,  All Products,Import (US$ Thousand),2263619063,100
+United States,2011,Import, Capital goods,Macro Import (US$ Thousand),659369660.8,29.129
+United States,2011,Import, Consumer goods,Macro Import (US$ Thousand),770067195.7,34.0193
+United States,2011,Import, Intermediate goods,Macro Import (US$ Thousand),352661051.6,15.5795
+United States,2011,Import, Raw materials,Macro Import (US$ Thousand),420683085.3,18.5845
+United States,2011,Import,Other,Macro Import (US$ Thousand),60838069.4,2.6877
+United States,2011,Import,Animal,Micro Import (US$ Thousand),23807966.36,1.0518
+United States,2011,Import,Chemicals,Micro Import (US$ Thousand),182138820.4,8.0464
+United States,2011,Import,Food Products,Micro Import (US$ Thousand),52622149.68,2.3247
+United States,2011,Import,Footwear,Micro Import (US$ Thousand),28199953.29,1.2458
+United States,2011,Import,Fuels,Micro Import (US$ Thousand),462775842.2,20.4441
+United States,2011,Import,Hides and Skins,Micro Import (US$ Thousand),12729742.69,0.5624
+United States,2011,Import,Mach and Elec,Micro Import (US$ Thousand),577556127.4,25.5147
+United States,2011,Import,Metals,Micro Import (US$ Thousand),119042063,5.2589
+United States,2011,Import,Minerals,Micro Import (US$ Thousand),7645506.979,0.3378
+United States,2011,Import,Miscellaneous,Micro Import (US$ Thousand),219548875.4,9.699
+United States,2011,Import,Plastic or Rubber,Micro Import (US$ Thousand),70882770.79,3.1314
+United States,2011,Import,Stone and Glass,Micro Import (US$ Thousand),84294937.07,3.7239
+United States,2011,Import,Textiles and Clothing,Micro Import (US$ Thousand),108000722.2,4.7712
+United States,2011,Import,Transportation,Micro Import (US$ Thousand),230994327.8,10.2046
+United States,2011,Import,Vegetable,Micro Import (US$ Thousand),45012914.13,1.9885
+United States,2011,Import,Wood,Micro Import (US$ Thousand),38366343.5,1.6949
+United States,2012,Export,  All Products,Export (US$ Thousand),1544932014,100
+United States,2012,Export, Capital goods,Macro Export (US$ Thousand),518805162.6,33.5811
+United States,2012,Export, Consumer goods,Macro Export (US$ Thousand),404361659.6,26.1734
+United States,2012,Export, Intermediate goods,Macro Export (US$ Thousand),328017052.7,21.2318
+United States,2012,Export, Raw materials,Macro Export (US$ Thousand),158800074.4,10.2788
+United States,2012,Export,Other,Macro Export (US$ Thousand),134948064.9,8.7349
+United States,2012,Export,Animal,Micro Export (US$ Thousand),27457874.36,1.7773
+United States,2012,Export,Chemicals,Micro Export (US$ Thousand),161854278.8,10.4765
+United States,2012,Export,Food Products,Micro Export (US$ Thousand),40453409.37,2.6185
+United States,2012,Export,Footwear,Micro Export (US$ Thousand),1748197.901,0.1132
+United States,2012,Export,Fuels,Micro Export (US$ Thousand),137332528.7,8.8892
+United States,2012,Export,Hides and Skins,Micro Export (US$ Thousand),5387349.247,0.3487
+United States,2012,Export,Mach and Elec,Micro Export (US$ Thousand),371514322.5,24.0473
+United States,2012,Export,Metals,Micro Export (US$ Thousand),81982126.34,5.3065
+United States,2012,Export,Minerals,Micro Export (US$ Thousand),9636594.854,0.6238
+United States,2012,Export,Miscellaneous,Micro Export (US$ Thousand),256846612.4,16.6251
+United States,2012,Export,Plastic or Rubber,Micro Export (US$ Thousand),75065072.03,4.8588
+United States,2012,Export,Stone and Glass,Micro Export (US$ Thousand),82460011.28,5.3375
+United States,2012,Export,Textiles and Clothing,Micro Export (US$ Thousand),26579001.68,1.7204
+United States,2012,Export,Transportation,Micro Export (US$ Thousand),150590800.9,9.7474
+United States,2012,Export,Vegetable,Micro Export (US$ Thousand),76186804.7,4.9314
+United States,2012,Export,Wood,Micro Export (US$ Thousand),39837029.43,2.5786
+United States,2012,Import,  All Products,Import (US$ Thousand),2274461871,100
+United States,2012,Import, Capital goods,Macro Import (US$ Thousand),693632693.5,30.4966
+United States,2012,Import, Consumer goods,Macro Import (US$ Thousand),779461663,34.2702
+United States,2012,Import, Intermediate goods,Macro Import (US$ Thousand),342837046.1,15.0733
+United States,2012,Import, Raw materials,Macro Import (US$ Thousand),392269099.8,17.2467
+United States,2012,Import,Other,Macro Import (US$ Thousand),66261368.46,2.9132
+United States,2012,Import,Animal,Micro Import (US$ Thousand),23845676.92,1.0484
+United States,2012,Import,Chemicals,Micro Import (US$ Thousand),174231552.1,7.6603
+United States,2012,Import,Food Products,Micro Import (US$ Thousand),53167178.13,2.3376
+United States,2012,Import,Footwear,Micro Import (US$ Thousand),28248056.47,1.242
+United States,2012,Import,Fuels,Micro Import (US$ Thousand),423991873.3,18.6414
+United States,2012,Import,Hides and Skins,Micro Import (US$ Thousand),13193991.19,0.5801
+United States,2012,Import,Mach and Elec,Micro Import (US$ Thousand),594949277.4,26.1578
+United States,2012,Import,Metals,Micro Import (US$ Thousand),119782525.5,5.2664
+United States,2012,Import,Minerals,Micro Import (US$ Thousand),6751110.693,0.2968
+United States,2012,Import,Miscellaneous,Micro Import (US$ Thousand),232142459.7,10.2065
+United States,2012,Import,Plastic or Rubber,Micro Import (US$ Thousand),70922011.73,3.1182
+United States,2012,Import,Stone and Glass,Micro Import (US$ Thousand),79222140.45,3.4831
+United States,2012,Import,Textiles and Clothing,Micro Import (US$ Thousand),103613533.8,4.5555
+United States,2012,Import,Transportation,Micro Import (US$ Thousand),268091648.3,11.787
+United States,2012,Import,Vegetable,Micro Import (US$ Thousand),45100920.67,1.9829
+United States,2012,Import,Wood,Micro Import (US$ Thousand),37207914.52,1.6359
+United States,2013,Export,  All Products,Export (US$ Thousand),1577587252,100
+United States,2013,Export, Capital goods,Macro Export (US$ Thousand),519829224.3,32.9509
+United States,2013,Export, Consumer goods,Macro Export (US$ Thousand),427244980.3,27.0822
+United States,2013,Export, Intermediate goods,Macro Export (US$ Thousand),329394978.2,20.8797
+United States,2013,Export, Raw materials,Macro Export (US$ Thousand),153991587.5,9.7612
+United States,2013,Export,Other,Macro Export (US$ Thousand),147126482.2,9.326
+United States,2013,Export,Animal,Micro Export (US$ Thousand),29225004.25,1.8525
+United States,2013,Export,Chemicals,Micro Export (US$ Thousand),162871544.1,10.3241
+United States,2013,Export,Food Products,Micro Export (US$ Thousand),44489208.3,2.8201
+United States,2013,Export,Footwear,Micro Export (US$ Thousand),1805563.935,0.1145
+United States,2013,Export,Fuels,Micro Export (US$ Thousand),148872444.5,9.4367
+United States,2013,Export,Hides and Skins,Micro Export (US$ Thousand),6104173.51,0.3869
+United States,2013,Export,Mach and Elec,Micro Export (US$ Thousand),372716533.3,23.6257
+United States,2013,Export,Metals,Micro Export (US$ Thousand),79569178.93,5.0437
+United States,2013,Export,Minerals,Micro Export (US$ Thousand),9917605.268,0.6287
+United States,2013,Export,Miscellaneous,Micro Export (US$ Thousand),271546420.2,17.2128
+United States,2013,Export,Plastic or Rubber,Micro Export (US$ Thousand),76125373.57,4.8254
+United States,2013,Export,Stone and Glass,Micro Export (US$ Thousand),82521696.3,5.2309
+United States,2013,Export,Textiles and Clothing,Micro Export (US$ Thousand),26794790.83,1.6985
+United States,2013,Export,Transportation,Micro Export (US$ Thousand),150544800.1,9.5427
+United States,2013,Export,Vegetable,Micro Export (US$ Thousand),73667521.5,4.6696
+United States,2013,Export,Wood,Micro Export (US$ Thousand),40815393.94,2.5872
+United States,2013,Import,  All Products,Import (US$ Thousand),2265911268,100
+United States,2013,Import, Capital goods,Macro Import (US$ Thousand),708152495,31.2524
+United States,2013,Import, Consumer goods,Macro Import (US$ Thousand),797359866.9,35.1894
+United States,2013,Import, Intermediate goods,Macro Import (US$ Thousand),340072535.4,15.0082
+United States,2013,Import, Raw materials,Macro Import (US$ Thousand),350020354.6,15.4472
+United States,2013,Import,Other,Macro Import (US$ Thousand),70306016.19,3.1028
+United States,2013,Import,Animal,Micro Import (US$ Thousand),25571019.27,1.1285
+United States,2013,Import,Chemicals,Micro Import (US$ Thousand),172603052.1,7.6174
+United States,2013,Import,Food Products,Micro Import (US$ Thousand),54145248.07,2.3896
+United States,2013,Import,Footwear,Micro Import (US$ Thousand),29057817.39,1.2824
+United States,2013,Import,Fuels,Micro Import (US$ Thousand),379894747.6,16.7656
+United States,2013,Import,Hides and Skins,Micro Import (US$ Thousand),14000672.4,0.6179
+United States,2013,Import,Mach and Elec,Micro Import (US$ Thousand),599843989,26.4725
+United States,2013,Import,Metals,Micro Import (US$ Thousand),113191750.1,4.9954
+United States,2013,Import,Minerals,Micro Import (US$ Thousand),6086305.961,0.2686
+United States,2013,Import,Miscellaneous,Micro Import (US$ Thousand),242423682.5,10.6987
+United States,2013,Import,Plastic or Rubber,Micro Import (US$ Thousand),71892577.49,3.1728
+United States,2013,Import,Stone and Glass,Micro Import (US$ Thousand),81845369.63,3.612
+United States,2013,Import,Textiles and Clothing,Micro Import (US$ Thousand),107642000,4.7505
+United States,2013,Import,Transportation,Micro Import (US$ Thousand),281853432.9,12.4389
+United States,2013,Import,Vegetable,Micro Import (US$ Thousand),45731701.67,2.0182
+United States,2013,Import,Wood,Micro Import (US$ Thousand),40127901.96,1.7709
+United States,2014,Export,  All Products,Export (US$ Thousand),1619742864,100
+United States,2014,Export, Capital goods,Macro Export (US$ Thousand),536096701.8,33.0976
+United States,2014,Export, Consumer goods,Macro Export (US$ Thousand),442287780.8,27.306
+United States,2014,Export, Intermediate goods,Macro Export (US$ Thousand),322180791.8,19.8909
+United States,2014,Export, Raw materials,Macro Export (US$ Thousand),162869318.4,10.0553
+United States,2014,Export,Other,Macro Export (US$ Thousand),156308271,9.6502
+United States,2014,Export,Animal,Micro Export (US$ Thousand),31172813.06,1.9246
+United States,2014,Export,Chemicals,Micro Export (US$ Thousand),163827048.2,10.1144
+United States,2014,Export,Food Products,Micro Export (US$ Thousand),45976221.8,2.8385
+United States,2014,Export,Footwear,Micro Export (US$ Thousand),1888768.555,0.1166
+United States,2014,Export,Fuels,Micro Export (US$ Thousand),155608248.1,9.607
+United States,2014,Export,Hides and Skins,Micro Export (US$ Thousand),6042008.238,0.373
+United States,2014,Export,Mach and Elec,Micro Export (US$ Thousand),384130714,23.7155
+United States,2014,Export,Metals,Micro Export (US$ Thousand),78916120.44,4.8721
+United States,2014,Export,Minerals,Micro Export (US$ Thousand),11218752.32,0.6926
+United States,2014,Export,Miscellaneous,Micro Export (US$ Thousand),285865552.1,17.6488
+United States,2014,Export,Plastic or Rubber,Micro Export (US$ Thousand),78350750.91,4.8372
+United States,2014,Export,Stone and Glass,Micro Export (US$ Thousand),75632397.81,4.6694
+United States,2014,Export,Textiles and Clothing,Micro Export (US$ Thousand),26221528.24,1.6189
+United States,2014,Export,Transportation,Micro Export (US$ Thousand),155532120.2,9.6023
+United States,2014,Export,Vegetable,Micro Export (US$ Thousand),78192796.6,4.8275
+United States,2014,Export,Wood,Micro Export (US$ Thousand),41167023.18,2.5416
+United States,2014,Import,  All Products,Import (US$ Thousand),2410855476,100
+United States,2014,Import, Capital goods,Macro Import (US$ Thousand),771189051.7,31.9882
+United States,2014,Import, Consumer goods,Macro Import (US$ Thousand),850923701,35.2955
+United States,2014,Import, Intermediate goods,Macro Import (US$ Thousand),373263573.6,15.4826
+United States,2014,Import, Raw materials,Macro Import (US$ Thousand),341332380.9,14.1581
+United States,2014,Import,Other,Macro Import (US$ Thousand),74146769.05,3.0756
+United States,2014,Import,Animal,Micro Import (US$ Thousand),32419377.52,1.3447
+United States,2014,Import,Chemicals,Micro Import (US$ Thousand),186448925.3,7.7337
+United States,2014,Import,Food Products,Micro Import (US$ Thousand),58200628.29,2.4141
+United States,2014,Import,Footwear,Micro Import (US$ Thousand),31663353.42,1.3134
+United States,2014,Import,Fuels,Micro Import (US$ Thousand),358259446.9,14.8603
+United States,2014,Import,Hides and Skins,Micro Import (US$ Thousand),15192788.91,0.6302
+United States,2014,Import,Mach and Elec,Micro Import (US$ Thousand),645216542.5,26.763
+United States,2014,Import,Metals,Micro Import (US$ Thousand),133022216,5.5176
+United States,2014,Import,Minerals,Micro Import (US$ Thousand),7365837.378,0.3055
+United States,2014,Import,Miscellaneous,Micro Import (US$ Thousand),264536809.5,10.9727
+United States,2014,Import,Plastic or Rubber,Micro Import (US$ Thousand),79434791.19,3.2949
+United States,2014,Import,Stone and Glass,Micro Import (US$ Thousand),85122862.08,3.5308
+United States,2014,Import,Textiles and Clothing,Micro Import (US$ Thousand),115016618.8,4.7708
+United States,2014,Import,Transportation,Micro Import (US$ Thousand),303418339.5,12.5855
+United States,2014,Import,Vegetable,Micro Import (US$ Thousand),50954827.76,2.1136
+United States,2014,Import,Wood,Micro Import (US$ Thousand),44582111.25,1.8492
+United States,2015,Export,  All Products,Export (US$ Thousand),1501845864,100
+United States,2015,Export, Capital goods,Macro Export (US$ Thousand),517758977.4,34.4748
+United States,2015,Export, Consumer goods,Macro Export (US$ Thousand),388367792.7,25.8594
+United States,2015,Export, Intermediate goods,Macro Export (US$ Thousand),298377592.3,19.8674
+United States,2015,Export, Raw materials,Macro Export (US$ Thousand),136449466.7,9.0855
+United States,2015,Export,Other,Macro Export (US$ Thousand),160892034.8,10.7129
+United States,2015,Export,Animal,Micro Export (US$ Thousand),25703146.72,1.7114
+United States,2015,Export,Chemicals,Micro Export (US$ Thousand),161203364.9,10.7337
+United States,2015,Export,Food Products,Micro Export (US$ Thousand),45066872.55,3.0008
+United States,2015,Export,Footwear,Micro Export (US$ Thousand),1934197.33,0.1288
+United States,2015,Export,Fuels,Micro Export (US$ Thousand),104105881.8,6.9319
+United States,2015,Export,Hides and Skins,Micro Export (US$ Thousand),5404755.681,0.3599
+United States,2015,Export,Mach and Elec,Micro Export (US$ Thousand),367246820.7,24.453
+United States,2015,Export,Metals,Micro Export (US$ Thousand),68679440.84,4.573
+United States,2015,Export,Minerals,Micro Export (US$ Thousand),9489882.147,0.6319
+United States,2015,Export,Miscellaneous,Micro Export (US$ Thousand),290291524.1,19.329
+United States,2015,Export,Plastic or Rubber,Micro Export (US$ Thousand),74344870.04,4.9502
+United States,2015,Export,Stone and Glass,Micro Export (US$ Thousand),69475989.19,4.626
+United States,2015,Export,Textiles and Clothing,Micro Export (US$ Thousand),24966497.71,1.6624
+United States,2015,Export,Transportation,Micro Export (US$ Thousand),146887874.6,9.7805
+United States,2015,Export,Vegetable,Micro Export (US$ Thousand),67976108.05,4.5262
+United States,2015,Export,Wood,Micro Export (US$ Thousand),39068637.53,2.6014
+United States,2015,Import,  All Products,Import (US$ Thousand),2313424569,100
+United States,2015,Import, Capital goods,Macro Import (US$ Thousand),794043557.6,34.3233
+United States,2015,Import, Consumer goods,Macro Import (US$ Thousand),862734522.9,37.2925
+United States,2015,Import, Intermediate goods,Macro Import (US$ Thousand),355394353.9,15.3623
+United States,2015,Import, Raw materials,Macro Import (US$ Thousand),216179067.1,9.3445
+United States,2015,Import,Other,Macro Import (US$ Thousand),85073067.92,3.6774
+United States,2015,Import,Animal,Micro Import (US$ Thousand),32077813.71,1.3866
+United States,2015,Import,Chemicals,Micro Import (US$ Thousand),196449944.9,8.4917
+United States,2015,Import,Food Products,Micro Import (US$ Thousand),59858682.19,2.5874
+United States,2015,Import,Footwear,Micro Import (US$ Thousand),33950900.72,1.4676
+United States,2015,Import,Fuels,Micro Import (US$ Thousand),200696083.6,8.6753
+United States,2015,Import,Hides and Skins,Micro Import (US$ Thousand),15725807.16,0.6798
+United States,2015,Import,Mach and Elec,Micro Import (US$ Thousand),660007998.6,28.5295
+United States,2015,Import,Metals,Micro Import (US$ Thousand),122741143.4,5.3056
+United States,2015,Import,Minerals,Micro Import (US$ Thousand),6683513.147,0.2889
+United States,2015,Import,Miscellaneous,Micro Import (US$ Thousand),286412139.9,12.3804
+United States,2015,Import,Plastic or Rubber,Micro Import (US$ Thousand),78440360.53,3.3907
+United States,2015,Import,Stone and Glass,Micro Import (US$ Thousand),80425779.25,3.4765
+United States,2015,Import,Textiles and Clothing,Micro Import (US$ Thousand),119732389,5.1755
+United States,2015,Import,Transportation,Micro Import (US$ Thousand),324778180.2,14.0388
+United States,2015,Import,Vegetable,Micro Import (US$ Thousand),50565563.6,2.1857
+United States,2015,Import,Wood,Micro Import (US$ Thousand),44878269.35,1.9399
+United States,2016,Export,  All Products,Export (US$ Thousand),1450906273,100
+United States,2016,Export, Capital goods,Macro Export (US$ Thousand),498512903.6,34.3587
+United States,2016,Export, Consumer goods,Macro Export (US$ Thousand),370436523.6,25.5314
+United States,2016,Export, Intermediate goods,Macro Export (US$ Thousand),284221320.1,19.5892
+United States,2016,Export, Raw materials,Macro Export (US$ Thousand),136670468.1,9.4197
+United States,2016,Export,Other,Macro Export (US$ Thousand),161065057.5,11.101
+United States,2016,Export,Animal,Micro Export (US$ Thousand),25328571.36,1.7457
+United States,2016,Export,Chemicals,Micro Export (US$ Thousand),153095743.1,10.5517
+United States,2016,Export,Food Products,Micro Export (US$ Thousand),43759548.98,3.016
+United States,2016,Export,Footwear,Micro Export (US$ Thousand),1868497.78,0.1288
+United States,2016,Export,Fuels,Micro Export (US$ Thousand),94005493.86,6.4791
+United States,2016,Export,Hides and Skins,Micro Export (US$ Thousand),4742348.505,0.3269
+United States,2016,Export,Mach and Elec,Micro Export (US$ Thousand),348417447.2,24.0138
+United States,2016,Export,Metals,Micro Export (US$ Thousand),63728280.66,4.3923
+United States,2016,Export,Minerals,Micro Export (US$ Thousand),8118804.8,0.5596
+United States,2016,Export,Miscellaneous,Micro Export (US$ Thousand),168832292.3,11.6363
+United States,2016,Export,Plastic or Rubber,Micro Export (US$ Thousand),71655237.09,4.9387
+United States,2016,Export,Stone and Glass,Micro Export (US$ Thousand),68595289.23,4.7278
+United States,2016,Export,Textiles and Clothing,Micro Export (US$ Thousand),23649314.82,1.63
+United States,2016,Export,Transportation,Micro Export (US$ Thousand),265253100.5,18.2819
+United States,2016,Export,Vegetable,Micro Export (US$ Thousand),72138161.56,4.9719
+United States,2016,Export,Wood,Micro Export (US$ Thousand),37718141.17,2.5996
+United States,2016,Import,  All Products,Import (US$ Thousand),2247167254,100
+United States,2016,Import, Capital goods,Macro Import (US$ Thousand),775806646.1,34.5238
+United States,2016,Import, Consumer goods,Macro Import (US$ Thousand),848244156.3,37.7473
+United States,2016,Import, Intermediate goods,Macro Import (US$ Thousand),347230184.9,15.4519
+United States,2016,Import, Raw materials,Macro Import (US$ Thousand),189452963.5,8.4307
+United States,2016,Import,Other,Macro Import (US$ Thousand),86433303.62,3.8463
+United States,2016,Import,Animal,Micro Import (US$ Thousand),30598045.63,1.3616
+United States,2016,Import,Chemicals,Micro Import (US$ Thousand),197670980.3,8.7965
+United States,2016,Import,Food Products,Micro Import (US$ Thousand),62039470.82,2.7608
+United States,2016,Import,Footwear,Micro Import (US$ Thousand),31703277.74,1.4108
+United States,2016,Import,Fuels,Micro Import (US$ Thousand),163138185.2,7.2597
+United States,2016,Import,Hides and Skins,Micro Import (US$ Thousand),14324604.56,0.6375
+United States,2016,Import,Mach and Elec,Micro Import (US$ Thousand),647708899.1,28.8234
+United States,2016,Import,Metals,Micro Import (US$ Thousand),111036416.8,4.9412
+United States,2016,Import,Minerals,Micro Import (US$ Thousand),5556982.632,0.2473
+United States,2016,Import,Miscellaneous,Micro Import (US$ Thousand),288773014.7,12.8505
+United States,2016,Import,Plastic or Rubber,Micro Import (US$ Thousand),76875965.12,3.421
+United States,2016,Import,Stone and Glass,Micro Import (US$ Thousand),87255535.85,3.8829
+United States,2016,Import,Textiles and Clothing,Micro Import (US$ Thousand),113576276.8,5.0542
+United States,2016,Import,Transportation,Micro Import (US$ Thousand),319423992.6,14.2145
+United States,2016,Import,Vegetable,Micro Import (US$ Thousand),52042858.84,2.3159
+United States,2016,Import,Wood,Micro Import (US$ Thousand),45442747.67,2.0222
+United States,2017,Export,  All Products,Export (US$ Thousand),1545809598,100
+United States,2017,Export, Capital goods,Macro Export (US$ Thousand),518558061.9,33.5461
+United States,2017,Export, Consumer goods,Macro Export (US$ Thousand),400719108.6,25.9229
+United States,2017,Export, Intermediate goods,Macro Export (US$ Thousand),301869796.6,19.5283
+United States,2017,Export, Raw materials,Macro Export (US$ Thousand),158069682,10.2257
+United States,2017,Export,Other,Macro Export (US$ Thousand),166592949,10.777
+United States,2017,Export,Animal,Micro Export (US$ Thousand),28154606.33,1.8214
+United States,2017,Export,Chemicals,Micro Export (US$ Thousand),159474330.4,10.3166
+United States,2017,Export,Food Products,Micro Export (US$ Thousand),44095680.73,2.8526
+United States,2017,Export,Footwear,Micro Export (US$ Thousand),1924889.741,0.1245
+United States,2017,Export,Fuels,Micro Export (US$ Thousand),139082249.2,8.9974
+United States,2017,Export,Hides and Skins,Micro Export (US$ Thousand),4539153.274,0.2936
+United States,2017,Export,Mach and Elec,Micro Export (US$ Thousand),362947363.6,23.4794
+United States,2017,Export,Metals,Micro Export (US$ Thousand),68476109.47,4.4298
+United States,2017,Export,Minerals,Micro Export (US$ Thousand),9407670.991,0.6086
+United States,2017,Export,Miscellaneous,Micro Export (US$ Thousand),177167038.4,11.4611
+United States,2017,Export,Plastic or Rubber,Micro Export (US$ Thousand),75825186.15,4.9052
+United States,2017,Export,Stone and Glass,Micro Export (US$ Thousand),70753786.76,4.5771
+United States,2017,Export,Textiles and Clothing,Micro Export (US$ Thousand),25918223.91,1.6767
+United States,2017,Export,Transportation,Micro Export (US$ Thousand),266880594.9,17.2648
+United States,2017,Export,Vegetable,Micro Export (US$ Thousand),71553042.83,4.6288
+United States,2017,Export,Wood,Micro Export (US$ Thousand),39609671.54,2.5624
+United States,2017,Import,  All Products,Import (US$ Thousand),2405276627,100
+United States,2017,Import, Capital goods,Macro Import (US$ Thousand),835944760.9,34.7546
+United States,2017,Import, Consumer goods,Macro Import (US$ Thousand),885215064.5,36.803
+United States,2017,Import, Intermediate goods,Macro Import (US$ Thousand),356603459.2,14.8259
+United States,2017,Import, Raw materials,Macro Import (US$ Thousand),227562196.8,9.461
+United States,2017,Import,Other,Macro Import (US$ Thousand),99951145.33,4.1555
+United States,2017,Import,Animal,Micro Import (US$ Thousand),32315600.71,1.3435
+United States,2017,Import,Chemicals,Micro Import (US$ Thousand),199687863.3,8.3021
+United States,2017,Import,Food Products,Micro Import (US$ Thousand),65905989.81,2.7401
+United States,2017,Import,Footwear,Micro Import (US$ Thousand),32040188.8,1.3321
+United States,2017,Import,Fuels,Micro Import (US$ Thousand),204019056.9,8.4821
+United States,2017,Import,Hides and Skins,Micro Import (US$ Thousand),14520614.88,0.6037
+United States,2017,Import,Mach and Elec,Micro Import (US$ Thousand),700766968.1,29.1346
+United States,2017,Import,Metals,Micro Import (US$ Thousand),133293092.2,5.5417
+United States,2017,Import,Minerals,Micro Import (US$ Thousand),7583189.867,0.3153
+United States,2017,Import,Miscellaneous,Micro Import (US$ Thousand),305144851.4,12.6865
+United States,2017,Import,Plastic or Rubber,Micro Import (US$ Thousand),82974736.05,3.4497
+United States,2017,Import,Stone and Glass,Micro Import (US$ Thousand),80706049.87,3.3554
+United States,2017,Import,Textiles and Clothing,Micro Import (US$ Thousand),114038540.9,4.7412
+United States,2017,Import,Transportation,Micro Import (US$ Thousand),329451465.9,13.697
+United States,2017,Import,Vegetable,Micro Import (US$ Thousand),55433914.46,2.3047
+United States,2017,Import,Wood,Micro Import (US$ Thousand),47394503.54,1.9704
+United States,2018,Export,  All Products,Export (US$ Thousand),1665302937,100
+United States,2018,Export, Capital goods,Macro Export (US$ Thousand),540285296.8,32.4437
+United States,2018,Export, Consumer goods,Macro Export (US$ Thousand),431527785.2,25.9129
+United States,2018,Export, Intermediate goods,Macro Export (US$ Thousand),324103850.4,19.4622
+United States,2018,Export, Raw materials,Macro Export (US$ Thousand),189985108.7,11.4084
+United States,2018,Export,Other,Macro Export (US$ Thousand),179400895.5,10.7728
+United States,2018,Export,Animal,Micro Export (US$ Thousand),29260665.68,1.7571
+United States,2018,Export,Chemicals,Micro Export (US$ Thousand),170946350.3,10.2652
+United States,2018,Export,Food Products,Micro Export (US$ Thousand),46788086.73,2.8096
+United States,2018,Export,Footwear,Micro Export (US$ Thousand),2089318.338,0.1255
+United States,2018,Export,Fuels,Micro Export (US$ Thousand),192681236.1,11.5703
+United States,2018,Export,Hides and Skins,Micro Export (US$ Thousand),4105999.88,0.2466
+United States,2018,Export,Mach and Elec,Micro Export (US$ Thousand),376388939.5,22.6018
+United States,2018,Export,Metals,Micro Export (US$ Thousand),73519906.08,4.4148
+United States,2018,Export,Minerals,Micro Export (US$ Thousand),10387620.76,0.6238
+United States,2018,Export,Miscellaneous,Micro Export (US$ Thousand),189960054.1,11.4069
+United States,2018,Export,Plastic or Rubber,Micro Export (US$ Thousand),81008387.91,4.8645
+United States,2018,Export,Stone and Glass,Micro Export (US$ Thousand),74450331.62,4.4707
+United States,2018,Export,Textiles and Clothing,Micro Export (US$ Thousand),27204941.82,1.6336
+United States,2018,Export,Transportation,Micro Export (US$ Thousand),276110131.9,16.5802
+United States,2018,Export,Vegetable,Micro Export (US$ Thousand),69501016.16,4.1735
+United States,2018,Export,Wood,Micro Export (US$ Thousand),40899949.63,2.456
+United States,2018,Import,  All Products,Import (US$ Thousand),2611432490,100
+United States,2018,Import, Capital goods,Macro Import (US$ Thousand),899657825.1,34.4507
+United States,2018,Import, Consumer goods,Macro Import (US$ Thousand),948294303.4,36.3132
+United States,2018,Import, Intermediate goods,Macro Import (US$ Thousand),400762122.1,15.3464
+United States,2018,Import, Raw materials,Macro Import (US$ Thousand),254046370.1,9.7282
+United States,2018,Import,Other,Macro Import (US$ Thousand),108671869.4,4.1615
+United States,2018,Import,Animal,Micro Import (US$ Thousand),33238747.25,1.2728
+United States,2018,Import,Chemicals,Micro Import (US$ Thousand),233750191.1,8.951
+United States,2018,Import,Food Products,Micro Import (US$ Thousand),72922525.05,2.7924
+United States,2018,Import,Footwear,Micro Import (US$ Thousand),33435794.43,1.2804
+United States,2018,Import,Fuels,Micro Import (US$ Thousand),241728103,9.2565
+United States,2018,Import,Hides and Skins,Micro Import (US$ Thousand),15345089.85,0.5876
+United States,2018,Import,Mach and Elec,Micro Import (US$ Thousand),748691271,28.6698
+United States,2018,Import,Metals,Micro Import (US$ Thousand),145009178.3,5.5529
+United States,2018,Import,Minerals,Micro Import (US$ Thousand),8747293.771,0.335
+United States,2018,Import,Miscellaneous,Micro Import (US$ Thousand),331702312.2,12.7019
+United States,2018,Import,Plastic or Rubber,Micro Import (US$ Thousand),92218894.51,3.5314
+United States,2018,Import,Stone and Glass,Micro Import (US$ Thousand),83542549.06,3.1991
+United States,2018,Import,Textiles and Clothing,Micro Import (US$ Thousand),119482178,4.5754
+United States,2018,Import,Transportation,Micro Import (US$ Thousand),342925024.3,13.1317
+United States,2018,Import,Vegetable,Micro Import (US$ Thousand),57122812.27,2.1874
+United States,2018,Import,Wood,Micro Import (US$ Thousand),51570526.05,1.9748
