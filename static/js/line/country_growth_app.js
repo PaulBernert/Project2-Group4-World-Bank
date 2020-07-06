@@ -18,6 +18,8 @@ growthButton.onclick = function() {
   location.assign('http://127.0.0.1:5000/country_growth_chart')
 }
 
+console.log(growth_data);
+
 var svgWidth = 960;
 var svgHeight = 500;
 
@@ -112,18 +114,31 @@ var parseTime = d3.timeParse("%Y");
       .attr("class", "axisText")
       .text("Year");
 
-      // var legend_keys = ["Austin", "New York", "San Francisco"]
+    var legend = svg.append("g")
+      .attr("transform", `translate(${margin.left}, ${margin.top})`)
+      .attr("class", "legend")
+      .attr("x", width - 125)
+      .attr("y", 25)
+      .attr("height", 100)
+      .attr("width", 100);
 
-      // var lineLegend = svg.selectAll(".lineLegend").data(legend_keys)
-      //     .enter().append("g")
-      //     .attr("class","lineLegend")
-      //     .attr("transform", function (d,i) {
-      //             return "translate(" + width + "," + (i*20)+")";
-      //         });
-
-      // lineLegend.append("text").text(function (d) {return d;})
-      //     .attr("transform", "translate(15,9)"); //align texts with boxes
-
-      // lineLegend.append("rect")
-      //     .attr("fill", function (d, i) {return color_scale(d); })
-      //     // .attr("width", 10).attr("height", 10);
+      legend.selectAll('g').data([["China","green"], ["United States", "blue"]])
+        .enter()
+        .append('g')
+        .each(function(d, i) {
+          var g = d3.select(this);
+          g.append("rect")
+            .attr("x", width - 125)
+            .attr("y", i*25)
+            .attr("width", 10)
+            .attr("height", 10)
+            // .style("fill", color_hash[String(i)][1]);
+            .style("fill", d[1]);
+          g.append("text")
+            .attr("x", width - 110)
+            .attr("y", i * 25 + 8)
+            .attr("height",30)
+            .attr("width",100)
+            // .style("fill", color_hash[String(i)][1])
+            .text(d[0]);
+        });

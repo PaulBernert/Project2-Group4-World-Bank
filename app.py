@@ -7,9 +7,10 @@ from flask import Flask, jsonify, render_template
 from sqlalchemy.schema import MetaData
 import pandas as pd
 
+postgresURI = 'postgres://qbtippmgaxwvdx:c2e2ab24300e16c3784f79c1f5a8d51c337bf153b64366cbabc4ed8b3c4ea8b3@ec2-34-197-188-147.compute-1.amazonaws.com:5432/d3pa0j53lfgp7k'
 
 app = Flask(__name__)
-app.config["SQLALCHEMY_DATABASE_URI"] = 'postgresql://postgres:password@localhost/trade'
+app.config["SQLALCHEMY_DATABASE_URI"] = postgresURI
 db = SQLAlchemy(app)
 Base = automap_base()
 

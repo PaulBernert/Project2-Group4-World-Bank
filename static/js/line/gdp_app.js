@@ -18,6 +18,8 @@ growthButton.onclick = function() {
   location.assign('http://127.0.0.1:5000/country_growth_chart')
 }
 
+console.log(gdp_data);
+
 var svgWidth = 960;
 var svgHeight = 500;
 
@@ -139,7 +141,7 @@ var parseTime = d3.timeParse("%Y");
     .data([gdp_data])
     .append("path")
     .attr("d", line3)
-    .classed("line navy", true);
+    .classed("line navyblue", true);
 
   chartGroup
     .append("path")
@@ -181,3 +183,32 @@ var parseTime = d3.timeParse("%Y");
     .attr("transform", `translate(${width / 2}, ${height + margin.top + 30})`)
     .attr("class", "axisText")
     .text("Year");
+
+    var legend = svg.append("g")
+    .attr("transform", `translate(${margin.left}, ${margin.top})`)
+    .attr("class", "legend")
+    .attr("x", 10)
+    .attr("y", 25)
+    .attr("height", 100)
+    .attr("width", 100);
+
+    legend.selectAll('g').data([["Canada", "red"],["China","green"], ["France", "navyblue"], ["Germany", "gold"], ["Italy", "gray"], ["Japan", "burlywood"], ["United Kingdom", "darkred"], ["United States", "blue"]])
+      .enter()
+      .append('g')
+      .each(function(d, i) {
+        var g = d3.select(this);
+        g.append("rect")
+          .attr("x", 10)
+          .attr("y", i*25)
+          .attr("width", 10)
+          .attr("height", 10)
+          // .style("fill", color_hash[String(i)][1]);
+          .style("fill", d[1]);
+        g.append("text")
+          .attr("x", 25)
+          .attr("y", i * 25 + 8)
+          .attr("height",30)
+          .attr("width",100)
+          // .style("fill", color_hash[String(i)][1])
+          .text(d[0]);
+      });
