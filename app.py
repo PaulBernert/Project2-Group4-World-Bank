@@ -7,7 +7,7 @@ from flask import Flask, jsonify, render_template
 from sqlalchemy.schema import MetaData
 import pandas as pd
 
-postgresURI = 'postgres://qbtippmgaxwvdx:c2e2ab24300e16c3784f79c1f5a8d51c337bf153b64366cbabc4ed8b3c4ea8b3@ec2-34-197-188-147.compute-1.amazonaws.com:5432/d3pa0j53lfgp7k'
+postgresURI = 'postgres://drmuopvtbntcun:3a253535c0e64dd75c65c1c583f86f061c2163d5a041f9cc52b24e7891ede3b1@ec2-18-214-119-135.compute-1.amazonaws.com:5432/d5bbb9sf8mjm4h'
 
 app = Flask(__name__)
 app.config["SQLALCHEMY_DATABASE_URI"] = postgresURI
