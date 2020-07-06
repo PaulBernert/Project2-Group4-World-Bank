@@ -16,9 +16,10 @@ Base = automap_base()
 
 Base.prepare(db.engine, reflect=True)
 Base.classes.keys()
+
+# Hans' Stuff Below
+
 trade_t = Base.classes.trade_table
-
-
 trade_query = db.session.query(trade_t.reporter_name, trade_t._year, trade_t.trade_flow, trade_t.product_group, trade_t.trade_indicator, trade_t.total_dollars, trade_t.total_perc).all()
 db.session.close()
 
@@ -34,12 +35,7 @@ for trade_t.reporter_name, trade_t._year, trade_t.trade_flow, trade_t.product_gr
     results_dict["total_percent"] = trade_t.total_perc
     trade_results.append(results_dict)
 
-engine = create_engine('postgresql://postgres:postgres@localhost:5432/trade_data')
-session = Session(bind=engine)
-
-Base.prepare(engine, reflect=True)
-
-Base.classes.keys()
+# Sam's Stuff Below
 
 total_gdp_test = Base.classes.total_gdp_test
 session = Session(engine)

@@ -5,7 +5,7 @@
 -- Dumped from database version 12.2
 -- Dumped by pg_dump version 12.2
 
--- Started on 2020-07-05 18:46:21
+-- Started on 2020-07-05 21:00:22
 
 SET statement_timeout = 0;
 SET lock_timeout = 0;
@@ -58,7 +58,7 @@ CREATE SEQUENCE public.trade_table_id_seq
 ALTER TABLE public.trade_table_id_seq OWNER TO postgres;
 
 --
--- TOC entry 2823 (class 0 OID 0)
+-- TOC entry 2834 (class 0 OID 0)
 -- Dependencies: 203
 -- Name: trade_table_id_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: postgres
 --
@@ -67,7 +67,7 @@ ALTER SEQUENCE public.trade_table_id_seq OWNED BY public.trade_table.id;
 
 
 --
--- TOC entry 2687 (class 2604 OID 24739)
+-- TOC entry 2698 (class 2604 OID 24739)
 -- Name: trade_table id; Type: DEFAULT; Schema: public; Owner: postgres
 --
 
@@ -75,7 +75,7 @@ ALTER TABLE ONLY public.trade_table ALTER COLUMN id SET DEFAULT nextval('public.
 
 
 --
--- TOC entry 2816 (class 0 OID 24734)
+-- TOC entry 2827 (class 0 OID 24734)
 -- Dependencies: 202
 -- Data for Name: trade_table; Type: TABLE DATA; Schema: public; Owner: postgres
 --
@@ -4441,7 +4441,7 @@ Saudi Arabia	2018	Import	Wood	Micro Import (US$ Thousand)	3156471.484	2.3345	435
 
 
 --
--- TOC entry 2824 (class 0 OID 0)
+-- TOC entry 2835 (class 0 OID 0)
 -- Dependencies: 203
 -- Name: trade_table_id_seq; Type: SEQUENCE SET; Schema: public; Owner: postgres
 --
@@ -4450,7 +4450,7 @@ SELECT pg_catalog.setval('public.trade_table_id_seq', 4356, true);
 
 
 --
--- TOC entry 2689 (class 2606 OID 24741)
+-- TOC entry 2700 (class 2606 OID 24741)
 -- Name: trade_table trade_table_pkey; Type: CONSTRAINT; Schema: public; Owner: postgres
 --
 
@@ -4458,7 +4458,7 @@ ALTER TABLE ONLY public.trade_table
     ADD CONSTRAINT trade_table_pkey PRIMARY KEY (id);
 
 
--- Completed on 2020-07-05 18:46:21
+-- Completed on 2020-07-05 21:00:22
 
 --
 -- PostgreSQL database dump complete
