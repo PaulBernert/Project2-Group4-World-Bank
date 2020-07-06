@@ -16,21 +16,49 @@ function createDataSet(){
     var info_box = data.filter(data => data.reporter_name === ctry.value && data.year === yr.value && data.product_group == "  All Products")
     console.log(macro_chart_selection);
 
-    // Append test subject data to panel.   
-    var pbody = d3.select(".panel-default");
-    pbody.selectAll("h5").remove();
-    pbody.selectAll("h6").remove();
-    pbody.selectAll("p").remove();
-    pbody.append("h5").text(`Country: ${info_box[0].reporter_name} Year: ${yr.value}`); 
-    pbody.append("h6").text(`Total Import Value: ${info_box[0].total_dollars}`);
-    pbody.append("h6").text(`Total Export Value: ${info_box[1].total_dollars}`);
-    pbody.append("p").text(`Capitol Goods: ${macro_chart_selection[0].total_percent} %`)
-    pbody.append("p").text(`Consumer Goods: ${macro_chart_selection[1].total_percent} %`)
-    pbody.append("p").text(`Intermediate Goods: ${macro_chart_selection[2].total_percent} %`)
-    pbody.append("p").text(`Raw Materials: ${macro_chart_selection[3].total_percent} %`)
-    pbody.append("p").text(`Other: ${macro_chart_selection[4].total_percent} %`)
+     
+    var table_data = [{
+      Indicator: "Capitol Goods",
+      Percent: macro_chart_selection[0].total_percent,
+      Dollars: macro_chart_selection[0].total_dollars
+    },
+    {
+      Indicator: "Consumer Goods",
+      Percent: macro_chart_selection[1].total_percent,
+      Dollars: macro_chart_selection[1].total_dollars
+    },
+    {
+      Indicator: "Intermediate Goods",
+      Percent: macro_chart_selection[2].total_percent,
+      Dollars: macro_chart_selection[2].total_dollars
+    },
+    {
+      Indicator: "Raw Materials",
+      Percent: macro_chart_selection[3].total_percent,
+      Dollars: macro_chart_selection[3].total_dollars
+    },
+    {
+      Indicator: "Other",
+      Percent: macro_chart_selection[4].total_percent,
+      Dollars: macro_chart_selection[4].total_dollars
+    }
+    ];
+    
+    d3.select("tbody")
+      .selectAll("tr")
+      .remove()
+
+    d3.select("tbody")
+      .selectAll("tr")
+      .data(table_data)
+      .enter()
+      .append("tr")
+      .html(function(d) {
+        return `<td>${d.Indicator}</td><td>${d.Percent}</td><td>${d.Dollars}</td>`;
+      });
+
   
-    var result = {}
+    var chart_result = {}
     var currentKey;
     var currentVal;
     //console.log(selection[0].reporter_name);
@@ -43,11 +71,13 @@ function createDataSet(){
         for (var i = 0; i < keys.length; i++) {
             currentKey = keys;
             currentVal = values;
-            result[currentKey] = currentVal;
+            chart_result[currentKey] = currentVal;
         }
     });
   
-    console.log(result);
+    console.log(chart_result);
+
+
 
 
 // Reset the graph
@@ -78,7 +108,7 @@ var svg = d3.select(".chart")
   var pie = d3.pie()
     .sort(null) // Do not sort group by size
     .value(function(d) {return d.value; })
-  var data_ready = pie(d3.entries(result))
+  var data_ready = pie(d3.entries(chart_result))
 
   console.log(data_ready);
 
@@ -155,7 +185,7 @@ function loadYears(){
 }
 
 function loadCountry(){
-  var country = ["Australia", "Brazil", "Canada", "China", "France", "Germany", "Italy", "India", "Indonesia", "Japan","Mexico", "Russia", "Saudi Arabia", "South Korea", "Turkey", "United Kingdom", "United States"]
+  var country = ["Argentina", "Brazil", "Canada", "China", "France", "Germany", "Italy", "India", "Indonesia", "Japan","Mexico", "Russia", "Saudi Arabia", "South Korea", "Turkey", "United Kingdom", "United States"]
   var sel = document.getElementById("selCountry");
   for (var i=0; i<country.length; i++){
     var opt = document.createElement('option');
