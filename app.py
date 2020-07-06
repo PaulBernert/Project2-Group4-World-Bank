@@ -46,51 +46,50 @@ Base.prepare(engine, reflect=True)
 
 Base.classes.keys()
 
-total_gdp_test = Base.classes.total_gdp
+total_gdp = Base.classes.total_gdp
 session = Session(engine)
 
-total_gdp_test_query = session.query(total_gdp_test._indicator_type, total_gdp_test._year, total_gdp_test._canada,
-total_gdp_test._china, total_gdp_test._france, total_gdp_test._germany, total_gdp_test._italy, total_gdp_test._japan,
-total_gdp_test._united_kingdom, total_gdp_test._united_states).all()
+total_gdp_query = session.query(total_gdp.indicator_type, total_gdp.year, total_gdp.canada,
+total_gdp.china, total_gdp.france, total_gdp.germany, total_gdp.italy, total_gdp.japan,
+total_gdp.united_kingdom, total_gdp.united_states).all()
 session.close()
 
 gdp_results = []
-for total_gdp_test._indicator_type, total_gdp_test._year, total_gdp_test._canada, total_gdp_test._china, total_gdp_test._france, total_gdp_test._germany, total_gdp_test._italy, total_gdp_test._japan, total_gdp_test._united_kingdom, total_gdp_test._united_states in total_gdp_test_query:
+for total_gdp.indicator_type, total_gdp.year, total_gdp.canada, total_gdp.china, total_gdp.france, total_gdp.germany, total_gdp.italy, total_gdp.japan, total_gdp.united_kingdom, total_gdp.united_states in total_gdp_query:
         results_dict = {}
-        results_dict["indicator"] = total_gdp_test._indicator_type
-        results_dict["year"] = total_gdp_test._year
-        results_dict["canada"] = total_gdp_test._canada
-        results_dict["china"] =  total_gdp_test._china
-        results_dict["france"] = total_gdp_test._france
-        results_dict["germany"] = total_gdp_test._germany
-        results_dict["italy"] = total_gdp_test._italy
-        results_dict["japan"] =  total_gdp_test._japan
-        results_dict["united_kingdom"] = total_gdp_test._united_kingdom
-        results_dict["united_states"] =  total_gdp_test._united_states
+        results_dict["indicator"] = total_gdp.indicator_type
+        results_dict["year"] = total_gdp.year
+        results_dict["canada"] = total_gdp.canada
+        results_dict["china"] =  total_gdp.china
+        results_dict["france"] = total_gdp.france
+        results_dict["germany"] = total_gdp.germany
+        results_dict["italy"] = total_gdp.italy
+        results_dict["japan"] =  total_gdp.japan
+        results_dict["united_kingdom"] = total_gdp.united_kingdom
+        results_dict["united_states"] =  total_gdp.united_states
         gdp_results.append(results_dict)
 
-
-total_imports_test = Base.classes.total_imports
+total_imports = Base.classes.total_imports
 session = Session(engine)
 
-total_imports_test_query = session.query(total_imports_test.indicator_type, total_imports_test.year, total_imports_test.canada,
-total_imports_test.china, total_imports_test.france, total_imports_test.germany, total_imports_test.italy,
-total_imports_test.japan, total_imports_test.united_kingdom, total_imports_test.united_states).all()
+total_imports_query = session.query(total_imports.indicator_type, total_imports.year, total_imports.canada,
+total_imports.china, total_imports.france, total_imports.germany, total_imports.italy,
+total_imports.japan, total_imports.united_kingdom, total_imports.united_states).all()
 session.close()
 
 imports_results = []
-for total_imports_test.indicator_type, total_imports_test.year, total_imports_test.canada, total_imports_test.china, total_imports_test.france, total_imports_test.germany, total_imports_test.italy, total_imports_test.japan, total_imports_test.united_kingdom, total_imports_test.united_states in total_imports_test_query:
+for total_imports.indicator_type, total_imports.year, total_imports.canada, total_imports.china, total_imports.france, total_imports.germany, total_imports.italy, total_imports.japan, total_imports.united_kingdom, total_imports.united_states in total_imports_query:
     results_dict = {}
-    results_dict["indicator"] = total_imports_test.indicator_type
-    results_dict["year"] = total_imports_test.year
-    results_dict["canada"] = total_imports_test.canada
-    results_dict["china"] =  total_imports_test.china
-    results_dict["france"] = total_imports_test.france
-    results_dict["germany"] = total_imports_test.germany
-    results_dict["italy"] = total_imports_test.italy
-    results_dict["japan"] =  total_imports_test.japan
-    results_dict["united_kingdom"] = total_imports_test.united_kingdom
-    results_dict["united_states"] =  total_imports_test.united_states
+    results_dict["indicator"] = total_imports.indicator_type
+    results_dict["year"] = total_imports.year
+    results_dict["canada"] = total_imports.canada
+    results_dict["china"] =  total_imports.china
+    results_dict["france"] = total_imports.france
+    results_dict["germany"] = total_imports.germany
+    results_dict["italy"] = total_imports.italy
+    results_dict["japan"] =  total_imports.japan
+    results_dict["united_kingdom"] = total_imports.united_kingdom
+    results_dict["united_states"] =  total_imports.united_states
     imports_results.append(results_dict)
 
 country_exports = Base.classes.country_exports
