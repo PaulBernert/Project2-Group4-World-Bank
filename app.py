@@ -37,6 +37,15 @@ for trade_t.reporter_name, trade_t._year, trade_t.trade_flow, trade_t.product_gr
 
 # Sam's Stuff Below
 
+Base = automap_base()
+
+engine = create_engine(postgresURI)
+session = Session(bind=engine)
+
+Base.prepare(engine, reflect=True)
+
+Base.classes.keys()
+
 total_gdp_test = Base.classes.total_gdp
 session = Session(engine)
 
