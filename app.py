@@ -138,9 +138,6 @@ for country_growth.indicator_type, country_growth.year, country_growth.canada, c
     results_dict["united_states"] =  country_growth.united_states
     growth_results.append(results_dict)
 
-trade_balance_total = Base.classes.trade_balance_total
-session = Session(engine)
-
 @app.route("/")
 def index():
     return render_template('landing.html')
