@@ -37,7 +37,7 @@ for trade_t.reporter_name, trade_t._year, trade_t.trade_flow, trade_t.product_gr
 
 # Sam's Stuff Below
 
-total_gdp_test = Base.classes.total_gdp_test
+total_gdp_test = Base.classes.total_gdp
 session = Session(engine)
 
 total_gdp_test_query = session.query(total_gdp_test._indicator_type, total_gdp_test._year, total_gdp_test._canada,
@@ -61,7 +61,7 @@ for total_gdp_test._indicator_type, total_gdp_test._year, total_gdp_test._canada
         gdp_results.append(results_dict)
 
 
-total_imports_test = Base.classes.total_imports_test
+total_imports_test = Base.classes.total_imports
 session = Session(engine)
 
 total_imports_test_query = session.query(total_imports_test.indicator_type, total_imports_test.year, total_imports_test.canada,
