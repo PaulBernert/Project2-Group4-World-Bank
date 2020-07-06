@@ -252,7 +252,7 @@ function loadYears(){
 }
 
 function loadCountry(){
-  var country = ["Argentina", "Brazil", "Canada", "China", "France", "Germany", "Italy", "India", "Indonesia", "Japan","Mexico", "Russia", "Saudi Arabia", "South Korea", "Turkey", "United Kingdom", "United States"]
+  var country = ["Argentina", "Brazil", "Canada", "Germany", "Italy", "Russia", "Saudi Arabia", "United Kingdom", "United States"]
   var sel = document.getElementById("selCountry");
   for (var i=0; i<country.length; i++){
     var opt = document.createElement('option');

@@ -13,7 +13,7 @@ function createDataSet(){
     
     // Use filter statement to filter available data according to user selections.
     var macro_chart_selection = data.filter(data => data.reporter_name === ctry.value && data.year === yr.value && data.indicator == ind.value)
-    var info_box = data.filter(data => data.reporter_name === ctry.value && data.year === yr.value && data.product_group == "  All Products")
+    //var info_box = data.filter(data => data.reporter_name === ctry.value && data.year === yr.value && data.product_group == "  All Products")
     console.log(macro_chart_selection);
 
      
@@ -185,7 +185,7 @@ function loadYears(){
 }
 
 function loadCountry(){
-  var country = ["Argentina", "Brazil", "Canada", "China", "France", "Germany", "Italy", "India", "Indonesia", "Japan","Mexico", "Russia", "Saudi Arabia", "South Korea", "Turkey", "United Kingdom", "United States"]
+  var country = ["Argentina", "Brazil", "Canada", "Germany", "Italy", "Russia", "Saudi Arabia", "United Kingdom", "United States"]
   var sel = document.getElementById("selCountry");
   for (var i=0; i<country.length; i++){
     var opt = document.createElement('option');
