@@ -5,22 +5,22 @@ var map = document.getElementById("map");
 
 var gdpButton = document.getElementById("gdpButton");
 gdpButton.onclick = function() {
-  location.assign('http://127.0.0.1:5000/map-gdp')
+  location.assign('https://world-bank-project-2.herokuapp.com/map-gdp')
 }
 
 var popButton = document.getElementById("popButton");
 popButton.onclick = function() {
-  location.assign('http://127.0.0.1:5000/map-population')
+  location.assign('https://world-bank-project-2.herokuapp.com/map-population')
 }
 
 var tradeButton = document.getElementById("tradeButton");
 tradeButton.onclick = function() {
-  location.assign('http://127.0.0.1:5000/map-tradeBalance')
+  location.assign('https://world-bank-project-2.herokuapp.com/map-tradeBalance')
 }
 
 var gdpCapButton = document.getElementById("gdpCapButton");
 gdpCapButton.onclick = function() {
-  location.assign('http://127.0.0.1:5000/map-gdpPerCapita')
+  location.assign('https://world-bank-project-2.herokuapp.com/map-gdpPerCapita')
 }
 
 function highlightFeature(e) {

@@ -1,21 +1,21 @@
 var gdpButton = document.getElementById("gdpButton");
 gdpButton.onclick = function() {
-  location.assign('http://127.0.0.1:5000/gdp_chart')
+  location.assign('https://world-bank-project-2.herokuapp.com/gdp_chart')
 }
 
 var importsButton = document.getElementById("importsButton");
 importsButton.onclick = function() {
-  location.assign('http://127.0.0.1:5000/imports_chart')
+  location.assign('https://world-bank-project-2.herokuapp.com/imports_chart')
 }
 
 var exportsButton = document.getElementById("exportsButton");
 exportsButton.onclick = function() {
-  location.assign('http://127.0.0.1:5000/exports_chart')
+  location.assign('https://world-bank-project-2.herokuapp.com/exports_chart')
 }
 
 var growthButton = document.getElementById("growthButton");
 growthButton.onclick = function() {
-  location.assign('http://127.0.0.1:5000/country_growth_chart')
+  location.assign('https://world-bank-project-2.herokuapp.com/country_growth_chart')
 }
 
 console.log(imports_data);
