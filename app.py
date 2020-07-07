@@ -140,7 +140,7 @@ for country_growth.indicator_type, country_growth.year, country_growth.canada, c
 
 @app.route("/")
 def index():
-    return render_template('landing.html')
+    return render_template('landingPaul.html')
 
 @app.route("/doughnut")
 def mapMacroData():
@@ -181,6 +181,14 @@ def mapTradeBalance():
 @app.route("/map-gdpPerCapita")
 def mapGDPCAP():
     return render_template("worldMapGDPCap.html")
+
+@app.route("/map-data")
+def mapData():
+    df = pd.read_sql("""
+        SELECT *
+        FROM glancemapdb
+    """, engine)
+    return df.to_json(orient='records')
 
 if __name__ == "__main__":
     app.debug=True

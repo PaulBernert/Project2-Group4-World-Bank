@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>WITS | World Bank Project</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+
+<body>
+    <!-- Nav Bar -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <a class="navbar-brand" href="https://world-bank-project-2.herokuapp.com/">Home</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+    <!-- Create Links-->
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <!-- Create Maps Dropdown -->
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item dropdown active">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Maps</a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class = "nav-link" href="https://world-bank-project-2.herokuapp.com/map-gdp">GDP</a>
+                <a class = "nav-link" href="https://world-bank-project-2.herokuapp.com/map-population">Population</a>
+                <a class = "nav-link" href="https://world-bank-project-2.herokuapp.com/map-tradeBalance">Trade Balance</a>
+                <a class = "nav-link" href="https://world-bank-project-2.herokuapp.com/map-gdpPerCapita">GDP per Capita</a>
+              </div>
+          </li>
+
+          <!-- Create Doughnuts Links -->
+          <li class="nav-item dropdown active">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown2" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Dougnut Charts</a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class = "nav-link" href="https://world-bank-project-2.herokuapp.com/doughnut">Macro-Categories</a>
+                <a class = "nav-link" href="https://world-bank-project-2.herokuapp.com/doughnut2">Micro-Categories</a>
+              </div>
+          </li>
+
+          <!-- Create Line Chart Links -->
+          <li class="nav-item dropdown active">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown3" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Line Charts</a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class = "nav-link" href="https://world-bank-project-2.herokuapp.com/gdp_chart">GDP</a>
+                <a class = "nav-link" href="https://world-bank-project-2.herokuapp.com/imports_chart">Imports</a>
+                <a class = "nav-link" href="https://world-bank-project-2.herokuapp.com/exports_chart">Exports</a>
+                <a class = "nav-link" href="https://world-bank-project-2.herokuapp.com/country_growth_chart">Growth</a>
+              </div>
+          </li>
+
+          <li class="nav-item active">
+            <a class="nav-link" href="https://world-bank-project-2.herokuapp.com/map-data">Map Data</a>
+          </li>
+        </ul>
+    </div>
+    </nav>
+
+    <div class="jumbotron text-center">
+        <h1>World Integrated Trade Solution</h1>
+        <h3>World Bank</h3>
+        <h3>Click to explore the data.</h3>
+    </div>
+
+    <!--Create Containers-->
+    <div class="container">
+        <div class="row">
+            <div class="col-md-7">
+                <h1>About the Project</h1>
+                <hr>
+                <p>The World Integrated Trade Solution (WITS) website provides access to international merchandise trade, tariff and non-tariff measures (NTM) data.
+                However, the presentation of aggregate data on this site is not very intuitive. Our team saw this as an opportunity to use World Bank data and
+                present that information in a way that is more accessible to a general audience while continuing to maintain the original integrity of the
+                WITS website. </p>
+
+                <p>Our team, composed of Paul Bernert, Hans Engelbrecht and Sam Ettenson, welcome you to explore this site and explore the different methods we chose
+                for presenting international trade data. </p>
+            </div>
+
+            <div class="col-md-4">
+              <div class="text-center">
+                <h1>Visualizations</h1>
+                <h5>Leaflet World Map | Trade Information</h5>
+                  <a class="btn btn-primary btn-lg" href="https://world-bank-project-2.herokuapp.com/map-gdp" role="button">World Trade Interactive Map</a>
+                <h5>Interactive Doughnut Charts</h5>
+                  <a class="btn btn-primary btn-lg" href="https://world-bank-project-2.herokuapp.com/doughnut" role="button">Macro Categories</a>
+                  <a class="btn btn-primary btn-lg" href="https://world-bank-project-2.herokuapp.com/doughnut2" role="button">Micro Categories</a>
+                <h5>Time-Series Line Charts</h5>
+                  <a class="btn btn-primary btn-lg" href="https://world-bank-project-2.herokuapp.com/gdp_chart" role="button">GDP Line Chart</a>
+                  <a class="btn btn-primary btn-lg" href="https://world-bank-project-2.herokuapp.com/imports_chart" role="button">Imports Line Chart</a>
+                  <a class="btn btn-primary btn-lg" href="https://world-bank-project-2.herokuapp.com/exports_chart" role="button">Exports Line Chart</a>
+                  <a class="btn btn-primary btn-lg" href="https://world-bank-project-2.herokuapp.com/country_growth_chart" role="button">Country Growth Line Chart</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+</body>

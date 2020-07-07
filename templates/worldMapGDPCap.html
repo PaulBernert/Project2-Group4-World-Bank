@@ -20,15 +20,53 @@
   </head>
 
   <body>
-    <div class="menu">
-      <h5>Map Type:
-        <button id="gdpButton">GDP</button>
-        <button id="popButton">Population</button>
-        <button id="tradeButton">Trade Balance</button>
-        <button id="gdpCapButton">GDP per Capita</button>
-        <button onclick="window.location.href='https://world-bank-project-2.herokuapp.com/';">Home</button>
-      </h5>
+    <!-- Nav Bar -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <a class="navbar-brand" href="https://world-bank-project-2.herokuapp.com/">Home</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+    <!-- Create Links-->
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <!-- Create Maps Dropdown -->
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item dropdown active">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Maps</a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class = "nav-link" href="https://world-bank-project-2.herokuapp.com/map-gdp">GDP</a>
+                <a class = "nav-link" href="https://world-bank-project-2.herokuapp.com/map-population">Population</a>
+                <a class = "nav-link" href="https://world-bank-project-2.herokuapp.com/map-tradeBalance">Trade Balance</a>
+                <a class = "nav-link" href="https://world-bank-project-2.herokuapp.com/map-gdpPerCapita">GDP per Capita</a>
+              </div>
+          </li>
+
+          <!-- Create Doughnuts Links -->
+          <li class="nav-item dropdown active">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown2" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Dougnut Charts</a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class = "nav-link" href="https://world-bank-project-2.herokuapp.com/doughnut">Macro-Categories</a>
+                <a class = "nav-link" href="https://world-bank-project-2.herokuapp.com/doughnut2">Micro-Categories</a>
+              </div>
+          </li>
+
+          <!-- Create Line Chart Links -->
+          <li class="nav-item dropdown active">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown3" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Line Charts</a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class = "nav-link" href="https://world-bank-project-2.herokuapp.com/gdp_chart">GDP</a>
+                <a class = "nav-link" href="https://world-bank-project-2.herokuapp.com/imports_chart">Imports</a>
+                <a class = "nav-link" href="https://world-bank-project-2.herokuapp.com/exports_chart">Exports</a>
+                <a class = "nav-link" href="https://world-bank-project-2.herokuapp.com/country_growth_chart">Growth</a>
+              </div>
+          </li>
+
+          <li class="nav-item active">
+            <a class="nav-link" href="https://world-bank-project-2.herokuapp.com/map-data">Map Data</a>
+          </li>
+        </ul>
     </div>
+    </nav>
 
     <div id="map"></div>
 
