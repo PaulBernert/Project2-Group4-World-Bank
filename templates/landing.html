@@ -72,9 +72,24 @@
                 However, the presentation of aggregate data on this site is not very intuitive. Our team saw this as an opportunity to use World Bank data and
                 present that information in a way that is more accessible to a general audience while continuing to maintain the original integrity of the
                 WITS website. </p>
-
                 <p>Our team, composed of Paul Bernert, Hans Engelbrecht and Sam Ettenson, welcome you to explore this site and explore the different methods we chose
                 for presenting international trade data. </p>
+
+                <h1>Methodology</h1>
+                <hr>
+                <h5>Step One: ETL</h5>
+                <p>The data used in this project comes from the WITS website, where they have two CSVs that we used for the entirety of this project (Titled: "Countries at a Glance" and "Country Summaries").
+                After extracting the data, we used Python (in particular, the Pandas library) to transform the data to get it prepared for loading into our database. These transformations included category
+                renaming, altering the titles of countries (i.e. "United States" to "United States of America"), and other minor changes. The categories of data that were relevant for the respective graphs
+                were then sub-selected out, and a brand new dataframe of relevant content was created. That database was then loaded into Postgres, leading us to the next step.</p>
+                <h5>Step Two: Initialize Database</h5>
+                <p> Once the data was loaded into Postgres, we needed to create a connection between our Postgres database and the server where this website would be created--Heroku. This turned out to be
+                a very challenging and time-consuming task, as initializing a database within Heroku was not intuitive to our group despite reviewing the documentation. However, with this step completed, we
+                were finally able to move on to the final major step.</p>
+                <h5>Step Three: Data Analytics</h5>
+                <p> Each member of the team focused on a different set of analysis. Paul Bernert was responsible for taking relevant data and creating map visualizations that best represent global phenomenon.
+                Hans Engelbrecht was responsible for creating pie/doughnut charts that represent a country's import and export behavior for both macro- and micro-categories. Sam Ettenson was responsible for
+                creating visualizations that represent time-series data (data across a spectrum of time), opting for a line chart to show how countries change over time.
             </div>
 
             <div class="col-md-4">
