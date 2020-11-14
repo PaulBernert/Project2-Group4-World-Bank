@@ -1,12 +1,5 @@
 # World Bank's International Trade Visualization
 
-SUMMARY OF PROJECT HERE
-
-## Goals
-- First Objective
-- Second Objective
-- Third Objective
-
 ## Contributors
 [Paul Bernert](https://www.linkedin.com/in/paulbernert/)</br>
 [Hans Engelbrecht](https://github.com/Hans518)</br>
